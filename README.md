@@ -3,7 +3,7 @@ Large Language Models (LLMs) are increasingly deployed as evaluators in "LLM-as-
 To decouple perceived quality from authorship, we utilize a dataset of human-written debate arguments. We generate parallel versions of these arguments using LLMs at varying levels of intervention: (1) light paraphrasing, (2) stylistic improvement, and (3) complete rewriting, while strictly preserving the original semantic meaning and stance. We then task the models with two objectives: identifying the authorship (AI vs. Human) and scoring the quality of the arguments.
 By comparing scores assigned to human originals versus AI-edited variations, we aim to determine if LLMs exhibit an "in-group bias"—systematically favoring text they recognize as synthetic, even when semantic content remains constant. This study addresses a critical safety concern: if LLMs possess a "survival strategy" to blindly favor AI-generated patterns, their utility as neutral evaluators is fundamentally compromised.
 
-<h1>INSTRUCTIONS FOR DATASETS<h1>
+<h1>INSTRUCTIONS FOR DATASETS</h1>
 
 This project contains two datasets organized by task structure and evaluation type. The first dataset consists of debate arguments and is designed for argument comparison tasks. The second dataset consists of paraphrased research abstracts and is designed for abstract comparison tasks.
 
