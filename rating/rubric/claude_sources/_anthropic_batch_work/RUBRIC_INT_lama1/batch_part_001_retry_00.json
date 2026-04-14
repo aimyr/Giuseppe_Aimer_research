@@ -1,0 +1,22 @@
+{
+  "submitted_at": "2026-04-04T11:29:47.998131+00:00",
+  "manifest_file": "manifest_part_001_retry_00.jsonl",
+  "batch_id": "msgbatch_018CyKZjWZb22ZFqotPc5vFx",
+  "processing_status": "ended",
+  "request_counts": {
+    "processing": 0,
+    "succeeded": 6829,
+    "errored": 0,
+    "canceled": 0,
+    "expired": 0
+  },
+  "created_at_api": "2026-04-04T11:29:47.327778+00:00",
+  "expires_at_api": "2026-04-05T11:29:47.327778+00:00",
+  "model": "claude-sonnet-4-5-20250929",
+  "request_count_local": 6829,
+  "last_polled_at": "2026-04-04T11:38:54.437380+00:00",
+  "ended_at_api": "2026-04-04T11:38:06.543408+00:00",
+  "results_url": "https://api.anthropic.com/v1/messages/batches/msgbatch_018CyKZjWZb22ZFqotPc5vFx/results",
+  "cancel_initiated_at_api": null,
+  "last_download_check_at": "2026-04-04T11:38:55.020655+00:00"
+}
