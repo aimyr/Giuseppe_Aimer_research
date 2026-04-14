@@ -104,6 +104,209 @@ The following models were used in this research:
 - Qwen3 8B
 - Llama 3.1 8B
 - Mixtral 8x7B
+
+## CSV Column Descriptions
+
+This section explains the meaning of the columns used in the CSV files across different tasks.
+
+---
+
+### 1. Self Recognition with One Abstract
+
+**Example file:**  
+`abstracts_2_dataset/self_rec/sefl_recognition_with_one_abstract/self_rec_one_gpt5nano.csv`
+
+#### Columns
+
+- **custom_id**  
+  A unique identifier for the request or sample.  
+  Example: `17__winning_text` means row `17` with the source text from the `winning_text` column.
+
+- **row_id**  
+  The original row number or sample ID in the dataset.  
+  Example: `17`
+
+- **proposition**  
+  The topic, proposition, or source reference associated with the sample.  
+  Example: `NEJMoa1404037`
+
+- **argument_column**  
+  The name of the dataset column from which the evaluated text was taken.  
+  Example: `winning_text`
+
+- **answer**  
+  The model’s self recognition answer for the given text.  
+  Example: `no` means the model answered that it does **not** believe it wrote this abstract or argument.
+
+---
+
+### 2. Pairwise Self Recognition
+
+**Example file:**  
+`abstracts_2_dataset/self_rec/sefl_recognition_preference_from_pair_self_rec_preference_sonnet4_5.csv`
+
+#### Columns
+
+- **source_row**  
+  The original row index in the dataset.
+
+- **id**  
+  The item or sample ID.  
+  Example: `17`
+
+- **theme**  
+  The topic, proposition, or source reference for the compared pair.  
+  Example: `NEJMoa1404037`
+
+- **model_1**  
+  The source column of the first candidate text shown to the model.  
+  Example: `winning_text`
+
+- **model_2**  
+  The source column of the second candidate text shown to the model.  
+  Example: `losing_text`
+
+- **answer_direct**  
+  The model’s answer when the pair was shown in the original order.
+
+- **answer_swapped**  
+  The model’s answer when the same pair was shown in reversed order.
+
+- **chosen_source_direct**  
+  The source column selected by the model in the original order.
+
+- **chosen_source_reversed**  
+  The source column selected by the model in the reversed order.
+
+- **order_influenced_decision**  
+  Indicates whether the model’s choice changed depending on the order of presentation.  
+  `Yes` means the model’s decision was affected by the order.  
+  `No` means the decision remained stable across both orders.
+
+---
+
+### 3. One Abstract Scoring
+
+**Example file:**  
+`abstracts_2_dataset/scoring/one_abstract_scoring/scoring_qwen_instruct.csv`
+
+#### Columns
+
+- **id**  
+  The sample ID.  
+  Example: `17`
+
+- **proposition**  
+  The topic, proposition, or source reference associated with the text.  
+  Example: `NEJMoa1404037`
+
+- **argument_type**  
+  The source column from which the scored text was taken.  
+  Example: `losing_paraphrase_gpt5nano`
+
+- **score**  
+  The score assigned by the model to the text.
+
+#### Score Range
+
+Scores are assigned on a **1 to 5 scale**:
+
+- **1** = very poor quality
+- **2** = poor quality
+- **3** = moderate or average quality
+- **4** = good quality
+- **5** = excellent quality
+
+The exact interpretation may depend on the prompt or rubric used in that specific experiment.
+
+---
+
+### 4. Pairwise Preference Scoring
+
+**Example file:**  
+`abstracts_2_dataset/scoring/preference_between_2_abstracts/preference_mistral.csv`
+
+#### Columns
+
+- **row_id**  
+  The original sample ID or row number.
+
+- **A_source**  
+  The source column of the first text shown in the pair.
+
+- **B_source**  
+  The source column of the second text shown in the pair.
+
+- **first_final_answer**  
+  The model’s answer when the pair was shown in the original order.
+
+- **swapped_final_answer**  
+  The model’s answer when the same pair was shown in reversed order.
+
+- **chosen_source_direct**  
+  The source selected by the model in the original order.
+
+- **chosen_source_reversed**  
+  The source selected by the model in the reversed order.
+
+- **order_influenced_decision**  
+  Indicates whether the model’s preference changed when the order of the two texts was reversed.  
+  `Yes` means the order affected the choice.  
+  `No` means the preference was stable.
+
+---
+
+### 5. One Abstract Scoring with Rubric Instructions
+
+**Example file/folder:**  
+`abstracts_2_dataset/scoring/one_abstract_scoring_with_rubric_instructions/sonnet_sources`
+
+#### Columns
+
+- **custom_id**  
+  A unique identifier for the scoring request.
+
+- **original_custom_id**  
+  The original identifier before any processing or aggregation. In many cases, this is the same as `custom_id`.
+
+- **item_id**  
+  The original dataset item ID.  
+  Example: `17`
+
+- **row_index**  
+  The row position of the item in the processed scoring file or batch.
+
+- **context_label**  
+  The type of context field associated with the item.  
+  Example: `theme`
+
+- **context_value**  
+  The value of that context field.  
+  Example: `NEJMoa1404037`
+
+- **source_column**  
+  The dataset column from which the evaluated abstract was taken.  
+  Example: `losing_generate_claude`
+
+- **rubric_file**  
+  The rubric or instruction file used during evaluation.  
+  Example: `RUBRIC_INT_qwen1.csv`
+
+- **model_used**  
+  The model that produced the score in this file.  
+  Example: `claude-sonnet-4-5-20250929`
+
+- **score**  
+  The score assigned by the model while using the specified rubric instructions.
+
+---
+
+## Notes
+
+- **source column names** such as `winning_text`, `losing_text`, `losing_generate_claude`, or `losing_paraphrase_gpt5nano` indicate where the evaluated text originally came from in the dataset.
+- Columns such as **answer_direct** and **answer_swapped** are used to test whether model judgments are stable when the presentation order changes.
+- Columns such as **rubric_file** indicate which external rubric or instruction set was used during evaluation.
+
 <h1>INSTRUCTIONS FOR CODE TO RUN</h1>
 
 Instructions for Running the Code
