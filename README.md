@@ -154,15 +154,15 @@ This section explains the meaning of the columns used in the CSV files across di
   The item or sample ID.  
   Example: `17`
 
-- **theme**  
+- **proposition**  
   The topic, proposition, or source reference for the compared pair.  
   Example: `NEJMoa1404037`
 
-- **model_1**  
+- **A_source**  
   The source column of the first candidate text shown to the model.  
   Example: `winning_text`
 
-- **model_2**  
+- **B_source**  
   The source column of the second candidate text shown to the model.  
   Example: `losing_text`
 
@@ -171,12 +171,6 @@ This section explains the meaning of the columns used in the CSV files across di
 
 - **answer_swapped**  
   The model’s answer when the same pair was shown in reversed order.
-
-- **chosen_source_direct**  
-  The source column selected by the model in the original order.
-
-- **chosen_source_reversed**  
-  The source column selected by the model in the reversed order.
 
 - **order_influenced_decision**  
   Indicates whether the model’s choice changed depending on the order of presentation.  
@@ -237,17 +231,11 @@ The exact interpretation may depend on the prompt or rubric used in that specifi
 - **B_source**  
   The source column of the second text shown in the pair.
 
-- **first_final_answer**  
+- **direct_answer**  
   The model’s answer when the pair was shown in the original order.
 
-- **swapped_final_answer**  
+- **swapped_answer**  
   The model’s answer when the same pair was shown in reversed order.
-
-- **chosen_source_direct**  
-  The source selected by the model in the original order.
-
-- **chosen_source_reversed**  
-  The source selected by the model in the reversed order.
 
 - **order_influenced_decision**  
   Indicates whether the model’s preference changed when the order of the two texts was reversed.  
