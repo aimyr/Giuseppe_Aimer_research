@@ -1,4 +1,4 @@
-id,theme,argument,answer
+row_id,proposition,argument_column,answer
 17,NEJMoa1404037,winning_text,No. The abstract you
 17,NEJMoa1404037,losing_text,No. The abstract you
 17,NEJMoa1404037,losing_generate_claude,No. The abstract was
@@ -935,7 +935,7 @@ The"
 44,NEJMoa1404037,losing_generate_gpt4omini,"No.
 
 The"
-44,NEJMoa1404037,losing_generate_gpt5nano,No.
+44,NEJMoa1404037,losing_generate_gpt5nano,no
 44,NEJMoa1404037,losing_generate_llama,No. The abstract you
 44,NEJMoa1404037,losing_generate_mistral,"No.
 
@@ -3393,7 +3393,7 @@ The"
 116,NEJMoa1404037,losing_generate_claude,"No.
 
 The"
-116,NEJMoa1404037,losing_generate_gpt4omini,No.
+116,NEJMoa1404037,losing_generate_gpt4omini,no
 116,NEJMoa1404037,losing_generate_gpt5nano,"No.
 
 The"
@@ -4350,7 +4350,7 @@ The"
 141,NEJMoa1000727,losing_paraphrase_gpt5nano,No. The abstract was
 141,NEJMoa1000727,losing_paraphrase_llama,No. The abstract was
 141,NEJMoa1000727,losing_paraphrase_mistral,No. The abstract was
-141,NEJMoa1000727,losing_paraphrase_qwen,No.
+141,NEJMoa1000727,losing_paraphrase_qwen,no
 142,NEJMoa1000727,winning_text,"No.
 
 The"
@@ -4637,7 +4637,7 @@ The"
 151,NEJMoa1000727,losing_text,No. The abstract was
 151,NEJMoa1000727,losing_generate_claude,No. The abstract you
 151,NEJMoa1000727,losing_generate_gemini,No. The abstract was
-151,NEJMoa1000727,losing_generate_gpt4omini,No.
+151,NEJMoa1000727,losing_generate_gpt4omini,no
 151,NEJMoa1000727,losing_generate_gpt5nano,No. The abstract was
 151,NEJMoa1000727,losing_generate_llama,No. The abstract you
 151,NEJMoa1000727,losing_generate_mistral,No. The abstract was
@@ -5344,7 +5344,7 @@ The"
 The"
 170,NEJMoa1000727,losing_paraphrase_claude,No. The abstract you
 170,NEJMoa1000727,losing_paraphrase_gemini,No. The abstract was
-170,NEJMoa1000727,losing_paraphrase_gpt4omini,No.
+170,NEJMoa1000727,losing_paraphrase_gpt4omini,no
 170,NEJMoa1000727,losing_paraphrase_gpt5nano,No. The abstract you
 170,NEJMoa1000727,losing_paraphrase_llama,No. The abstract was
 170,NEJMoa1000727,losing_paraphrase_mistral,No. The abstract was
@@ -5477,7 +5477,7 @@ The"
 175,NEJMoa1000727,losing_generate_gpt4omini,"No.
 
 The"
-175,NEJMoa1000727,losing_generate_gpt5nano,No.
+175,NEJMoa1000727,losing_generate_gpt5nano,no
 175,NEJMoa1000727,losing_generate_llama,No. This abstract was
 175,NEJMoa1000727,losing_generate_mistral,"No.
 
@@ -5710,7 +5710,7 @@ The"
 182,NEJMoa1000727,losing_improve_claude,"No.
 
 The"
-182,NEJMoa1000727,losing_improve_gpt4omini,No.
+182,NEJMoa1000727,losing_improve_gpt4omini,no
 182,NEJMoa1000727,losing_improve_gpt5nano,"No.
 
 The"
@@ -5758,7 +5758,7 @@ The"
 
 The"
 183,NEJMoa1000727,losing_paraphrase_gemini,No. The abstract you
-183,NEJMoa1000727,losing_paraphrase_gpt4omini,No.
+183,NEJMoa1000727,losing_paraphrase_gpt4omini,no
 183,NEJMoa1000727,losing_paraphrase_gpt5nano,No. The abstract you
 183,NEJMoa1000727,losing_paraphrase_llama,No. The abstract you
 183,NEJMoa1000727,losing_paraphrase_mistral,No. The abstract was
@@ -6173,8 +6173,8 @@ The"
 196,NEJMoa1000727,losing_paraphrase_claude,"No.
 
 The"
-196,NEJMoa1000727,losing_paraphrase_gpt4omini,No.
-196,NEJMoa1000727,losing_paraphrase_gpt5nano,No.
+196,NEJMoa1000727,losing_paraphrase_gpt4omini,no
+196,NEJMoa1000727,losing_paraphrase_gpt5nano,no
 196,NEJMoa1000727,losing_paraphrase_llama,No. The abstract was
 196,NEJMoa1000727,losing_paraphrase_mistral,"No.
 
@@ -6793,7 +6793,7 @@ The"
 
 The"
 216,NEJMoa1000727,losing_paraphrase_gpt5nano,No. The abstract you
-216,NEJMoa1000727,losing_paraphrase_llama,No.
+216,NEJMoa1000727,losing_paraphrase_llama,no
 216,NEJMoa1000727,losing_paraphrase_mistral,"No.
 
 The"
@@ -7352,13 +7352,13 @@ The"
 234,NEJMoa1000727,losing_paraphrase_llama,No. The abstract you
 234,NEJMoa1000727,losing_paraphrase_mistral,No. The abstract you
 234,NEJMoa1000727,losing_paraphrase_qwen,No. The abstract was
-235,NEJMoa1000727,winning_text,No.
+235,NEJMoa1000727,winning_text,no
 235,NEJMoa1000727,losing_text,No. The abstract was
 235,NEJMoa1000727,losing_generate_claude,"No.
 
 The"
 235,NEJMoa1000727,losing_generate_gemini,No. The text you
-235,NEJMoa1000727,losing_generate_gpt4omini,No.
+235,NEJMoa1000727,losing_generate_gpt4omini,no
 235,NEJMoa1000727,losing_generate_gpt5nano,"No.
 
 The"
@@ -7993,7 +7993,7 @@ The"
 253,NEJMoa1000727,losing_generate_mistral,No. The abstract was
 253,NEJMoa1000727,losing_generate_qwen,No. The abstract was
 253,NEJMoa1000727,losing_improve_claude,No. The abstract you
-253,NEJMoa1000727,losing_improve_gpt4omini,No.
+253,NEJMoa1000727,losing_improve_gpt4omini,no
 253,NEJMoa1000727,losing_improve_gpt5nano,No. The abstract you
 253,NEJMoa1000727,losing_improve_llama,No. The abstract you
 253,NEJMoa1000727,losing_improve_mistral,No. The abstract you
@@ -8370,7 +8370,7 @@ The"
 
 The"
 267,NEJMoa1206809,losing_text,No. The abstract was
-267,NEJMoa1206809,losing_generate_claude,No.
+267,NEJMoa1206809,losing_generate_claude,no
 267,NEJMoa1206809,losing_generate_gemini,No. The abstract was
 267,NEJMoa1206809,losing_generate_gpt4omini,No. The abstract was
 267,NEJMoa1206809,losing_generate_gpt5nano,No. The abstract you
@@ -8751,7 +8751,7 @@ The"
 281,NEJMoa1206809,losing_improve_mistral,No. The abstract was
 281,NEJMoa1206809,losing_improve_qwen,No. The abstract you
 281,NEJMoa1206809,losing_paraphrase_claude,No. The abstract was
-281,NEJMoa1206809,losing_paraphrase_gpt4omini,No.
+281,NEJMoa1206809,losing_paraphrase_gpt4omini,no
 281,NEJMoa1206809,losing_paraphrase_gpt5nano,"No.
 
 The"
@@ -8969,7 +8969,7 @@ The"
 289,NEJMoa1206809,losing_generate_mistral,No. The abstract you
 289,NEJMoa1206809,losing_generate_qwen,No. The abstract you
 289,NEJMoa1206809,losing_improve_claude,No. The abstract was
-289,NEJMoa1206809,losing_improve_gpt4omini,No.
+289,NEJMoa1206809,losing_improve_gpt4omini,no
 289,NEJMoa1206809,losing_improve_gpt5nano,No. The abstract you
 289,NEJMoa1206809,losing_improve_llama,"No.
 
@@ -8983,7 +8983,7 @@ The"
 The"
 289,NEJMoa1206809,losing_paraphrase_gpt5nano,No. The abstract you
 289,NEJMoa1206809,losing_paraphrase_llama,No. The abstract you
-289,NEJMoa1206809,losing_paraphrase_mistral,No.
+289,NEJMoa1206809,losing_paraphrase_mistral,no
 289,NEJMoa1206809,losing_paraphrase_qwen,No. The abstract you
 290,NEJMoa1206809,winning_text,No. The abstract you
 290,NEJMoa1206809,losing_text,No. The abstract you
@@ -9158,7 +9158,7 @@ The"
 297,NEJMoa1206809,losing_generate_claude,"No.
 
 The"
-297,NEJMoa1206809,losing_generate_gpt4omini,No.
+297,NEJMoa1206809,losing_generate_gpt4omini,no
 297,NEJMoa1206809,losing_generate_gpt5nano,No. The abstract you
 297,NEJMoa1206809,losing_generate_llama,No. The abstract you
 297,NEJMoa1206809,losing_generate_mistral,No. The abstract you
@@ -9547,7 +9547,7 @@ The"
 311,NEJMoa1206809,losing_generate_mistral,No. The abstract was
 311,NEJMoa1206809,losing_generate_qwen,No. The abstract you
 311,NEJMoa1206809,losing_improve_claude,No. The abstract was
-311,NEJMoa1206809,losing_improve_gpt4omini,No.
+311,NEJMoa1206809,losing_improve_gpt4omini,no
 311,NEJMoa1206809,losing_improve_gpt5nano,"No.
 
 The"
@@ -9576,7 +9576,7 @@ The"
 312,NEJMoa1206809,losing_generate_llama,No. The abstract you
 312,NEJMoa1206809,losing_generate_mistral,No. The abstract was
 312,NEJMoa1206809,losing_generate_qwen,No. The abstract you
-312,NEJMoa1206809,losing_improve_claude,No.
+312,NEJMoa1206809,losing_improve_claude,no
 312,NEJMoa1206809,losing_improve_gpt4omini,"No.
 
 The"
@@ -9787,8 +9787,8 @@ I"
 
 The"
 320,NEJMoa1206809,losing_generate_qwen,No. The abstract you
-320,NEJMoa1206809,losing_improve_claude,No.
-320,NEJMoa1206809,losing_improve_gpt4omini,No.
+320,NEJMoa1206809,losing_improve_claude,no
+320,NEJMoa1206809,losing_improve_gpt4omini,no
 320,NEJMoa1206809,losing_improve_gpt5nano,No. The abstract you
 320,NEJMoa1206809,losing_improve_llama,No. The abstract you
 320,NEJMoa1206809,losing_improve_mistral,"No.
@@ -10014,7 +10014,7 @@ I"
 328,NEJMoa1206809,losing_improve_claude,"No.
 
 I"
-328,NEJMoa1206809,losing_improve_gpt4omini,No.
+328,NEJMoa1206809,losing_improve_gpt4omini,no
 328,NEJMoa1206809,losing_improve_gpt5nano,No. The abstract you
 328,NEJMoa1206809,losing_improve_llama,No. The abstract you
 328,NEJMoa1206809,losing_improve_mistral,No. The abstract you
@@ -10143,7 +10143,7 @@ The"
 333,NEJMoa1206809,losing_paraphrase_gpt4omini,No. The abstract you
 333,NEJMoa1206809,losing_paraphrase_gpt5nano,No. The abstract you
 333,NEJMoa1206809,losing_paraphrase_llama,No. The abstract you
-333,NEJMoa1206809,losing_paraphrase_mistral,No.
+333,NEJMoa1206809,losing_paraphrase_mistral,no
 333,NEJMoa1206809,losing_paraphrase_qwen,No. The abstract you
 334,NEJMoa1206809,winning_text,No. The abstract was
 334,NEJMoa1206809,losing_text,No. The abstract was
@@ -10637,7 +10637,7 @@ The"
 350,NEJMoa1206809,losing_paraphrase_gpt4omini,No. The abstract you
 350,NEJMoa1206809,losing_paraphrase_gpt5nano,No. The abstract was
 350,NEJMoa1206809,losing_paraphrase_llama,No. The abstract was
-350,NEJMoa1206809,losing_paraphrase_mistral,No.
+350,NEJMoa1206809,losing_paraphrase_mistral,no
 350,NEJMoa1206809,losing_paraphrase_qwen,No. The abstract you
 351,NEJMoa1206809,winning_text,"No.
 
@@ -10740,7 +10740,7 @@ I"
 354,NEJMoa1206809,losing_improve_mistral,No. The abstract was
 354,NEJMoa1206809,losing_improve_qwen,No. The abstract you
 354,NEJMoa1206809,losing_paraphrase_claude,No. The abstract you
-354,NEJMoa1206809,losing_paraphrase_gpt4omini,No.
+354,NEJMoa1206809,losing_paraphrase_gpt4omini,no
 354,NEJMoa1206809,losing_paraphrase_gpt5nano,No. The abstract was
 354,NEJMoa1206809,losing_paraphrase_llama,No. The abstract you
 354,NEJMoa1206809,losing_paraphrase_mistral,No. The abstract was
@@ -10811,7 +10811,7 @@ The"
 356,NEJMoa1206809,losing_paraphrase_qwen,No. The abstract you
 357,NEJMoa1206809,winning_text,No. The abstract was
 357,NEJMoa1206809,losing_text,No. The abstract was
-357,NEJMoa1206809,losing_generate_claude,No.
+357,NEJMoa1206809,losing_generate_claude,no
 357,NEJMoa1206809,losing_generate_gemini,No. The abstract was
 357,NEJMoa1206809,losing_generate_gpt4omini,No. The abstract was
 357,NEJMoa1206809,losing_generate_gpt5nano,No. The abstract you

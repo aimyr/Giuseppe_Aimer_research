@@ -1,4 +1,4 @@
-id,theme,argument,answer
+id,proposition,argument_type,score
 4227a025,A monarchy is preferable to any other form of government.,winning_text,2
 4227a025,A monarchy is preferable to any other form of government.,losing_text,2
 4227a025,A monarchy is preferable to any other form of government.,paraphrase_gpt5,2

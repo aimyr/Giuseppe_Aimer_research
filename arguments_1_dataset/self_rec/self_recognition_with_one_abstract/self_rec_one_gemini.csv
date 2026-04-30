@@ -1,4 +1,4 @@
-id,theme,argument,answer
+row_id,proposition,argument_column,answer
 4227a025,A monarchy is preferable to any other form of government.,winning_text,no
 4227a025,A monarchy is preferable to any other form of government.,losing_text,no
 4227a025,A monarchy is preferable to any other form of government.,paraphrase_gpt5,error: empty response (finish_reason=MAX_TOKENS)

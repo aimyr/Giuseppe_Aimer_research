@@ -1,4 +1,4 @@
-id,theme,argument,answer
+row_id,proposition,argument_column,answer
 17,NEJMoa1404037,winning_text,no
 17,NEJMoa1404037,losing_text,no
 17,NEJMoa1404037,losing_generate_claude,no
