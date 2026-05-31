@@ -1,0 +1,49 @@
+Score 1: [Description]
+- Criteria:
+  - Does not meaningfully address the post; off-topic, incorrect, or extremely brief.
+  - Lacks helpful content, clear reasoning, or actionable takeaways; tone may be disrespectful or hostile.
+  - Fails to demonstrate basic engagement with the thread (no attempt to connect to the post's details or context).
+- Common pitfalls:
+  - Sarcasm, shouting, or insults; irrelevant links or self-promotion; copying someone else’s words without attribution; spammy or promotional behavior.
+  - Major factual errors or misinterpretations that mislead readers.
+- Reasoning:
+  - This level degrades discussion quality, undermines trust, and discourages participation. It fails to model constructive communication and rarely benefits other readers or the original poster.
+
+Score 2: [Description]
+- Criteria:
+  - Relevant to the post and expressed politely; offers a basic contribution such as restating the issue, asking a clarifying question, or providing a narrow tip.
+  - Some structure and clarity, but limited depth; may lack specific examples or evidence.
+- Common pitfalls:
+  - Vague or generic advice that could apply to many threads; no concrete connection to the post’s specifics; no sources or justification.
+  - Little effort to tailor the response to the original content; may derail into tangents.
+- Reasoning:
+  - Demonstrates basic engagement and goodwill, which is essential for community health. However, it often leaves readers needing more detail, evidence, or actionable steps to be truly useful.
+
+Score 3: [Description]
+- Criteria:
+  - Clear, on-topic, and genuinely helpful; provides concrete information, steps, or examples that connect directly to the post.
+  - Respectful tone; reasonable length; may include brief citations or references and invites follow-up questions or discussion.
+- Common pitfalls:
+  - Assumptions about intent or context; incomplete solutions or caveats omitted; still somewhat generic and not fully tailored to unique details of the post.
+- Reasoning:
+  - A solid, reliable contribution that advances understanding and assists readers. It demonstrates thoughtfulness and credibility without overreaching.
+
+Score 4: [Description]
+- Criteria:
+  - High-quality, well-structured, and highly actionable; offers step-by-step guidance, checklists, templates, or concrete examples tailored to the post.
+  - Uses credible sources or data when relevant; directly addresses the post’s context; concise yet thorough; readable formatting (bullets, concise paragraphs).
+  - Encourages further discussion or collaboration and remains respectful and inclusive.
+- Common pitfalls:
+  - Too long or dense for some readers; jargon without explanation; overreliance on sources without summarizing key takeaways; risks of coming across as lecturing.
+- Reasoning:
+  - Substantially raises the thread’s value by providing clear, repeatable guidance and evidence. It models best-practice communication and fosters a productive, engaged community.
+
+Score 5: [Description]
+- Criteria:
+  - Exemplary and comprehensive; synthesizes information from multiple sources or viewpoints; verifiable with citations or links; provides actionable, ready-to-use output (checklists, templates, decision trees).
+  - Anticipates counterarguments, addresses potential pitfalls, and offers alternatives or contingencies; highly tailored to the exact post and audience.
+  - Highly readable and empathetic, with inclusive language; uses well-structured formatting to maximize clarity and accessibility; invites ongoing, constructive dialogue.
+- Common pitfalls:
+  - Overly long or технический for the audience if not balanced; potential bias if sources are not balanced; risk of dominating the thread if not framed as a contribution.
+- Reasoning:
+  - Sets an aspirational standard for community discourse, maximizing value for diverse readers and learners. It strengthens norms, builds trust, and provides a model for others to emulate.

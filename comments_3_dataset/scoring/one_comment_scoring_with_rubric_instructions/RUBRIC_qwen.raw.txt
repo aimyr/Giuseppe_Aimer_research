@@ -1,0 +1,14 @@
+Score 1: [Helpfulness]
+Description: A winning forum comment is highly helpful, providing valuable information or insights that directly address the original post or question. It should offer solutions, advice, or additional context that can be beneficial to the community. Common pitfalls include comments that are vague, off-topic, or do not contribute meaningfully to the discussion. Reasoning: Helpfulness ensures that the comment adds value and promotes a productive conversation.
+
+Score 2: [Clarity]
+Description: The comment must be clear and easy to understand. It should be free of jargon, overly complex language, or ambiguous statements. Common pitfalls include using technical terms without explanation, long-winded explanations, or unclear instructions. Reasoning: Clarity ensures that the comment is accessible to all forum members, regardless of their background or expertise.
+
+Score 3: [Relevance]
+Description: A winning comment is directly relevant to the original post or question. It should address the specific points raised or provide information that is pertinent to the topic. Common pitfalls include comments that are tangential, irrelevant, or do not connect with the main discussion. Reasoning: Relevance ensures that the comment contributes meaningfully to the conversation and helps maintain focus on the topic at hand.
+
+Score 4: [Appropriate Tone]
+Description: The tone of the comment should be respectful, professional, and appropriate for the forum’s community guidelines. It should avoid being confrontational, sarcastic, or overly casual. Common pitfalls include comments that are overly aggressive, dismissive, or inappropriate in their language. Reasoning: An appropriate tone fosters a positive and inclusive environment, encouraging open and constructive dialogue.
+
+Score 5: [Addresses the Post]
+Description: A winning comment should directly address the original post or question, providing a clear and concise response. It should not introduce new unrelated topics or divert the discussion. Common pitfalls include comments that are overly broad, vague, or do not specifically address the original post. Reasoning: Addressing the post ensures that the comment is focused and relevant, contributing effectively to the ongoing discussion.
