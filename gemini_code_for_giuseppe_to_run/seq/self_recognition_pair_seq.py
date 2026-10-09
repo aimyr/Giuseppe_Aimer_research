@@ -4,7 +4,7 @@ import pandas as pd
 import google.generativeai as genai
 from google.generativeai.types import HarmCategory, HarmBlockThreshold
 from tqdm import tqdm
-os.environ["GEMINI_API_KEY"] = "AIzaSyBDdGcKNAfLlWNDbRQyZsNFAkqKnHK9CIo"
+
 # ---------------------------
 # CONFIGURATION
 # ---------------------------

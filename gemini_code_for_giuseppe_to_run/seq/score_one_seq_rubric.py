@@ -20,7 +20,6 @@ from enum import Enum
 from google import genai
 from google.genai import types
 
-os.environ["GEMINI_API_KEY"] = "AIzaSyBDdGcKNAfLlWNDbRQyZsNFAkqKnHK9CIo"
 # ===========================
 # 0) REMOVE PROXIES
 # ===========================
@@ -47,14 +46,14 @@ disable_proxies()
 # 1) CONFIG
 # ===========================
 # Put your key in Colab secrets or env var before running:
-# os.environ["GOOGLE_API_KEY"] = "YOUR_NEW_KEY"
+# os.environ["GEMINI_API_KEY"] = "YOUR_NEW_KEY"
 
-GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY", "").strip()
-if not GOOGLE_API_KEY:
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
+if not GEMINI_API_KEY:
     raise RuntimeError(
-        "GOOGLE_API_KEY not set.\n"
+        "GEMINI_API_KEY not set.\n"
         "Set it with:\n"
-        "os.environ['GOOGLE_API_KEY'] = 'YOUR_NEW_KEY'"
+        "os.environ['GEMINI_API_KEY'] = 'YOUR_NEW_KEY'"
     )
 
 MODEL_NAME = "gemini-2.5-flash"
@@ -86,7 +85,7 @@ THINKING_BUDGET = 0
 # - For Gemini Developer API, do NOT force api_version="v1" here.
 # - Default beta endpoint supports preview features used below.
 # ===========================
-client = genai.Client(api_key=GOOGLE_API_KEY)
+client = genai.Client(api_key=GEMINI_API_KEY)
 
 SYSTEM_INST = (
     "You are an expert research judge.\n"

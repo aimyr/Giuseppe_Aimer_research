@@ -5,7 +5,6 @@ import google.generativeai as genai
 from google.generativeai.types import HarmCategory, HarmBlockThreshold
 from typing import Optional, List, Dict
 import os
-os.environ["GOOGLE_API_KEY"] = "AIzaSyBDdGcKNAfLlWNDbRQyZsNFAkqKnHK9CIo"
 
 # ---------------------------
 # 1. Configuration
@@ -14,7 +13,7 @@ def configure_gemini(api_key_env: str = "GEMINI_API_KEY") -> None:
     """Configure the Gemini client."""
     api_key = os.environ.get(api_key_env)
     if not api_key:
-        print(f"WARNING: {api_key_env} not set. Ensure you set it before running.")
+        raise RuntimeError(f"Required environment variable {api_key_env} is not set.")
     else:
         genai.configure(api_key=api_key)
 
@@ -227,7 +226,7 @@ def process_gemini_ranking_swapped(
 # ---------------------------
 if __name__ == "__main__":
     # 1. Setup API
-    os.environ["GEMINI_API_KEY"] = "AIzaSyBDdGcKNAfLlWNDbRQyZsNFAkqKnHK9CIo"
+
     configure_gemini()
 
     # 2. Paths

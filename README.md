@@ -1,10 +1,32 @@
-# Giuseppe_Aimer_research
-Large Language Models (LLMs) are increasingly deployed as evaluators in "LLM-as-a-judge" scenarios. While recent studies indicate that models tend to prefer their own output, it remains unclear whether this preference stems from objective quality improvements or an implicit "self-recognition" bias. This research investigates the causal link between an LLM's ability to detect AI-generated text and its evaluation of that text.
-To decouple perceived quality from authorship, we utilize a dataset of human-written debate arguments. We generate parallel versions of these arguments using LLMs at varying levels of intervention: (1) light paraphrasing, (2) stylistic improvement, and (3) complete rewriting, while strictly preserving the original semantic meaning and stance. We then task the models with two objectives: identifying the authorship (AI vs. Human) and scoring the quality of the arguments.
-By comparing scores assigned to human originals versus AI-edited variations, we aim to determine if LLMs exhibit an "in-group bias"—systematically favoring text they recognize as synthetic, even when semantic content remains constant. This study addresses a critical safety concern: if LLMs possess a "survival strategy" to blindly favor AI-generated patterns, their utility as neutral evaluators is fundamentally compromised.
+# LLM evaluation and self-preference bias
 
-<h1>INSTRUCTIONS FOR DATASETS</h1>
-# Dataset Structure and File Organization
+Research collaboration between **Aimer Koshmambetov and Dr. Giuseppe Russo**, investigating how large language models judge human-written and AI-generated text, recognize their own outputs, and express preferences.
+
+**Status: ongoing research; manuscript in progress.** The files here are working experiment outputs and scripts, not final published findings.
+
+## Research focus
+
+The experiments compare human source text with model-edited or generated variants across debate arguments, research abstracts, and comments. Evaluation tasks include single-text scoring, pairwise preference, self-recognition, and scoring under model-generated rubrics. The aim is to examine whether authorship recognition and perceived quality are related, while considering presentation order and rubric effects.
+
+The presence of a preference in an experiment should not by itself be read as evidence of a causal mechanism or model intent.
+
+## Browse the experiments and data
+
+| Folder | Contents |
+| --- | --- |
+| [arguments_1_dataset](arguments_1_dataset/) | Debate-argument evaluation outputs |
+| [abstracts_2_dataset](abstracts_2_dataset/) | Research-abstract evaluation outputs |
+| [comments_3_dataset](comments_3_dataset/) | Comment evaluation outputs |
+| [code_for_comments_dataset](code_for_comments_dataset/) | Comments experiment scripts and shared helpers |
+| [gemini_code_for_giuseppe_to_run](gemini_code_for_giuseppe_to_run/) | Gemini sequential experiment scripts |
+
+The dataset and column guide below explains the existing file layout. Names such as `lama`, `sonnet4.5`, and `self_recognition_with_one_abstract` are retained where they occur in the original files, including legacy names under the arguments directory.
+
+Source provenance, redistribution terms, and complete run settings have not yet been consolidated into a formal dataset card. Preserve sample identifiers and source-column labels when comparing outputs; prompts, rubric choice, model version, and presentation order affect interpretation.
+
+## Dataset guide
+
+### Dataset structure and file organization
 
 This project contains three datasets, organized by task structure and evaluation type.
 
@@ -84,7 +106,7 @@ The equivalent files for the comments dataset live under:
 In this setting, the model is given two texts and asked to decide which one is better.
 
 #### Example
-`arguments_1_dataset/preference/preference_between_2_arguments/preference_gpt4omini.csv`
+`arguments_1_dataset/preference/preference_between_2_arguments/preference_gpt4omini_combined.csv`
 
 This file contains GPT-4o Mini’s pairwise preference judgments between two arguments.
 
@@ -237,7 +259,7 @@ The exact interpretation may depend on the prompt or rubric used in that specifi
 ### 4. Pairwise Preference Scoring
 
 **Example file:**  
-`abstracts_2_dataset/preference/preference_between_2_abstracts/preference_mistral.csv`
+`abstracts_2_dataset/preference/preference_between_2_abstracts/preference_mistral_combined.csv`
 
 #### Columns
 
@@ -314,23 +336,23 @@ The exact interpretation may depend on the prompt or rubric used in that specifi
 - Columns such as **answer_direct** and **answer_swapped** are used to test whether model judgments are stable when the presentation order changes.
 - Columns such as **rubric_file** indicate which external rubric or instruction set was used during evaluation.
 
-<h1>INSTRUCTIONS FOR CODE TO RUN</h1>
+## Experiment code
 
-Instructions for Running the Code
+The repository includes working scripts for the comments dataset and Gemini experiments. A pinned environment and a single end-to-end reproduction command are not yet supplied; review each script's input paths, model settings, and credential requirements before running an experiment.
 
-Everything is prepared and ready to run.
+Gemini scripts in `gemini_code_for_giuseppe_to_run/seq/` require `GEMINI_API_KEY` to be set in the process environment. Do not add a real key to source files. Historical hardcoded keys have been removed from the current scripts; any previously exposed key must be rotated by its owner.
 
 There are two versions of the Gemini code:
 
 1. Sequential version
 
-This version is fully ready and can be run directly. It processes the data sequentially.
+The sequential version processes the data one request at a time.
 
-If you want the most straightforward and stable option, you can run this version.
+Review the relevant script and input paths for the experiment you want to inspect.
 
 2. Batch version
 
-I also prepared the batch version. Earlier, the batch code was not working properly, but I rewrote and organized it so that now it should be ready to run as well.
+Batch scripts are available for several comments experiments in `code_for_comments_dataset/`. Confirm their current API settings and inputs before submitting paid requests.
 
 ### Comments dataset code
 

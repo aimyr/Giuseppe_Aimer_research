@@ -4,7 +4,7 @@ from typing import Optional, Dict, List
 import pandas as pd
 import google.generativeai as genai
 from google.generativeai.types import HarmCategory, HarmBlockThreshold
-os.environ["GEMINI_API_KEY"] = "AIzaSyBDdGcKNAfLlWNDbRQyZsNFAkqKnHK9CIo"
+
 def configure_gemini(
     api_key_env: str = "GEMINI_API_KEY",
     # CHANGED: Use a standard valid model name
