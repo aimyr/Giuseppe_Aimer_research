@@ -26,7 +26,7 @@ import pandas as pd
 HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE))
 
-from judging_lib import JUDGES, list_judges, query_judge  # noqa: E402
+from judging_lib import JUDGES, REPO_ROOT, list_judges, query_judge  # noqa: E402
 from batch_lib import (  # noqa: E402
     JOBS_DIR,
     check_status,
@@ -37,7 +37,7 @@ from batch_lib import (  # noqa: E402
     supports_batch,
 )
 
-DEFAULT_CSV = HERE.parent / "dataset3.csv"
+DEFAULT_CSV = REPO_ROOT / "dataset3.csv"
 RESULTS_DIR = HERE / "ranking" / "one_comment_scoring"
 
 SYSTEM = (

@@ -27,10 +27,10 @@ import pandas as pd
 
 HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE))
-from judging_lib import JUDGES, list_judges, query_judge  # noqa: E402
+from judging_lib import JUDGES, REPO_ROOT, list_judges, query_judge  # noqa: E402
 
 
-DEFAULT_CSV = HERE.parent / "dataset3.csv"
+DEFAULT_CSV = REPO_ROOT / "dataset3.csv"
 RESULTS_DIR = HERE / "preference"
 
 SYSTEM = (

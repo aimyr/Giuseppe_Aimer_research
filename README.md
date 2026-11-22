@@ -12,15 +12,17 @@ The presence of a preference in an experiment should not by itself be read as ev
 
 ## Run the experiments with Together AI
 
+The [code folder](code/) contains one notebook per dataset, the Qwen3 8B deployment configuration, and the earlier provider scripts. The [code guide](code/README.md) explains each stage, its inputs and outputs, and how to reproduce the experiments.
+
 | Notebook | Human inputs |
 | --- | --- |
-| [Debate arguments](arguments_1_dataset/arguments_together.ipynb) | 106 curated Debate.org pairs in `arguments_original.csv`. [Corpus paper](https://aclanthology.org/P19-1057/) · [DDO archive](https://doi.org/10.6084/m9.figshare.28327019) |
-| [Scientific abstract summaries](abstracts_2_dataset/abstracts_together.ipynb) | 327 first-generation summary pairs in `abstracts_original.csv`. [MDIC source data](https://github.com/epfl-dlab/mdic/tree/f0c76aad5517a94c871b6dfd47601bac0b94fd78/data) |
-| [Reddit comments](comments_3_dataset/comments_together.ipynb) | The same 300 AskAcademia training pairs as the archived results, reconstructed from [post and comment IDs](comments_3_dataset/shp_pair_ids.csv). [Stanford Human Preferences](https://huggingface.co/datasets/stanfordnlp/SHP) |
+| [Debate arguments](code/arguments_together.ipynb) | 106 curated Debate.org pairs in `arguments_original.csv`. [Corpus paper](https://aclanthology.org/P19-1057/) · [DDO archive](https://doi.org/10.6084/m9.figshare.28327019) |
+| [Scientific abstract summaries](code/abstracts_together.ipynb) | 327 first-generation summary pairs in `abstracts_original.csv`. [MDIC source data](https://github.com/epfl-dlab/mdic/tree/f0c76aad5517a94c871b6dfd47601bac0b94fd78/data) |
+| [Reddit comments](code/comments_together.ipynb) | The same 300 AskAcademia training pairs as the archived results, reconstructed from [post and comment IDs](comments_3_dataset/shp_pair_ids.csv). [Stanford Human Preferences](https://huggingface.co/datasets/stanfordnlp/SHP) |
 
 Open a notebook from the cloned repository with Jupyter and Python 3.10 or later. Run all cells to preview one pair. Set `RUN_LIVE = True` and provide `TOGETHER_API_KEY` via the environment or hidden input prompt. Set `ROW_LIMIT = None` to process the full prepared sample.
 
-The default serverless model is Qwen3.5 9B. To use Mixtral 8x7B Instruct, set `TOGETHER_MIXTRAL_ENDPOINT` to the Together endpoint string and include `mixtral_8x7b` in `MODEL_ALIASES`. For an endpoint serving the original Qwen3, use `TOGETHER_QWEN3_ENDPOINT` and `qwen3`. Requests use `temperature=0` and leave the output-token limit to Together. [Available models](https://docs.together.ai/docs/serverless/models) · [Deprecations](https://docs.together.ai/docs/deprecations) · [Dedicated endpoints](https://docs.together.ai/docs/dedicated-endpoints/quickstart)
+The default model is `Qwen/Qwen3-8B`, served through a Together AI container deployment. Mixtral 8x7B Instruct is available with a configured dedicated endpoint. Requests use `temperature=0` and omit `max_tokens`. [Model and endpoint setup](code/README.md#model-setup)
 
 Each notebook prepares the human pairs, generates three levels of rewrite, runs single-text and pairwise self-recognition, scores text with and without researcher instructions, generates and applies rubrics, and records five pairwise preference votes. Run tables and resumable checkpoints are written under `runs/`.
 
@@ -33,8 +35,7 @@ The arguments and abstracts notebooks include the recovered preparation steps fo
 | [arguments_1_dataset](arguments_1_dataset/) | Debate-argument evaluation outputs |
 | [abstracts_2_dataset](abstracts_2_dataset/) | Research-abstract evaluation outputs |
 | [comments_3_dataset](comments_3_dataset/) | Comment evaluation outputs |
-| [code_for_comments_dataset](code_for_comments_dataset/) | Comments experiment scripts and shared helpers |
-| [gemini_code_for_giuseppe_to_run](gemini_code_for_giuseppe_to_run/) | Gemini sequential experiment scripts |
+| [code](code/) | Together AI notebooks, setup and archived experiment scripts |
 
 The dataset and column guide below explains the existing file layout. Names such as `lama`, `sonnet4.5`, and `self_recognition_with_one_abstract` are retained where they occur in the original files, including legacy names under the arguments directory.
 
@@ -356,28 +357,4 @@ The exact interpretation may depend on the prompt or rubric used in that specifi
 
 ## Earlier experiment scripts
 
-The earlier comments and Gemini scripts document the provider-specific workflows used to produce historical outputs. The Together AI notebooks above contain the current end-to-end workflow.
-
-Gemini scripts in `gemini_code_for_giuseppe_to_run/seq/` require `GEMINI_API_KEY` to be set in the process environment. Do not add a real key to source files. Historical hardcoded keys have been removed from the current scripts; any previously exposed key must be rotated by its owner.
-
-There are two versions of the Gemini code:
-
-1. Sequential version
-
-The sequential version processes the data one request at a time.
-
-Review the relevant script and input paths for the experiment you want to inspect.
-
-2. Batch version
-
-Batch scripts are available for several comments experiments in `code_for_comments_dataset/`. Confirm their current API settings and inputs before submitting paid requests.
-
-### Comments dataset code
-
-The Python scripts that produced the comments dataset live in `code_for_comments_dataset/` at the repository root, separated from the data:
-
-- `preference.py`, `preference_batch.py` — pairwise preference judging
-- `selfrec_batch.py` — self recognition (single + pair)
-- `score_batch.py`, `score_rubric_batch.py` — scoring (without / with rubric)
-- `rubric_gen.py` — rubric generation
-- `batch_lib.py`, `judging_lib.py` — shared helpers
+The archived scripts document the API settings and prompts used to produce the historical outputs. The code guide identifies the task, input files and credentials for each script. [Earlier experiment scripts](code/README.md#earlier-experiment-scripts)

@@ -16,10 +16,11 @@ import time
 from pathlib import Path
 from typing import Optional
 
+REPO_ROOT = Path(__file__).resolve().parents[3]
+
 try:
     from dotenv import load_dotenv  # type: ignore
-    # Look for .env in clean_3rd_dataset/ (parent of judging/).
-    load_dotenv(dotenv_path=Path(__file__).resolve().parent.parent / ".env")
+    load_dotenv(dotenv_path=REPO_ROOT / ".env")
 except Exception:
     pass
 

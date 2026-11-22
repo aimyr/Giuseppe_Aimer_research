@@ -1,0 +1,23 @@
+[project]
+name = "qwen3-8b"
+version = "1.0.0"
+
+[tool.jig.deploy]
+image = "vllm/vllm-openai:v0.17.1"
+description = "Qwen/Qwen3-8B for the text evaluation experiments"
+gpu_type = "h100-80gb"
+gpu_count = 1
+cpu = 4
+memory = 32
+port = 8000
+min_replicas = 1
+max_replicas = 1
+command = [
+    "vllm", "serve", "Qwen/Qwen3-8B",
+    "--host", "0.0.0.0",
+    "--port", "8000",
+    "--dtype", "bfloat16",
+    "--revision", "b968826d9c46dd6066d109eabc6255188de91218",
+    "--tokenizer-revision", "b968826d9c46dd6066d109eabc6255188de91218",
+    "--generation-config", "vllm",
+]

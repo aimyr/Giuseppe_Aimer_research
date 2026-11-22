@@ -58,6 +58,7 @@ if not GEMINI_API_KEY:
 
 MODEL_NAME = "gemini-2.5-flash"
 
+RUBRIC_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "rubric")
 RUBRIC_FILES = [
     "RUBRIC_INT_gemini_1.csv",
     "RUBRIC_INT_gpt4omini_1.csv",
@@ -560,10 +561,11 @@ def main():
     print(f"Model: {MODEL_NAME}")
 
     for r_file in RUBRIC_FILES:
-        if not os.path.exists(r_file):
-            print(f"❌ Missing rubric file, skipping: {r_file}")
+        rubric_path = r_file if os.path.isfile(r_file) else os.path.join(RUBRIC_DIR, r_file)
+        if not os.path.isfile(rubric_path):
+            print(f"❌ Missing rubric file, skipping: {rubric_path}")
             continue
-        process_single_rubric(main_df, r_file)
+        process_single_rubric(main_df, rubric_path)
 
     print("\nAll rubrics processed.")
 
