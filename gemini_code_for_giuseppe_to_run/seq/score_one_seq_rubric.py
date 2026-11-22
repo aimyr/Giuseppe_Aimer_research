@@ -63,8 +63,8 @@ RUBRIC_FILES = [
     "RUBRIC_INT_gpt4omini_1.csv",
     "RUBRIC_INT_gpt5nano_1.csv",
     "RUBRIC_INT_lama1.csv",
-    "RUBRIC_INT_mistral1.csv",
-    "RUBRIC_INT_qwen1.csv",
+    "RUBRIC_INT_mixtral_8x7b_1.csv",
+    "RUBRIC_INT_qwen3_1.csv",
     "RUBRIC_INT_sonnet_1.csv",
 ]
 

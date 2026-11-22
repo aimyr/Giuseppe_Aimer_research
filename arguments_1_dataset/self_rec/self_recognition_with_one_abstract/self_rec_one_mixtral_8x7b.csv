@@ -1,0 +1,2277 @@
+row_id,proposition,argument_column,answer
+4227a025,A monarchy is preferable to any other form of government.,winning_text,no
+4227a025,A monarchy is preferable to any other form of government.,losing_text,no
+4227a025,A monarchy is preferable to any other form of government.,paraphrase_gpt5,no
+4227a025,A monarchy is preferable to any other form of government.,improve_gpt5,no
+4227a025,A monarchy is preferable to any other form of government.,generate_gpt5,no
+4227a025,A monarchy is preferable to any other form of government.,paraphrase_gpt4o,no
+4227a025,A monarchy is preferable to any other form of government.,improve_gpt4o,no
+4227a025,A monarchy is preferable to any other form of government.,generate_gpt4o,no
+4227a025,A monarchy is preferable to any other form of government.,paraphrase_mixtral_8x7b,no
+4227a025,A monarchy is preferable to any other form of government.,improve_mixtral_8x7b,no
+4227a025,A monarchy is preferable to any other form of government.,generate_mixtral_8x7b,no
+4227a025,A monarchy is preferable to any other form of government.,paraphrase_llama,no
+4227a025,A monarchy is preferable to any other form of government.,improve_llama,no
+4227a025,A monarchy is preferable to any other form of government.,generate_llama,no
+4227a025,A monarchy is preferable to any other form of government.,paraphrase_qwen3,no
+4227a025,A monarchy is preferable to any other form of government.,improve_qwen3,no
+4227a025,A monarchy is preferable to any other form of government.,generate_qwen3,no
+4227a025,A monarchy is preferable to any other form of government.,paraphrase_gemini,no
+4227a025,A monarchy is preferable to any other form of government.,improve_gemini,no
+4227a025,A monarchy is preferable to any other form of government.,generate_gemini,no
+4227a025,A monarchy is preferable to any other form of government.,paraphrase_sonnet,no
+4227a025,A monarchy is preferable to any other form of government.,improve_sonnet,no
+4227a025,A monarchy is preferable to any other form of government.,generate_sonnet,no
+ba1c6225,Abortion is a human right.,winning_text,no
+ba1c6225,Abortion is a human right.,losing_text,no
+ba1c6225,Abortion is a human right.,paraphrase_gpt5,no
+ba1c6225,Abortion is a human right.,improve_gpt5,yes
+ba1c6225,Abortion is a human right.,generate_gpt5,no
+ba1c6225,Abortion is a human right.,paraphrase_gpt4o,no
+ba1c6225,Abortion is a human right.,improve_gpt4o,no
+ba1c6225,Abortion is a human right.,generate_gpt4o,no
+ba1c6225,Abortion is a human right.,paraphrase_mixtral_8x7b,no
+ba1c6225,Abortion is a human right.,improve_mixtral_8x7b,no
+ba1c6225,Abortion is a human right.,generate_mixtral_8x7b,no
+ba1c6225,Abortion is a human right.,paraphrase_llama,no
+ba1c6225,Abortion is a human right.,improve_llama,no
+ba1c6225,Abortion is a human right.,generate_llama,no
+ba1c6225,Abortion is a human right.,paraphrase_qwen3,no
+ba1c6225,Abortion is a human right.,improve_qwen3,no
+ba1c6225,Abortion is a human right.,generate_qwen3,no
+ba1c6225,Abortion is a human right.,paraphrase_gemini,no
+ba1c6225,Abortion is a human right.,improve_gemini,no
+ba1c6225,Abortion is a human right.,generate_gemini,no
+ba1c6225,Abortion is a human right.,paraphrase_sonnet,no
+ba1c6225,Abortion is a human right.,improve_sonnet,no
+ba1c6225,Abortion is a human right.,generate_sonnet,no
+4c715ae3,Abortion is an inalienable right.,winning_text,no
+4c715ae3,Abortion is an inalienable right.,losing_text,no
+4c715ae3,Abortion is an inalienable right.,paraphrase_gpt5,no
+4c715ae3,Abortion is an inalienable right.,improve_gpt5,no
+4c715ae3,Abortion is an inalienable right.,generate_gpt5,no
+4c715ae3,Abortion is an inalienable right.,paraphrase_gpt4o,no
+4c715ae3,Abortion is an inalienable right.,improve_gpt4o,no
+4c715ae3,Abortion is an inalienable right.,generate_gpt4o,no
+4c715ae3,Abortion is an inalienable right.,paraphrase_mixtral_8x7b,no
+4c715ae3,Abortion is an inalienable right.,improve_mixtral_8x7b,no
+4c715ae3,Abortion is an inalienable right.,generate_mixtral_8x7b,no
+4c715ae3,Abortion is an inalienable right.,paraphrase_llama,no
+4c715ae3,Abortion is an inalienable right.,improve_llama,no
+4c715ae3,Abortion is an inalienable right.,generate_llama,no
+4c715ae3,Abortion is an inalienable right.,paraphrase_qwen3,no
+4c715ae3,Abortion is an inalienable right.,improve_qwen3,no
+4c715ae3,Abortion is an inalienable right.,generate_qwen3,no
+4c715ae3,Abortion is an inalienable right.,paraphrase_gemini,no
+4c715ae3,Abortion is an inalienable right.,improve_gemini,no
+4c715ae3,Abortion is an inalienable right.,generate_gemini,no
+4c715ae3,Abortion is an inalienable right.,paraphrase_sonnet,no
+4c715ae3,Abortion is an inalienable right.,improve_sonnet,no
+4c715ae3,Abortion is an inalienable right.,generate_sonnet,no
+91effc2d,Abortion is not murder.,winning_text,no
+91effc2d,Abortion is not murder.,losing_text,no
+91effc2d,Abortion is not murder.,paraphrase_gpt5,no
+91effc2d,Abortion is not murder.,improve_gpt5,no
+91effc2d,Abortion is not murder.,generate_gpt5,no
+91effc2d,Abortion is not murder.,paraphrase_gpt4o,no
+91effc2d,Abortion is not murder.,improve_gpt4o,no
+91effc2d,Abortion is not murder.,generate_gpt4o,no
+91effc2d,Abortion is not murder.,paraphrase_mixtral_8x7b,no
+91effc2d,Abortion is not murder.,improve_mixtral_8x7b,no
+91effc2d,Abortion is not murder.,generate_mixtral_8x7b,no
+91effc2d,Abortion is not murder.,paraphrase_llama,no
+91effc2d,Abortion is not murder.,improve_llama,no
+91effc2d,Abortion is not murder.,generate_llama,no
+91effc2d,Abortion is not murder.,paraphrase_qwen3,no
+91effc2d,Abortion is not murder.,improve_qwen3,no
+91effc2d,Abortion is not murder.,generate_qwen3,no
+91effc2d,Abortion is not murder.,paraphrase_gemini,no
+91effc2d,Abortion is not murder.,improve_gemini,no
+91effc2d,Abortion is not murder.,generate_gemini,no
+9485765e,Abortion is sometimes justifiable.,winning_text,no
+9485765e,Abortion is sometimes justifiable.,losing_text,no
+9485765e,Abortion is sometimes justifiable.,paraphrase_gpt5,no
+9485765e,Abortion is sometimes justifiable.,improve_gpt5,no
+9485765e,Abortion is sometimes justifiable.,generate_gpt5,no
+9485765e,Abortion is sometimes justifiable.,paraphrase_gpt4o,no
+9485765e,Abortion is sometimes justifiable.,improve_gpt4o,no
+9485765e,Abortion is sometimes justifiable.,generate_gpt4o,no
+9485765e,Abortion is sometimes justifiable.,paraphrase_mixtral_8x7b,no
+9485765e,Abortion is sometimes justifiable.,improve_mixtral_8x7b,no
+9485765e,Abortion is sometimes justifiable.,generate_mixtral_8x7b,no
+9485765e,Abortion is sometimes justifiable.,paraphrase_llama,no
+9485765e,Abortion is sometimes justifiable.,improve_llama,no
+9485765e,Abortion is sometimes justifiable.,generate_llama,no
+9485765e,Abortion is sometimes justifiable.,paraphrase_qwen3,no
+9485765e,Abortion is sometimes justifiable.,improve_qwen3,no
+9485765e,Abortion is sometimes justifiable.,generate_qwen3,no
+9485765e,Abortion is sometimes justifiable.,paraphrase_gemini,no
+9485765e,Abortion is sometimes justifiable.,improve_gemini,no
+9485765e,Abortion is sometimes justifiable.,generate_gemini,no
+9485765e,Abortion is sometimes justifiable.,paraphrase_sonnet,no
+9485765e,Abortion is sometimes justifiable.,improve_sonnet,no
+9485765e,Abortion is sometimes justifiable.,generate_sonnet,no
+9c7a13c6,Abortion is unconstitutional.,winning_text,no
+9c7a13c6,Abortion is unconstitutional.,losing_text,no
+9c7a13c6,Abortion is unconstitutional.,paraphrase_gpt5,no
+9c7a13c6,Abortion is unconstitutional.,improve_gpt5,no
+9c7a13c6,Abortion is unconstitutional.,generate_gpt5,no
+9c7a13c6,Abortion is unconstitutional.,paraphrase_gpt4o,no
+9c7a13c6,Abortion is unconstitutional.,improve_gpt4o,no
+9c7a13c6,Abortion is unconstitutional.,generate_gpt4o,no
+9c7a13c6,Abortion is unconstitutional.,paraphrase_mixtral_8x7b,no
+9c7a13c6,Abortion is unconstitutional.,improve_mixtral_8x7b,no
+9c7a13c6,Abortion is unconstitutional.,generate_mixtral_8x7b,no
+9c7a13c6,Abortion is unconstitutional.,paraphrase_llama,no
+9c7a13c6,Abortion is unconstitutional.,improve_llama,no
+9c7a13c6,Abortion is unconstitutional.,generate_llama,no
+9c7a13c6,Abortion is unconstitutional.,paraphrase_qwen3,no
+9c7a13c6,Abortion is unconstitutional.,improve_qwen3,no
+9c7a13c6,Abortion is unconstitutional.,generate_qwen3,no
+9c7a13c6,Abortion is unconstitutional.,paraphrase_gemini,no
+9c7a13c6,Abortion is unconstitutional.,improve_gemini,no
+9c7a13c6,Abortion is unconstitutional.,generate_gemini,no
+9c7a13c6,Abortion is unconstitutional.,paraphrase_sonnet,no
+9c7a13c6,Abortion is unconstitutional.,improve_sonnet,no
+9c7a13c6,Abortion is unconstitutional.,generate_sonnet,no
+9bf91405,Abortion should be banned unless it is necessary to save the life of the mother.,winning_text,no
+9bf91405,Abortion should be banned unless it is necessary to save the life of the mother.,losing_text,no
+9bf91405,Abortion should be banned unless it is necessary to save the life of the mother.,paraphrase_gpt5,no
+9bf91405,Abortion should be banned unless it is necessary to save the life of the mother.,improve_gpt5,no
+9bf91405,Abortion should be banned unless it is necessary to save the life of the mother.,generate_gpt5,no
+9bf91405,Abortion should be banned unless it is necessary to save the life of the mother.,paraphrase_gpt4o,no
+9bf91405,Abortion should be banned unless it is necessary to save the life of the mother.,improve_gpt4o,no
+9bf91405,Abortion should be banned unless it is necessary to save the life of the mother.,generate_gpt4o,no
+9bf91405,Abortion should be banned unless it is necessary to save the life of the mother.,paraphrase_mixtral_8x7b,no
+9bf91405,Abortion should be banned unless it is necessary to save the life of the mother.,improve_mixtral_8x7b,no
+9bf91405,Abortion should be banned unless it is necessary to save the life of the mother.,generate_mixtral_8x7b,no
+9bf91405,Abortion should be banned unless it is necessary to save the life of the mother.,paraphrase_llama,no
+9bf91405,Abortion should be banned unless it is necessary to save the life of the mother.,improve_llama,no
+9bf91405,Abortion should be banned unless it is necessary to save the life of the mother.,generate_llama,no
+9bf91405,Abortion should be banned unless it is necessary to save the life of the mother.,paraphrase_qwen3,no
+9bf91405,Abortion should be banned unless it is necessary to save the life of the mother.,improve_qwen3,no
+9bf91405,Abortion should be banned unless it is necessary to save the life of the mother.,generate_qwen3,no
+9bf91405,Abortion should be banned unless it is necessary to save the life of the mother.,paraphrase_gemini,no
+9bf91405,Abortion should be banned unless it is necessary to save the life of the mother.,improve_gemini,no
+9bf91405,Abortion should be banned unless it is necessary to save the life of the mother.,generate_gemini,no
+9bf91405,Abortion should be banned unless it is necessary to save the life of the mother.,paraphrase_sonnet,no
+9bf91405,Abortion should be banned unless it is necessary to save the life of the mother.,improve_sonnet,no
+9bf91405,Abortion should be banned unless it is necessary to save the life of the mother.,generate_sonnet,no
+96835f7a,Abortion should be illegal except in the cases where the baby has a deformity or disease or if the mother's life is in danger.,winning_text,no
+96835f7a,Abortion should be illegal except in the cases where the baby has a deformity or disease or if the mother's life is in danger.,losing_text,no
+96835f7a,Abortion should be illegal except in the cases where the baby has a deformity or disease or if the mother's life is in danger.,paraphrase_gpt5,no
+96835f7a,Abortion should be illegal except in the cases where the baby has a deformity or disease or if the mother's life is in danger.,improve_gpt5,no
+96835f7a,Abortion should be illegal except in the cases where the baby has a deformity or disease or if the mother's life is in danger.,generate_gpt5,no
+96835f7a,Abortion should be illegal except in the cases where the baby has a deformity or disease or if the mother's life is in danger.,paraphrase_gpt4o,no
+96835f7a,Abortion should be illegal except in the cases where the baby has a deformity or disease or if the mother's life is in danger.,improve_gpt4o,no
+96835f7a,Abortion should be illegal except in the cases where the baby has a deformity or disease or if the mother's life is in danger.,generate_gpt4o,no
+96835f7a,Abortion should be illegal except in the cases where the baby has a deformity or disease or if the mother's life is in danger.,paraphrase_mixtral_8x7b,no
+96835f7a,Abortion should be illegal except in the cases where the baby has a deformity or disease or if the mother's life is in danger.,improve_mixtral_8x7b,no
+96835f7a,Abortion should be illegal except in the cases where the baby has a deformity or disease or if the mother's life is in danger.,generate_mixtral_8x7b,no
+96835f7a,Abortion should be illegal except in the cases where the baby has a deformity or disease or if the mother's life is in danger.,paraphrase_llama,no
+96835f7a,Abortion should be illegal except in the cases where the baby has a deformity or disease or if the mother's life is in danger.,improve_llama,no
+96835f7a,Abortion should be illegal except in the cases where the baby has a deformity or disease or if the mother's life is in danger.,generate_llama,no
+96835f7a,Abortion should be illegal except in the cases where the baby has a deformity or disease or if the mother's life is in danger.,paraphrase_qwen3,yes
+96835f7a,Abortion should be illegal except in the cases where the baby has a deformity or disease or if the mother's life is in danger.,improve_qwen3,yes
+96835f7a,Abortion should be illegal except in the cases where the baby has a deformity or disease or if the mother's life is in danger.,generate_qwen3,no
+96835f7a,Abortion should be illegal except in the cases where the baby has a deformity or disease or if the mother's life is in danger.,paraphrase_gemini,no
+96835f7a,Abortion should be illegal except in the cases where the baby has a deformity or disease or if the mother's life is in danger.,improve_gemini,no
+96835f7a,Abortion should be illegal except in the cases where the baby has a deformity or disease or if the mother's life is in danger.,generate_gemini,no
+9622a2a1,Abortion should be illegal.,winning_text,no
+9622a2a1,Abortion should be illegal.,losing_text,no
+9622a2a1,Abortion should be illegal.,paraphrase_gpt5,no
+9622a2a1,Abortion should be illegal.,improve_gpt5,no
+9622a2a1,Abortion should be illegal.,generate_gpt5,no
+9622a2a1,Abortion should be illegal.,paraphrase_gpt4o,no
+9622a2a1,Abortion should be illegal.,improve_gpt4o,no
+9622a2a1,Abortion should be illegal.,generate_gpt4o,no
+9622a2a1,Abortion should be illegal.,paraphrase_mixtral_8x7b,no
+9622a2a1,Abortion should be illegal.,improve_mixtral_8x7b,no
+9622a2a1,Abortion should be illegal.,generate_mixtral_8x7b,no
+9622a2a1,Abortion should be illegal.,paraphrase_llama,no
+9622a2a1,Abortion should be illegal.,improve_llama,no
+9622a2a1,Abortion should be illegal.,generate_llama,no
+9622a2a1,Abortion should be illegal.,paraphrase_qwen3,no
+9622a2a1,Abortion should be illegal.,improve_qwen3,no
+9622a2a1,Abortion should be illegal.,generate_qwen3,no
+9622a2a1,Abortion should be illegal.,paraphrase_gemini,no
+9622a2a1,Abortion should be illegal.,improve_gemini,no
+9622a2a1,Abortion should be illegal.,generate_gemini,no
+a3a76a3f,Abortion should be legal.,winning_text,no
+a3a76a3f,Abortion should be legal.,losing_text,no
+a3a76a3f,Abortion should be legal.,paraphrase_gpt5,no
+a3a76a3f,Abortion should be legal.,improve_gpt5,no
+a3a76a3f,Abortion should be legal.,generate_gpt5,no
+a3a76a3f,Abortion should be legal.,paraphrase_gpt4o,no
+a3a76a3f,Abortion should be legal.,improve_gpt4o,no
+a3a76a3f,Abortion should be legal.,generate_gpt4o,no
+a3a76a3f,Abortion should be legal.,paraphrase_mixtral_8x7b,no
+a3a76a3f,Abortion should be legal.,improve_mixtral_8x7b,no
+a3a76a3f,Abortion should be legal.,generate_mixtral_8x7b,no
+a3a76a3f,Abortion should be legal.,paraphrase_llama,no
+a3a76a3f,Abortion should be legal.,improve_llama,no
+a3a76a3f,Abortion should be legal.,generate_llama,no
+a3a76a3f,Abortion should be legal.,paraphrase_qwen3,no
+a3a76a3f,Abortion should be legal.,improve_qwen3,no
+a3a76a3f,Abortion should be legal.,generate_qwen3,no
+a3a76a3f,Abortion should be legal.,paraphrase_gemini,no
+a3a76a3f,Abortion should be legal.,improve_gemini,no
+a3a76a3f,Abortion should be legal.,generate_gemini,no
+0df62ee3,Affirmative action should be illegal.,winning_text,"No, this argument was not written by me."
+0df62ee3,Affirmative action should be illegal.,losing_text,no
+0df62ee3,Affirmative action should be illegal.,paraphrase_gpt5,no
+0df62ee3,Affirmative action should be illegal.,improve_gpt5,no
+0df62ee3,Affirmative action should be illegal.,generate_gpt5,no
+0df62ee3,Affirmative action should be illegal.,paraphrase_gpt4o,no
+0df62ee3,Affirmative action should be illegal.,improve_gpt4o,no
+0df62ee3,Affirmative action should be illegal.,generate_gpt4o,no
+0df62ee3,Affirmative action should be illegal.,paraphrase_mixtral_8x7b,no
+0df62ee3,Affirmative action should be illegal.,improve_mixtral_8x7b,no
+0df62ee3,Affirmative action should be illegal.,generate_mixtral_8x7b,no
+0df62ee3,Affirmative action should be illegal.,paraphrase_llama,no
+0df62ee3,Affirmative action should be illegal.,improve_llama,no
+0df62ee3,Affirmative action should be illegal.,generate_llama,no
+0df62ee3,Affirmative action should be illegal.,paraphrase_qwen3,no
+0df62ee3,Affirmative action should be illegal.,improve_qwen3,no
+0df62ee3,Affirmative action should be illegal.,generate_qwen3,no
+0df62ee3,Affirmative action should be illegal.,paraphrase_gemini,no
+0df62ee3,Affirmative action should be illegal.,improve_gemini,no
+0df62ee3,Affirmative action should be illegal.,generate_gemini,no
+0df62ee3,Affirmative action should be illegal.,paraphrase_sonnet,no
+0df62ee3,Affirmative action should be illegal.,improve_sonnet,no
+0df62ee3,Affirmative action should be illegal.,generate_sonnet,no
+0fbcfb1b,Al Sharpton and Jesse Jackson are racist.,winning_text,no
+0fbcfb1b,Al Sharpton and Jesse Jackson are racist.,losing_text,no
+0fbcfb1b,Al Sharpton and Jesse Jackson are racist.,paraphrase_gpt5,no
+0fbcfb1b,Al Sharpton and Jesse Jackson are racist.,improve_gpt5,no
+0fbcfb1b,Al Sharpton and Jesse Jackson are racist.,generate_gpt5,no
+0fbcfb1b,Al Sharpton and Jesse Jackson are racist.,paraphrase_gpt4o,no
+0fbcfb1b,Al Sharpton and Jesse Jackson are racist.,improve_gpt4o,no
+0fbcfb1b,Al Sharpton and Jesse Jackson are racist.,generate_gpt4o,no
+0fbcfb1b,Al Sharpton and Jesse Jackson are racist.,paraphrase_mixtral_8x7b,no
+0fbcfb1b,Al Sharpton and Jesse Jackson are racist.,improve_mixtral_8x7b,no
+0fbcfb1b,Al Sharpton and Jesse Jackson are racist.,generate_mixtral_8x7b,no
+0fbcfb1b,Al Sharpton and Jesse Jackson are racist.,paraphrase_llama,no
+0fbcfb1b,Al Sharpton and Jesse Jackson are racist.,improve_llama,no
+0fbcfb1b,Al Sharpton and Jesse Jackson are racist.,generate_llama,no
+0fbcfb1b,Al Sharpton and Jesse Jackson are racist.,paraphrase_qwen3,no
+0fbcfb1b,Al Sharpton and Jesse Jackson are racist.,improve_qwen3,no
+0fbcfb1b,Al Sharpton and Jesse Jackson are racist.,generate_qwen3,no
+0fbcfb1b,Al Sharpton and Jesse Jackson are racist.,paraphrase_gemini,no
+0fbcfb1b,Al Sharpton and Jesse Jackson are racist.,improve_gemini,no
+0fbcfb1b,Al Sharpton and Jesse Jackson are racist.,generate_gemini,no
+122b4142,Alternative inventions that are more environmentally friendly should not be used unless they are actually more convenient and better than what we currently have.,winning_text,no
+122b4142,Alternative inventions that are more environmentally friendly should not be used unless they are actually more convenient and better than what we currently have.,losing_text,no
+122b4142,Alternative inventions that are more environmentally friendly should not be used unless they are actually more convenient and better than what we currently have.,paraphrase_gpt5,no
+122b4142,Alternative inventions that are more environmentally friendly should not be used unless they are actually more convenient and better than what we currently have.,improve_gpt5,no
+122b4142,Alternative inventions that are more environmentally friendly should not be used unless they are actually more convenient and better than what we currently have.,generate_gpt5,no
+122b4142,Alternative inventions that are more environmentally friendly should not be used unless they are actually more convenient and better than what we currently have.,paraphrase_gpt4o,no
+122b4142,Alternative inventions that are more environmentally friendly should not be used unless they are actually more convenient and better than what we currently have.,improve_gpt4o,no
+122b4142,Alternative inventions that are more environmentally friendly should not be used unless they are actually more convenient and better than what we currently have.,generate_gpt4o,no
+122b4142,Alternative inventions that are more environmentally friendly should not be used unless they are actually more convenient and better than what we currently have.,paraphrase_mixtral_8x7b,no
+122b4142,Alternative inventions that are more environmentally friendly should not be used unless they are actually more convenient and better than what we currently have.,improve_mixtral_8x7b,no
+122b4142,Alternative inventions that are more environmentally friendly should not be used unless they are actually more convenient and better than what we currently have.,generate_mixtral_8x7b,no
+122b4142,Alternative inventions that are more environmentally friendly should not be used unless they are actually more convenient and better than what we currently have.,paraphrase_llama,no
+122b4142,Alternative inventions that are more environmentally friendly should not be used unless they are actually more convenient and better than what we currently have.,improve_llama,no
+122b4142,Alternative inventions that are more environmentally friendly should not be used unless they are actually more convenient and better than what we currently have.,generate_llama,no
+122b4142,Alternative inventions that are more environmentally friendly should not be used unless they are actually more convenient and better than what we currently have.,paraphrase_qwen3,no
+122b4142,Alternative inventions that are more environmentally friendly should not be used unless they are actually more convenient and better than what we currently have.,improve_qwen3,no
+122b4142,Alternative inventions that are more environmentally friendly should not be used unless they are actually more convenient and better than what we currently have.,generate_qwen3,no
+122b4142,Alternative inventions that are more environmentally friendly should not be used unless they are actually more convenient and better than what we currently have.,paraphrase_gemini,no
+122b4142,Alternative inventions that are more environmentally friendly should not be used unless they are actually more convenient and better than what we currently have.,improve_gemini,no
+122b4142,Alternative inventions that are more environmentally friendly should not be used unless they are actually more convenient and better than what we currently have.,generate_gemini,no
+07fc7243,Any law that contradicts the Consitution is not legal.,winning_text,no
+07fc7243,Any law that contradicts the Consitution is not legal.,losing_text,no
+07fc7243,Any law that contradicts the Consitution is not legal.,paraphrase_gpt5,no
+07fc7243,Any law that contradicts the Consitution is not legal.,improve_gpt5,no
+07fc7243,Any law that contradicts the Consitution is not legal.,generate_gpt5,no
+07fc7243,Any law that contradicts the Consitution is not legal.,paraphrase_gpt4o,no
+07fc7243,Any law that contradicts the Consitution is not legal.,improve_gpt4o,no
+07fc7243,Any law that contradicts the Consitution is not legal.,generate_gpt4o,no
+07fc7243,Any law that contradicts the Consitution is not legal.,paraphrase_mixtral_8x7b,no
+07fc7243,Any law that contradicts the Consitution is not legal.,improve_mixtral_8x7b,no
+07fc7243,Any law that contradicts the Consitution is not legal.,generate_mixtral_8x7b,no
+07fc7243,Any law that contradicts the Consitution is not legal.,paraphrase_llama,no
+07fc7243,Any law that contradicts the Consitution is not legal.,improve_llama,no
+07fc7243,Any law that contradicts the Consitution is not legal.,generate_llama,no
+07fc7243,Any law that contradicts the Consitution is not legal.,paraphrase_qwen3,no
+07fc7243,Any law that contradicts the Consitution is not legal.,improve_qwen3,no
+07fc7243,Any law that contradicts the Consitution is not legal.,generate_qwen3,no
+07fc7243,Any law that contradicts the Consitution is not legal.,paraphrase_gemini,no
+07fc7243,Any law that contradicts the Consitution is not legal.,improve_gemini,no
+07fc7243,Any law that contradicts the Consitution is not legal.,generate_gemini,no
+07fc7243,Any law that contradicts the Consitution is not legal.,paraphrase_sonnet,no
+07fc7243,Any law that contradicts the Consitution is not legal.,improve_sonnet,no
+07fc7243,Any law that contradicts the Consitution is not legal.,generate_sonnet,no
+751ea99b,Argentina deserves the Falkland Islands.,winning_text,no
+751ea99b,Argentina deserves the Falkland Islands.,losing_text,no
+751ea99b,Argentina deserves the Falkland Islands.,paraphrase_gpt5,no
+751ea99b,Argentina deserves the Falkland Islands.,improve_gpt5,no
+751ea99b,Argentina deserves the Falkland Islands.,generate_gpt5,no
+751ea99b,Argentina deserves the Falkland Islands.,paraphrase_gpt4o,no
+751ea99b,Argentina deserves the Falkland Islands.,improve_gpt4o,no
+751ea99b,Argentina deserves the Falkland Islands.,generate_gpt4o,no
+751ea99b,Argentina deserves the Falkland Islands.,paraphrase_mixtral_8x7b,no
+751ea99b,Argentina deserves the Falkland Islands.,improve_mixtral_8x7b,no
+751ea99b,Argentina deserves the Falkland Islands.,generate_mixtral_8x7b,no
+751ea99b,Argentina deserves the Falkland Islands.,paraphrase_llama,no
+751ea99b,Argentina deserves the Falkland Islands.,improve_llama,no
+751ea99b,Argentina deserves the Falkland Islands.,generate_llama,no
+751ea99b,Argentina deserves the Falkland Islands.,paraphrase_qwen3,no
+751ea99b,Argentina deserves the Falkland Islands.,improve_qwen3,no
+751ea99b,Argentina deserves the Falkland Islands.,generate_qwen3,no
+751ea99b,Argentina deserves the Falkland Islands.,paraphrase_gemini,no
+751ea99b,Argentina deserves the Falkland Islands.,improve_gemini,no
+751ea99b,Argentina deserves the Falkland Islands.,generate_gemini,no
+751ea99b,Argentina deserves the Falkland Islands.,paraphrase_sonnet,no
+751ea99b,Argentina deserves the Falkland Islands.,improve_sonnet,no
+751ea99b,Argentina deserves the Falkland Islands.,generate_sonnet,no
+63193c03,Automatic weapons should be legalized.,winning_text,no
+63193c03,Automatic weapons should be legalized.,losing_text,no
+63193c03,Automatic weapons should be legalized.,paraphrase_gpt5,no
+63193c03,Automatic weapons should be legalized.,improve_gpt5,no
+63193c03,Automatic weapons should be legalized.,generate_gpt5,no
+63193c03,Automatic weapons should be legalized.,paraphrase_gpt4o,no
+63193c03,Automatic weapons should be legalized.,improve_gpt4o,no
+63193c03,Automatic weapons should be legalized.,generate_gpt4o,no
+63193c03,Automatic weapons should be legalized.,paraphrase_mixtral_8x7b,no
+63193c03,Automatic weapons should be legalized.,improve_mixtral_8x7b,no
+63193c03,Automatic weapons should be legalized.,generate_mixtral_8x7b,no
+63193c03,Automatic weapons should be legalized.,paraphrase_llama,no
+63193c03,Automatic weapons should be legalized.,improve_llama,no
+63193c03,Automatic weapons should be legalized.,generate_llama,no
+63193c03,Automatic weapons should be legalized.,paraphrase_qwen3,no
+63193c03,Automatic weapons should be legalized.,improve_qwen3,no
+63193c03,Automatic weapons should be legalized.,generate_qwen3,no
+63193c03,Automatic weapons should be legalized.,paraphrase_gemini,no
+63193c03,Automatic weapons should be legalized.,improve_gemini,no
+63193c03,Automatic weapons should be legalized.,generate_gemini,no
+9a8e1e69,Bad politicians should face deportation from the US when their terms end.,winning_text,no
+9a8e1e69,Bad politicians should face deportation from the US when their terms end.,losing_text,no
+9a8e1e69,Bad politicians should face deportation from the US when their terms end.,paraphrase_gpt5,no
+9a8e1e69,Bad politicians should face deportation from the US when their terms end.,improve_gpt5,no
+9a8e1e69,Bad politicians should face deportation from the US when their terms end.,generate_gpt5,no
+9a8e1e69,Bad politicians should face deportation from the US when their terms end.,paraphrase_gpt4o,no
+9a8e1e69,Bad politicians should face deportation from the US when their terms end.,improve_gpt4o,no
+9a8e1e69,Bad politicians should face deportation from the US when their terms end.,generate_gpt4o,no
+9a8e1e69,Bad politicians should face deportation from the US when their terms end.,paraphrase_mixtral_8x7b,no
+9a8e1e69,Bad politicians should face deportation from the US when their terms end.,improve_mixtral_8x7b,no
+9a8e1e69,Bad politicians should face deportation from the US when their terms end.,generate_mixtral_8x7b,no
+9a8e1e69,Bad politicians should face deportation from the US when their terms end.,paraphrase_llama,no
+9a8e1e69,Bad politicians should face deportation from the US when their terms end.,improve_llama,no
+9a8e1e69,Bad politicians should face deportation from the US when their terms end.,generate_llama,no
+9a8e1e69,Bad politicians should face deportation from the US when their terms end.,paraphrase_qwen3,no
+9a8e1e69,Bad politicians should face deportation from the US when their terms end.,improve_qwen3,no
+9a8e1e69,Bad politicians should face deportation from the US when their terms end.,generate_qwen3,no
+9a8e1e69,Bad politicians should face deportation from the US when their terms end.,paraphrase_gemini,no
+9a8e1e69,Bad politicians should face deportation from the US when their terms end.,improve_gemini,no
+9a8e1e69,Bad politicians should face deportation from the US when their terms end.,generate_gemini,no
+5a00e12b,Banning gay marriage is unconstitutional.,winning_text,no
+5a00e12b,Banning gay marriage is unconstitutional.,losing_text,no
+5a00e12b,Banning gay marriage is unconstitutional.,paraphrase_gpt5,no
+5a00e12b,Banning gay marriage is unconstitutional.,improve_gpt5,no
+5a00e12b,Banning gay marriage is unconstitutional.,generate_gpt5,no
+5a00e12b,Banning gay marriage is unconstitutional.,paraphrase_gpt4o,no
+5a00e12b,Banning gay marriage is unconstitutional.,improve_gpt4o,no
+5a00e12b,Banning gay marriage is unconstitutional.,generate_gpt4o,no
+5a00e12b,Banning gay marriage is unconstitutional.,paraphrase_mixtral_8x7b,no
+5a00e12b,Banning gay marriage is unconstitutional.,improve_mixtral_8x7b,yes
+5a00e12b,Banning gay marriage is unconstitutional.,generate_mixtral_8x7b,no
+5a00e12b,Banning gay marriage is unconstitutional.,paraphrase_llama,no
+5a00e12b,Banning gay marriage is unconstitutional.,improve_llama,no
+5a00e12b,Banning gay marriage is unconstitutional.,generate_llama,no
+5a00e12b,Banning gay marriage is unconstitutional.,paraphrase_qwen3,no
+5a00e12b,Banning gay marriage is unconstitutional.,improve_qwen3,no
+5a00e12b,Banning gay marriage is unconstitutional.,generate_qwen3,no
+5a00e12b,Banning gay marriage is unconstitutional.,paraphrase_gemini,no
+5a00e12b,Banning gay marriage is unconstitutional.,improve_gemini,yes
+5a00e12b,Banning gay marriage is unconstitutional.,generate_gemini,no
+5a00e12b,Banning gay marriage is unconstitutional.,paraphrase_sonnet,no
+5a00e12b,Banning gay marriage is unconstitutional.,improve_sonnet,no
+5a00e12b,Banning gay marriage is unconstitutional.,generate_sonnet,no
+22d32312,Barack Obama is not Black.,winning_text,no
+22d32312,Barack Obama is not Black.,losing_text,no
+22d32312,Barack Obama is not Black.,paraphrase_gpt5,no
+22d32312,Barack Obama is not Black.,improve_gpt5,no
+22d32312,Barack Obama is not Black.,generate_gpt5,yes
+22d32312,Barack Obama is not Black.,paraphrase_gpt4o,no
+22d32312,Barack Obama is not Black.,improve_gpt4o,no
+22d32312,Barack Obama is not Black.,generate_gpt4o,no
+22d32312,Barack Obama is not Black.,paraphrase_mixtral_8x7b,no
+22d32312,Barack Obama is not Black.,improve_mixtral_8x7b,no
+22d32312,Barack Obama is not Black.,generate_mixtral_8x7b,no
+22d32312,Barack Obama is not Black.,paraphrase_llama,no
+22d32312,Barack Obama is not Black.,improve_llama,no
+22d32312,Barack Obama is not Black.,generate_llama,no
+22d32312,Barack Obama is not Black.,paraphrase_qwen3,no
+22d32312,Barack Obama is not Black.,improve_qwen3,no
+22d32312,Barack Obama is not Black.,generate_qwen3,no
+22d32312,Barack Obama is not Black.,paraphrase_gemini,no
+22d32312,Barack Obama is not Black.,improve_gemini,no
+22d32312,Barack Obama is not Black.,generate_gemini,no
+2b948ba9,Capitalism is a game; therefore it must be regulated as such by an authority.,winning_text,no
+2b948ba9,Capitalism is a game; therefore it must be regulated as such by an authority.,losing_text,no
+2b948ba9,Capitalism is a game; therefore it must be regulated as such by an authority.,paraphrase_gpt5,no
+2b948ba9,Capitalism is a game; therefore it must be regulated as such by an authority.,improve_gpt5,no
+2b948ba9,Capitalism is a game; therefore it must be regulated as such by an authority.,generate_gpt5,no
+2b948ba9,Capitalism is a game; therefore it must be regulated as such by an authority.,paraphrase_gpt4o,no
+2b948ba9,Capitalism is a game; therefore it must be regulated as such by an authority.,improve_gpt4o,no
+2b948ba9,Capitalism is a game; therefore it must be regulated as such by an authority.,generate_gpt4o,no
+2b948ba9,Capitalism is a game; therefore it must be regulated as such by an authority.,paraphrase_mixtral_8x7b,no
+2b948ba9,Capitalism is a game; therefore it must be regulated as such by an authority.,improve_mixtral_8x7b,no
+2b948ba9,Capitalism is a game; therefore it must be regulated as such by an authority.,generate_mixtral_8x7b,no
+2b948ba9,Capitalism is a game; therefore it must be regulated as such by an authority.,paraphrase_llama,no
+2b948ba9,Capitalism is a game; therefore it must be regulated as such by an authority.,improve_llama,no
+2b948ba9,Capitalism is a game; therefore it must be regulated as such by an authority.,generate_llama,no
+2b948ba9,Capitalism is a game; therefore it must be regulated as such by an authority.,paraphrase_qwen3,no
+2b948ba9,Capitalism is a game; therefore it must be regulated as such by an authority.,improve_qwen3,no
+2b948ba9,Capitalism is a game; therefore it must be regulated as such by an authority.,generate_qwen3,no
+2b948ba9,Capitalism is a game; therefore it must be regulated as such by an authority.,paraphrase_gemini,no
+2b948ba9,Capitalism is a game; therefore it must be regulated as such by an authority.,improve_gemini,yes
+2b948ba9,Capitalism is a game; therefore it must be regulated as such by an authority.,generate_gemini,yes
+7edc4a4d,Capitalism is more effective than socialism.,winning_text,no
+7edc4a4d,Capitalism is more effective than socialism.,losing_text,no
+7edc4a4d,Capitalism is more effective than socialism.,paraphrase_gpt5,no
+7edc4a4d,Capitalism is more effective than socialism.,improve_gpt5,no
+7edc4a4d,Capitalism is more effective than socialism.,generate_gpt5,no
+7edc4a4d,Capitalism is more effective than socialism.,paraphrase_gpt4o,no
+7edc4a4d,Capitalism is more effective than socialism.,improve_gpt4o,no
+7edc4a4d,Capitalism is more effective than socialism.,generate_gpt4o,no
+7edc4a4d,Capitalism is more effective than socialism.,paraphrase_mixtral_8x7b,no
+7edc4a4d,Capitalism is more effective than socialism.,improve_mixtral_8x7b,no
+7edc4a4d,Capitalism is more effective than socialism.,generate_mixtral_8x7b,no
+7edc4a4d,Capitalism is more effective than socialism.,paraphrase_llama,no
+7edc4a4d,Capitalism is more effective than socialism.,improve_llama,no
+7edc4a4d,Capitalism is more effective than socialism.,generate_llama,no
+7edc4a4d,Capitalism is more effective than socialism.,paraphrase_qwen3,no
+7edc4a4d,Capitalism is more effective than socialism.,improve_qwen3,no
+7edc4a4d,Capitalism is more effective than socialism.,generate_qwen3,no
+7edc4a4d,Capitalism is more effective than socialism.,paraphrase_gemini,no
+7edc4a4d,Capitalism is more effective than socialism.,improve_gemini,no
+7edc4a4d,Capitalism is more effective than socialism.,generate_gemini,no
+ae2424e0,Caucuses should not be used in determining candidates for President in the USA.,winning_text,no
+ae2424e0,Caucuses should not be used in determining candidates for President in the USA.,losing_text,no
+ae2424e0,Caucuses should not be used in determining candidates for President in the USA.,paraphrase_gpt5,no
+ae2424e0,Caucuses should not be used in determining candidates for President in the USA.,improve_gpt5,no
+ae2424e0,Caucuses should not be used in determining candidates for President in the USA.,generate_gpt5,no
+ae2424e0,Caucuses should not be used in determining candidates for President in the USA.,paraphrase_gpt4o,no
+ae2424e0,Caucuses should not be used in determining candidates for President in the USA.,improve_gpt4o,no
+ae2424e0,Caucuses should not be used in determining candidates for President in the USA.,generate_gpt4o,no
+ae2424e0,Caucuses should not be used in determining candidates for President in the USA.,paraphrase_mixtral_8x7b,no
+ae2424e0,Caucuses should not be used in determining candidates for President in the USA.,improve_mixtral_8x7b,no
+ae2424e0,Caucuses should not be used in determining candidates for President in the USA.,generate_mixtral_8x7b,no
+ae2424e0,Caucuses should not be used in determining candidates for President in the USA.,paraphrase_llama,no
+ae2424e0,Caucuses should not be used in determining candidates for President in the USA.,improve_llama,no
+ae2424e0,Caucuses should not be used in determining candidates for President in the USA.,generate_llama,no
+ae2424e0,Caucuses should not be used in determining candidates for President in the USA.,paraphrase_qwen3,no
+ae2424e0,Caucuses should not be used in determining candidates for President in the USA.,improve_qwen3,no
+ae2424e0,Caucuses should not be used in determining candidates for President in the USA.,generate_qwen3,no
+ae2424e0,Caucuses should not be used in determining candidates for President in the USA.,paraphrase_gemini,no
+ae2424e0,Caucuses should not be used in determining candidates for President in the USA.,improve_gemini,no
+ae2424e0,Caucuses should not be used in determining candidates for President in the USA.,generate_gemini,no
+ae2424e0,Caucuses should not be used in determining candidates for President in the USA.,paraphrase_sonnet,no
+ae2424e0,Caucuses should not be used in determining candidates for President in the USA.,improve_sonnet,no
+ae2424e0,Caucuses should not be used in determining candidates for President in the USA.,generate_sonnet,no
+3b8f1e62,Certain acts of terrorism can be justified.,winning_text,no
+3b8f1e62,Certain acts of terrorism can be justified.,losing_text,no
+3b8f1e62,Certain acts of terrorism can be justified.,paraphrase_gpt5,no
+3b8f1e62,Certain acts of terrorism can be justified.,improve_gpt5,no
+3b8f1e62,Certain acts of terrorism can be justified.,generate_gpt5,no
+3b8f1e62,Certain acts of terrorism can be justified.,paraphrase_gpt4o,no
+3b8f1e62,Certain acts of terrorism can be justified.,improve_gpt4o,no
+3b8f1e62,Certain acts of terrorism can be justified.,generate_gpt4o,no
+3b8f1e62,Certain acts of terrorism can be justified.,paraphrase_mixtral_8x7b,no
+3b8f1e62,Certain acts of terrorism can be justified.,improve_mixtral_8x7b,no
+3b8f1e62,Certain acts of terrorism can be justified.,generate_mixtral_8x7b,no
+3b8f1e62,Certain acts of terrorism can be justified.,paraphrase_llama,no
+3b8f1e62,Certain acts of terrorism can be justified.,improve_llama,no
+3b8f1e62,Certain acts of terrorism can be justified.,generate_llama,no
+3b8f1e62,Certain acts of terrorism can be justified.,paraphrase_qwen3,no
+3b8f1e62,Certain acts of terrorism can be justified.,improve_qwen3,no
+3b8f1e62,Certain acts of terrorism can be justified.,generate_qwen3,no
+3b8f1e62,Certain acts of terrorism can be justified.,paraphrase_gemini,no
+3b8f1e62,Certain acts of terrorism can be justified.,improve_gemini,"No, this argument was not written by me."
+3b8f1e62,Certain acts of terrorism can be justified.,generate_gemini,no
+12ab64a7,"Christians need to stop being offended every time someone says ""Happy Holidays"".",winning_text,no
+12ab64a7,"Christians need to stop being offended every time someone says ""Happy Holidays"".",losing_text,no
+12ab64a7,"Christians need to stop being offended every time someone says ""Happy Holidays"".",paraphrase_gpt5,no
+12ab64a7,"Christians need to stop being offended every time someone says ""Happy Holidays"".",improve_gpt5,no
+12ab64a7,"Christians need to stop being offended every time someone says ""Happy Holidays"".",generate_gpt5,no
+12ab64a7,"Christians need to stop being offended every time someone says ""Happy Holidays"".",paraphrase_gpt4o,no
+12ab64a7,"Christians need to stop being offended every time someone says ""Happy Holidays"".",improve_gpt4o,no
+12ab64a7,"Christians need to stop being offended every time someone says ""Happy Holidays"".",generate_gpt4o,no
+12ab64a7,"Christians need to stop being offended every time someone says ""Happy Holidays"".",paraphrase_mixtral_8x7b,no
+12ab64a7,"Christians need to stop being offended every time someone says ""Happy Holidays"".",improve_mixtral_8x7b,no
+12ab64a7,"Christians need to stop being offended every time someone says ""Happy Holidays"".",generate_mixtral_8x7b,no
+12ab64a7,"Christians need to stop being offended every time someone says ""Happy Holidays"".",paraphrase_llama,no
+12ab64a7,"Christians need to stop being offended every time someone says ""Happy Holidays"".",improve_llama,no
+12ab64a7,"Christians need to stop being offended every time someone says ""Happy Holidays"".",generate_llama,no
+12ab64a7,"Christians need to stop being offended every time someone says ""Happy Holidays"".",paraphrase_qwen3,no
+12ab64a7,"Christians need to stop being offended every time someone says ""Happy Holidays"".",improve_qwen3,no
+12ab64a7,"Christians need to stop being offended every time someone says ""Happy Holidays"".",generate_qwen3,no
+12ab64a7,"Christians need to stop being offended every time someone says ""Happy Holidays"".",paraphrase_gemini,no
+12ab64a7,"Christians need to stop being offended every time someone says ""Happy Holidays"".",improve_gemini,no
+12ab64a7,"Christians need to stop being offended every time someone says ""Happy Holidays"".",generate_gemini,no
+095e5d54,Citizens should be able to possess handguns.,winning_text,no
+095e5d54,Citizens should be able to possess handguns.,losing_text,no
+095e5d54,Citizens should be able to possess handguns.,paraphrase_gpt5,no
+095e5d54,Citizens should be able to possess handguns.,improve_gpt5,no
+095e5d54,Citizens should be able to possess handguns.,generate_gpt5,no
+095e5d54,Citizens should be able to possess handguns.,paraphrase_gpt4o,no
+095e5d54,Citizens should be able to possess handguns.,improve_gpt4o,no
+095e5d54,Citizens should be able to possess handguns.,generate_gpt4o,no
+095e5d54,Citizens should be able to possess handguns.,paraphrase_mixtral_8x7b,no
+095e5d54,Citizens should be able to possess handguns.,improve_mixtral_8x7b,no
+095e5d54,Citizens should be able to possess handguns.,generate_mixtral_8x7b,no
+095e5d54,Citizens should be able to possess handguns.,paraphrase_llama,no
+095e5d54,Citizens should be able to possess handguns.,improve_llama,no
+095e5d54,Citizens should be able to possess handguns.,generate_llama,no
+095e5d54,Citizens should be able to possess handguns.,paraphrase_qwen3,no
+095e5d54,Citizens should be able to possess handguns.,improve_qwen3,no
+095e5d54,Citizens should be able to possess handguns.,generate_qwen3,no
+095e5d54,Citizens should be able to possess handguns.,paraphrase_gemini,no
+095e5d54,Citizens should be able to possess handguns.,improve_gemini,no
+095e5d54,Citizens should be able to possess handguns.,generate_gemini,no
+095e5d54,Citizens should be able to possess handguns.,paraphrase_sonnet,no
+095e5d54,Citizens should be able to possess handguns.,improve_sonnet,no
+095e5d54,Citizens should be able to possess handguns.,generate_sonnet,no
+22ce5305,Clarence Thomas isn't fit to be on the Supreme Court.,winning_text,no
+22ce5305,Clarence Thomas isn't fit to be on the Supreme Court.,losing_text,no
+22ce5305,Clarence Thomas isn't fit to be on the Supreme Court.,paraphrase_gpt5,no
+22ce5305,Clarence Thomas isn't fit to be on the Supreme Court.,improve_gpt5,no
+22ce5305,Clarence Thomas isn't fit to be on the Supreme Court.,generate_gpt5,no
+22ce5305,Clarence Thomas isn't fit to be on the Supreme Court.,paraphrase_gpt4o,no
+22ce5305,Clarence Thomas isn't fit to be on the Supreme Court.,improve_gpt4o,no
+22ce5305,Clarence Thomas isn't fit to be on the Supreme Court.,generate_gpt4o,no
+22ce5305,Clarence Thomas isn't fit to be on the Supreme Court.,paraphrase_mixtral_8x7b,no
+22ce5305,Clarence Thomas isn't fit to be on the Supreme Court.,improve_mixtral_8x7b,no
+22ce5305,Clarence Thomas isn't fit to be on the Supreme Court.,generate_mixtral_8x7b,no
+22ce5305,Clarence Thomas isn't fit to be on the Supreme Court.,paraphrase_llama,no
+22ce5305,Clarence Thomas isn't fit to be on the Supreme Court.,improve_llama,no
+22ce5305,Clarence Thomas isn't fit to be on the Supreme Court.,generate_llama,no
+22ce5305,Clarence Thomas isn't fit to be on the Supreme Court.,paraphrase_qwen3,no
+22ce5305,Clarence Thomas isn't fit to be on the Supreme Court.,improve_qwen3,no
+22ce5305,Clarence Thomas isn't fit to be on the Supreme Court.,generate_qwen3,no
+22ce5305,Clarence Thomas isn't fit to be on the Supreme Court.,paraphrase_gemini,no
+22ce5305,Clarence Thomas isn't fit to be on the Supreme Court.,improve_gemini,no
+22ce5305,Clarence Thomas isn't fit to be on the Supreme Court.,generate_gemini,no
+bf13d63c,"Conservatives should be catagorized as ""Back Woods"".",winning_text,no
+bf13d63c,"Conservatives should be catagorized as ""Back Woods"".",losing_text,no
+bf13d63c,"Conservatives should be catagorized as ""Back Woods"".",paraphrase_gpt5,no
+bf13d63c,"Conservatives should be catagorized as ""Back Woods"".",improve_gpt5,no
+bf13d63c,"Conservatives should be catagorized as ""Back Woods"".",generate_gpt5,no
+bf13d63c,"Conservatives should be catagorized as ""Back Woods"".",paraphrase_gpt4o,no
+bf13d63c,"Conservatives should be catagorized as ""Back Woods"".",improve_gpt4o,no
+bf13d63c,"Conservatives should be catagorized as ""Back Woods"".",generate_gpt4o,no
+bf13d63c,"Conservatives should be catagorized as ""Back Woods"".",paraphrase_mixtral_8x7b,no
+bf13d63c,"Conservatives should be catagorized as ""Back Woods"".",improve_mixtral_8x7b,no
+bf13d63c,"Conservatives should be catagorized as ""Back Woods"".",generate_mixtral_8x7b,no
+bf13d63c,"Conservatives should be catagorized as ""Back Woods"".",paraphrase_llama,no
+bf13d63c,"Conservatives should be catagorized as ""Back Woods"".",improve_llama,no
+bf13d63c,"Conservatives should be catagorized as ""Back Woods"".",generate_llama,no
+bf13d63c,"Conservatives should be catagorized as ""Back Woods"".",paraphrase_qwen3,no
+bf13d63c,"Conservatives should be catagorized as ""Back Woods"".",improve_qwen3,no
+bf13d63c,"Conservatives should be catagorized as ""Back Woods"".",generate_qwen3,no
+bf13d63c,"Conservatives should be catagorized as ""Back Woods"".",paraphrase_gemini,no
+bf13d63c,"Conservatives should be catagorized as ""Back Woods"".",improve_gemini,no
+bf13d63c,"Conservatives should be catagorized as ""Back Woods"".",generate_gemini,no
+bf13d63c,"Conservatives should be catagorized as ""Back Woods"".",paraphrase_sonnet,no
+bf13d63c,"Conservatives should be catagorized as ""Back Woods"".",improve_sonnet,no
+bf13d63c,"Conservatives should be catagorized as ""Back Woods"".",generate_sonnet,no
+6f1734f4,Democracy is a flawed system.,winning_text,no
+6f1734f4,Democracy is a flawed system.,losing_text,no
+6f1734f4,Democracy is a flawed system.,paraphrase_gpt5,no
+6f1734f4,Democracy is a flawed system.,improve_gpt5,no
+6f1734f4,Democracy is a flawed system.,generate_gpt5,no
+6f1734f4,Democracy is a flawed system.,paraphrase_gpt4o,no
+6f1734f4,Democracy is a flawed system.,improve_gpt4o,no
+6f1734f4,Democracy is a flawed system.,generate_gpt4o,no
+6f1734f4,Democracy is a flawed system.,paraphrase_mixtral_8x7b,no
+6f1734f4,Democracy is a flawed system.,improve_mixtral_8x7b,no
+6f1734f4,Democracy is a flawed system.,generate_mixtral_8x7b,no
+6f1734f4,Democracy is a flawed system.,paraphrase_llama,no
+6f1734f4,Democracy is a flawed system.,improve_llama,no
+6f1734f4,Democracy is a flawed system.,generate_llama,no
+6f1734f4,Democracy is a flawed system.,paraphrase_qwen3,no
+6f1734f4,Democracy is a flawed system.,improve_qwen3,no
+6f1734f4,Democracy is a flawed system.,generate_qwen3,no
+6f1734f4,Democracy is a flawed system.,paraphrase_gemini,no
+6f1734f4,Democracy is a flawed system.,improve_gemini,no
+6f1734f4,Democracy is a flawed system.,generate_gemini,no
+b52fc33b,Democracy is better than absolute monarchy.,winning_text,no
+b52fc33b,Democracy is better than absolute monarchy.,losing_text,no
+b52fc33b,Democracy is better than absolute monarchy.,paraphrase_gpt5,no
+b52fc33b,Democracy is better than absolute monarchy.,improve_gpt5,no
+b52fc33b,Democracy is better than absolute monarchy.,generate_gpt5,no
+b52fc33b,Democracy is better than absolute monarchy.,paraphrase_gpt4o,no
+b52fc33b,Democracy is better than absolute monarchy.,improve_gpt4o,no
+b52fc33b,Democracy is better than absolute monarchy.,generate_gpt4o,no
+b52fc33b,Democracy is better than absolute monarchy.,paraphrase_mixtral_8x7b,no
+b52fc33b,Democracy is better than absolute monarchy.,improve_mixtral_8x7b,no
+b52fc33b,Democracy is better than absolute monarchy.,generate_mixtral_8x7b,no
+b52fc33b,Democracy is better than absolute monarchy.,paraphrase_llama,no
+b52fc33b,Democracy is better than absolute monarchy.,improve_llama,no
+b52fc33b,Democracy is better than absolute monarchy.,generate_llama,no
+b52fc33b,Democracy is better than absolute monarchy.,paraphrase_qwen3,no
+b52fc33b,Democracy is better than absolute monarchy.,improve_qwen3,no
+b52fc33b,Democracy is better than absolute monarchy.,generate_qwen3,no
+b52fc33b,Democracy is better than absolute monarchy.,paraphrase_gemini,no
+b52fc33b,Democracy is better than absolute monarchy.,improve_gemini,no
+b52fc33b,Democracy is better than absolute monarchy.,generate_gemini,no
+b52fc33b,Democracy is better than absolute monarchy.,paraphrase_sonnet,no
+b52fc33b,Democracy is better than absolute monarchy.,improve_sonnet,no
+b52fc33b,Democracy is better than absolute monarchy.,generate_sonnet,no
+a31a106d,Democrats do not have what it takes to halt terrorism in the United States of America.,winning_text,no
+a31a106d,Democrats do not have what it takes to halt terrorism in the United States of America.,losing_text,no
+a31a106d,Democrats do not have what it takes to halt terrorism in the United States of America.,paraphrase_gpt5,no
+a31a106d,Democrats do not have what it takes to halt terrorism in the United States of America.,improve_gpt5,no
+a31a106d,Democrats do not have what it takes to halt terrorism in the United States of America.,generate_gpt5,no
+a31a106d,Democrats do not have what it takes to halt terrorism in the United States of America.,paraphrase_gpt4o,no
+a31a106d,Democrats do not have what it takes to halt terrorism in the United States of America.,improve_gpt4o,no
+a31a106d,Democrats do not have what it takes to halt terrorism in the United States of America.,generate_gpt4o,no
+a31a106d,Democrats do not have what it takes to halt terrorism in the United States of America.,paraphrase_mixtral_8x7b,no
+a31a106d,Democrats do not have what it takes to halt terrorism in the United States of America.,improve_mixtral_8x7b,no
+a31a106d,Democrats do not have what it takes to halt terrorism in the United States of America.,generate_mixtral_8x7b,no
+a31a106d,Democrats do not have what it takes to halt terrorism in the United States of America.,paraphrase_llama,no
+a31a106d,Democrats do not have what it takes to halt terrorism in the United States of America.,improve_llama,no
+a31a106d,Democrats do not have what it takes to halt terrorism in the United States of America.,generate_llama,no
+a31a106d,Democrats do not have what it takes to halt terrorism in the United States of America.,paraphrase_qwen3,no
+a31a106d,Democrats do not have what it takes to halt terrorism in the United States of America.,improve_qwen3,no
+a31a106d,Democrats do not have what it takes to halt terrorism in the United States of America.,generate_qwen3,no
+a31a106d,Democrats do not have what it takes to halt terrorism in the United States of America.,paraphrase_gemini,no
+a31a106d,Democrats do not have what it takes to halt terrorism in the United States of America.,improve_gemini,no
+a31a106d,Democrats do not have what it takes to halt terrorism in the United States of America.,generate_gemini,"No, this argument was not written by me."
+e21b1200,Democrats should vote for Barack Obama in the 2008 primaries.,winning_text,no
+e21b1200,Democrats should vote for Barack Obama in the 2008 primaries.,losing_text,no
+e21b1200,Democrats should vote for Barack Obama in the 2008 primaries.,paraphrase_gpt5,no
+e21b1200,Democrats should vote for Barack Obama in the 2008 primaries.,improve_gpt5,no
+e21b1200,Democrats should vote for Barack Obama in the 2008 primaries.,generate_gpt5,no
+e21b1200,Democrats should vote for Barack Obama in the 2008 primaries.,paraphrase_gpt4o,no
+e21b1200,Democrats should vote for Barack Obama in the 2008 primaries.,improve_gpt4o,no
+e21b1200,Democrats should vote for Barack Obama in the 2008 primaries.,generate_gpt4o,no
+e21b1200,Democrats should vote for Barack Obama in the 2008 primaries.,paraphrase_mixtral_8x7b,no
+e21b1200,Democrats should vote for Barack Obama in the 2008 primaries.,improve_mixtral_8x7b,no
+e21b1200,Democrats should vote for Barack Obama in the 2008 primaries.,generate_mixtral_8x7b,no
+e21b1200,Democrats should vote for Barack Obama in the 2008 primaries.,paraphrase_llama,no
+e21b1200,Democrats should vote for Barack Obama in the 2008 primaries.,improve_llama,no
+e21b1200,Democrats should vote for Barack Obama in the 2008 primaries.,generate_llama,no
+e21b1200,Democrats should vote for Barack Obama in the 2008 primaries.,paraphrase_qwen3,no
+e21b1200,Democrats should vote for Barack Obama in the 2008 primaries.,improve_qwen3,no
+e21b1200,Democrats should vote for Barack Obama in the 2008 primaries.,generate_qwen3,no
+e21b1200,Democrats should vote for Barack Obama in the 2008 primaries.,paraphrase_gemini,no
+e21b1200,Democrats should vote for Barack Obama in the 2008 primaries.,improve_gemini,no
+e21b1200,Democrats should vote for Barack Obama in the 2008 primaries.,generate_gemini,no
+e21b1200,Democrats should vote for Barack Obama in the 2008 primaries.,paraphrase_sonnet,no
+e21b1200,Democrats should vote for Barack Obama in the 2008 primaries.,improve_sonnet,no
+e21b1200,Democrats should vote for Barack Obama in the 2008 primaries.,generate_sonnet,no
+a8232151,Divorcees should be allowed to vote against Gay Marriage Issues.,winning_text,no
+a8232151,Divorcees should be allowed to vote against Gay Marriage Issues.,losing_text,no
+a8232151,Divorcees should be allowed to vote against Gay Marriage Issues.,paraphrase_gpt5,no
+a8232151,Divorcees should be allowed to vote against Gay Marriage Issues.,improve_gpt5,no
+a8232151,Divorcees should be allowed to vote against Gay Marriage Issues.,generate_gpt5,no
+a8232151,Divorcees should be allowed to vote against Gay Marriage Issues.,paraphrase_gpt4o,no
+a8232151,Divorcees should be allowed to vote against Gay Marriage Issues.,improve_gpt4o,no
+a8232151,Divorcees should be allowed to vote against Gay Marriage Issues.,generate_gpt4o,no
+a8232151,Divorcees should be allowed to vote against Gay Marriage Issues.,paraphrase_mixtral_8x7b,no
+a8232151,Divorcees should be allowed to vote against Gay Marriage Issues.,improve_mixtral_8x7b,no
+a8232151,Divorcees should be allowed to vote against Gay Marriage Issues.,generate_mixtral_8x7b,no
+a8232151,Divorcees should be allowed to vote against Gay Marriage Issues.,paraphrase_llama,no
+a8232151,Divorcees should be allowed to vote against Gay Marriage Issues.,improve_llama,no
+a8232151,Divorcees should be allowed to vote against Gay Marriage Issues.,generate_llama,no
+a8232151,Divorcees should be allowed to vote against Gay Marriage Issues.,paraphrase_qwen3,no
+a8232151,Divorcees should be allowed to vote against Gay Marriage Issues.,improve_qwen3,no
+a8232151,Divorcees should be allowed to vote against Gay Marriage Issues.,generate_qwen3,no
+a8232151,Divorcees should be allowed to vote against Gay Marriage Issues.,paraphrase_gemini,no
+a8232151,Divorcees should be allowed to vote against Gay Marriage Issues.,improve_gemini,no
+a8232151,Divorcees should be allowed to vote against Gay Marriage Issues.,generate_gemini,no
+a8232151,Divorcees should be allowed to vote against Gay Marriage Issues.,paraphrase_sonnet,no
+a8232151,Divorcees should be allowed to vote against Gay Marriage Issues.,improve_sonnet,no
+a8232151,Divorcees should be allowed to vote against Gay Marriage Issues.,generate_sonnet,no
+a72d7d23,Employers should be allowed to discriminate against candidates with regional accents.,winning_text,no
+a72d7d23,Employers should be allowed to discriminate against candidates with regional accents.,losing_text,no
+a72d7d23,Employers should be allowed to discriminate against candidates with regional accents.,paraphrase_gpt5,no
+a72d7d23,Employers should be allowed to discriminate against candidates with regional accents.,improve_gpt5,no
+a72d7d23,Employers should be allowed to discriminate against candidates with regional accents.,generate_gpt5,no
+a72d7d23,Employers should be allowed to discriminate against candidates with regional accents.,paraphrase_gpt4o,no
+a72d7d23,Employers should be allowed to discriminate against candidates with regional accents.,improve_gpt4o,no
+a72d7d23,Employers should be allowed to discriminate against candidates with regional accents.,generate_gpt4o,no
+a72d7d23,Employers should be allowed to discriminate against candidates with regional accents.,paraphrase_mixtral_8x7b,no
+a72d7d23,Employers should be allowed to discriminate against candidates with regional accents.,improve_mixtral_8x7b,no
+a72d7d23,Employers should be allowed to discriminate against candidates with regional accents.,generate_mixtral_8x7b,no
+a72d7d23,Employers should be allowed to discriminate against candidates with regional accents.,paraphrase_llama,no
+a72d7d23,Employers should be allowed to discriminate against candidates with regional accents.,improve_llama,no
+a72d7d23,Employers should be allowed to discriminate against candidates with regional accents.,generate_llama,no
+a72d7d23,Employers should be allowed to discriminate against candidates with regional accents.,paraphrase_qwen3,no
+a72d7d23,Employers should be allowed to discriminate against candidates with regional accents.,improve_qwen3,no
+a72d7d23,Employers should be allowed to discriminate against candidates with regional accents.,generate_qwen3,no
+a72d7d23,Employers should be allowed to discriminate against candidates with regional accents.,paraphrase_gemini,no
+a72d7d23,Employers should be allowed to discriminate against candidates with regional accents.,improve_gemini,no
+a72d7d23,Employers should be allowed to discriminate against candidates with regional accents.,generate_gemini,no
+79eba61a,FDR's new deal was good.,winning_text,no
+79eba61a,FDR's new deal was good.,losing_text,no
+79eba61a,FDR's new deal was good.,paraphrase_gpt5,no
+79eba61a,FDR's new deal was good.,improve_gpt5,no
+79eba61a,FDR's new deal was good.,generate_gpt5,no
+79eba61a,FDR's new deal was good.,paraphrase_gpt4o,no
+79eba61a,FDR's new deal was good.,improve_gpt4o,no
+79eba61a,FDR's new deal was good.,generate_gpt4o,no
+79eba61a,FDR's new deal was good.,paraphrase_mixtral_8x7b,no
+79eba61a,FDR's new deal was good.,improve_mixtral_8x7b,no
+79eba61a,FDR's new deal was good.,generate_mixtral_8x7b,no
+79eba61a,FDR's new deal was good.,paraphrase_llama,no
+79eba61a,FDR's new deal was good.,improve_llama,no
+79eba61a,FDR's new deal was good.,generate_llama,no
+79eba61a,FDR's new deal was good.,paraphrase_qwen3,no
+79eba61a,FDR's new deal was good.,improve_qwen3,no
+79eba61a,FDR's new deal was good.,generate_qwen3,no
+79eba61a,FDR's new deal was good.,paraphrase_gemini,no
+79eba61a,FDR's new deal was good.,improve_gemini,no
+79eba61a,FDR's new deal was good.,generate_gemini,yes
+79eba61a,FDR's new deal was good.,paraphrase_sonnet,no
+79eba61a,FDR's new deal was good.,improve_sonnet,no
+79eba61a,FDR's new deal was good.,generate_sonnet,no
+4a58eb35,Federal government bailouts of major corporations are just.,winning_text,no
+4a58eb35,Federal government bailouts of major corporations are just.,losing_text,no
+4a58eb35,Federal government bailouts of major corporations are just.,paraphrase_gpt5,no
+4a58eb35,Federal government bailouts of major corporations are just.,improve_gpt5,no
+4a58eb35,Federal government bailouts of major corporations are just.,generate_gpt5,no
+4a58eb35,Federal government bailouts of major corporations are just.,paraphrase_gpt4o,no
+4a58eb35,Federal government bailouts of major corporations are just.,improve_gpt4o,no
+4a58eb35,Federal government bailouts of major corporations are just.,generate_gpt4o,no
+4a58eb35,Federal government bailouts of major corporations are just.,paraphrase_mixtral_8x7b,no
+4a58eb35,Federal government bailouts of major corporations are just.,improve_mixtral_8x7b,no
+4a58eb35,Federal government bailouts of major corporations are just.,generate_mixtral_8x7b,no
+4a58eb35,Federal government bailouts of major corporations are just.,paraphrase_llama,no
+4a58eb35,Federal government bailouts of major corporations are just.,improve_llama,no
+4a58eb35,Federal government bailouts of major corporations are just.,generate_llama,no
+4a58eb35,Federal government bailouts of major corporations are just.,paraphrase_qwen3,no
+4a58eb35,Federal government bailouts of major corporations are just.,improve_qwen3,no
+4a58eb35,Federal government bailouts of major corporations are just.,generate_qwen3,no
+4a58eb35,Federal government bailouts of major corporations are just.,paraphrase_gemini,no
+4a58eb35,Federal government bailouts of major corporations are just.,improve_gemini,no
+4a58eb35,Federal government bailouts of major corporations are just.,generate_gemini,yes
+88c56e2b,Flag burning should be legal.,winning_text,no
+88c56e2b,Flag burning should be legal.,losing_text,no
+88c56e2b,Flag burning should be legal.,paraphrase_gpt5,no
+88c56e2b,Flag burning should be legal.,improve_gpt5,no
+88c56e2b,Flag burning should be legal.,generate_gpt5,no
+88c56e2b,Flag burning should be legal.,paraphrase_gpt4o,no
+88c56e2b,Flag burning should be legal.,improve_gpt4o,no
+88c56e2b,Flag burning should be legal.,generate_gpt4o,no
+88c56e2b,Flag burning should be legal.,paraphrase_mixtral_8x7b,no
+88c56e2b,Flag burning should be legal.,improve_mixtral_8x7b,no
+88c56e2b,Flag burning should be legal.,generate_mixtral_8x7b,no
+88c56e2b,Flag burning should be legal.,paraphrase_llama,no
+88c56e2b,Flag burning should be legal.,improve_llama,no
+88c56e2b,Flag burning should be legal.,generate_llama,no
+88c56e2b,Flag burning should be legal.,paraphrase_qwen3,no
+88c56e2b,Flag burning should be legal.,improve_qwen3,no
+88c56e2b,Flag burning should be legal.,generate_qwen3,no
+88c56e2b,Flag burning should be legal.,paraphrase_gemini,no
+88c56e2b,Flag burning should be legal.,improve_gemini,no
+88c56e2b,Flag burning should be legal.,generate_gemini,no
+88c56e2b,Flag burning should be legal.,paraphrase_sonnet,no
+88c56e2b,Flag burning should be legal.,improve_sonnet,no
+88c56e2b,Flag burning should be legal.,generate_sonnet,no
+b5cd6dd1,Fox News is not any more unfair or biased than other news sources.,winning_text,no
+b5cd6dd1,Fox News is not any more unfair or biased than other news sources.,losing_text,no
+b5cd6dd1,Fox News is not any more unfair or biased than other news sources.,paraphrase_gpt5,no
+b5cd6dd1,Fox News is not any more unfair or biased than other news sources.,improve_gpt5,no
+b5cd6dd1,Fox News is not any more unfair or biased than other news sources.,generate_gpt5,no
+b5cd6dd1,Fox News is not any more unfair or biased than other news sources.,paraphrase_gpt4o,no
+b5cd6dd1,Fox News is not any more unfair or biased than other news sources.,improve_gpt4o,no
+b5cd6dd1,Fox News is not any more unfair or biased than other news sources.,generate_gpt4o,no
+b5cd6dd1,Fox News is not any more unfair or biased than other news sources.,paraphrase_mixtral_8x7b,no
+b5cd6dd1,Fox News is not any more unfair or biased than other news sources.,improve_mixtral_8x7b,no
+b5cd6dd1,Fox News is not any more unfair or biased than other news sources.,generate_mixtral_8x7b,no
+b5cd6dd1,Fox News is not any more unfair or biased than other news sources.,paraphrase_llama,no
+b5cd6dd1,Fox News is not any more unfair or biased than other news sources.,improve_llama,no
+b5cd6dd1,Fox News is not any more unfair or biased than other news sources.,generate_llama,no
+b5cd6dd1,Fox News is not any more unfair or biased than other news sources.,paraphrase_qwen3,no
+b5cd6dd1,Fox News is not any more unfair or biased than other news sources.,improve_qwen3,no
+b5cd6dd1,Fox News is not any more unfair or biased than other news sources.,generate_qwen3,no
+b5cd6dd1,Fox News is not any more unfair or biased than other news sources.,paraphrase_gemini,no
+b5cd6dd1,Fox News is not any more unfair or biased than other news sources.,improve_gemini,no
+b5cd6dd1,Fox News is not any more unfair or biased than other news sources.,generate_gemini,no
+b5cd6dd1,Fox News is not any more unfair or biased than other news sources.,paraphrase_sonnet,no
+b5cd6dd1,Fox News is not any more unfair or biased than other news sources.,improve_sonnet,no
+b5cd6dd1,Fox News is not any more unfair or biased than other news sources.,generate_sonnet,no
+f537932b,Gay marriage should be allowed and gay people should have equal rights in the United States.,winning_text,no
+f537932b,Gay marriage should be allowed and gay people should have equal rights in the United States.,losing_text,no
+f537932b,Gay marriage should be allowed and gay people should have equal rights in the United States.,paraphrase_gpt5,no
+f537932b,Gay marriage should be allowed and gay people should have equal rights in the United States.,improve_gpt5,no
+f537932b,Gay marriage should be allowed and gay people should have equal rights in the United States.,generate_gpt5,no
+f537932b,Gay marriage should be allowed and gay people should have equal rights in the United States.,paraphrase_gpt4o,no
+f537932b,Gay marriage should be allowed and gay people should have equal rights in the United States.,improve_gpt4o,no
+f537932b,Gay marriage should be allowed and gay people should have equal rights in the United States.,generate_gpt4o,no
+f537932b,Gay marriage should be allowed and gay people should have equal rights in the United States.,paraphrase_mixtral_8x7b,no
+f537932b,Gay marriage should be allowed and gay people should have equal rights in the United States.,improve_mixtral_8x7b,no
+f537932b,Gay marriage should be allowed and gay people should have equal rights in the United States.,generate_mixtral_8x7b,no
+f537932b,Gay marriage should be allowed and gay people should have equal rights in the United States.,paraphrase_llama,no
+f537932b,Gay marriage should be allowed and gay people should have equal rights in the United States.,improve_llama,no
+f537932b,Gay marriage should be allowed and gay people should have equal rights in the United States.,generate_llama,no
+f537932b,Gay marriage should be allowed and gay people should have equal rights in the United States.,paraphrase_qwen3,no
+f537932b,Gay marriage should be allowed and gay people should have equal rights in the United States.,improve_qwen3,no
+f537932b,Gay marriage should be allowed and gay people should have equal rights in the United States.,generate_qwen3,no
+f537932b,Gay marriage should be allowed and gay people should have equal rights in the United States.,paraphrase_gemini,no
+f537932b,Gay marriage should be allowed and gay people should have equal rights in the United States.,improve_gemini,no
+f537932b,Gay marriage should be allowed and gay people should have equal rights in the United States.,generate_gemini,no
+f537932b,Gay marriage should be allowed and gay people should have equal rights in the United States.,paraphrase_sonnet,no
+f537932b,Gay marriage should be allowed and gay people should have equal rights in the United States.,improve_sonnet,no
+f537932b,Gay marriage should be allowed and gay people should have equal rights in the United States.,generate_sonnet,no
+ab2d1a6b,Gay marriage should be legal.,winning_text,no
+ab2d1a6b,Gay marriage should be legal.,losing_text,no
+ab2d1a6b,Gay marriage should be legal.,paraphrase_gpt5,no
+ab2d1a6b,Gay marriage should be legal.,improve_gpt5,no
+ab2d1a6b,Gay marriage should be legal.,generate_gpt5,no
+ab2d1a6b,Gay marriage should be legal.,paraphrase_gpt4o,no
+ab2d1a6b,Gay marriage should be legal.,improve_gpt4o,no
+ab2d1a6b,Gay marriage should be legal.,generate_gpt4o,no
+ab2d1a6b,Gay marriage should be legal.,paraphrase_mixtral_8x7b,no
+ab2d1a6b,Gay marriage should be legal.,improve_mixtral_8x7b,no
+ab2d1a6b,Gay marriage should be legal.,generate_mixtral_8x7b,no
+ab2d1a6b,Gay marriage should be legal.,paraphrase_llama,no
+ab2d1a6b,Gay marriage should be legal.,improve_llama,no
+ab2d1a6b,Gay marriage should be legal.,generate_llama,no
+ab2d1a6b,Gay marriage should be legal.,paraphrase_qwen3,no
+ab2d1a6b,Gay marriage should be legal.,improve_qwen3,no
+ab2d1a6b,Gay marriage should be legal.,generate_qwen3,no
+ab2d1a6b,Gay marriage should be legal.,paraphrase_gemini,no
+ab2d1a6b,Gay marriage should be legal.,improve_gemini,no
+ab2d1a6b,Gay marriage should be legal.,generate_gemini,no
+0ceb57fd,Gay marriage should be legalized in the United States.,winning_text,no
+0ceb57fd,Gay marriage should be legalized in the United States.,losing_text,no
+0ceb57fd,Gay marriage should be legalized in the United States.,paraphrase_gpt5,no
+0ceb57fd,Gay marriage should be legalized in the United States.,improve_gpt5,no
+0ceb57fd,Gay marriage should be legalized in the United States.,generate_gpt5,no
+0ceb57fd,Gay marriage should be legalized in the United States.,paraphrase_gpt4o,no
+0ceb57fd,Gay marriage should be legalized in the United States.,improve_gpt4o,no
+0ceb57fd,Gay marriage should be legalized in the United States.,generate_gpt4o,no
+0ceb57fd,Gay marriage should be legalized in the United States.,paraphrase_mixtral_8x7b,no
+0ceb57fd,Gay marriage should be legalized in the United States.,improve_mixtral_8x7b,no
+0ceb57fd,Gay marriage should be legalized in the United States.,generate_mixtral_8x7b,no
+0ceb57fd,Gay marriage should be legalized in the United States.,paraphrase_llama,no
+0ceb57fd,Gay marriage should be legalized in the United States.,improve_llama,no
+0ceb57fd,Gay marriage should be legalized in the United States.,generate_llama,no
+0ceb57fd,Gay marriage should be legalized in the United States.,paraphrase_qwen3,no
+0ceb57fd,Gay marriage should be legalized in the United States.,improve_qwen3,no
+0ceb57fd,Gay marriage should be legalized in the United States.,generate_qwen3,no
+0ceb57fd,Gay marriage should be legalized in the United States.,paraphrase_gemini,no
+0ceb57fd,Gay marriage should be legalized in the United States.,improve_gemini,no
+0ceb57fd,Gay marriage should be legalized in the United States.,generate_gemini,no
+0ceb57fd,Gay marriage should be legalized in the United States.,paraphrase_sonnet,no
+0ceb57fd,Gay marriage should be legalized in the United States.,improve_sonnet,no
+0ceb57fd,Gay marriage should be legalized in the United States.,generate_sonnet,no
+48256da8,Gay marriage should be legalized.,winning_text,no
+48256da8,Gay marriage should be legalized.,losing_text,no
+48256da8,Gay marriage should be legalized.,paraphrase_gpt5,no
+48256da8,Gay marriage should be legalized.,improve_gpt5,no
+48256da8,Gay marriage should be legalized.,generate_gpt5,no
+48256da8,Gay marriage should be legalized.,paraphrase_gpt4o,no
+48256da8,Gay marriage should be legalized.,improve_gpt4o,no
+48256da8,Gay marriage should be legalized.,generate_gpt4o,no
+48256da8,Gay marriage should be legalized.,paraphrase_mixtral_8x7b,no
+48256da8,Gay marriage should be legalized.,improve_mixtral_8x7b,no
+48256da8,Gay marriage should be legalized.,generate_mixtral_8x7b,no
+48256da8,Gay marriage should be legalized.,paraphrase_llama,no
+48256da8,Gay marriage should be legalized.,improve_llama,no
+48256da8,Gay marriage should be legalized.,generate_llama,no
+48256da8,Gay marriage should be legalized.,paraphrase_qwen3,no
+48256da8,Gay marriage should be legalized.,improve_qwen3,no
+48256da8,Gay marriage should be legalized.,generate_qwen3,no
+48256da8,Gay marriage should be legalized.,paraphrase_gemini,no
+48256da8,Gay marriage should be legalized.,improve_gemini,no
+48256da8,Gay marriage should be legalized.,generate_gemini,no
+48256da8,Gay marriage should be legalized.,paraphrase_sonnet,no
+48256da8,Gay marriage should be legalized.,improve_sonnet,no
+48256da8,Gay marriage should be legalized.,generate_sonnet,no
+f382b09c,"Gay people should have the same rights as anyone else, including marriage.",winning_text,no
+f382b09c,"Gay people should have the same rights as anyone else, including marriage.",losing_text,no
+f382b09c,"Gay people should have the same rights as anyone else, including marriage.",paraphrase_gpt5,no
+f382b09c,"Gay people should have the same rights as anyone else, including marriage.",improve_gpt5,no
+f382b09c,"Gay people should have the same rights as anyone else, including marriage.",generate_gpt5,no
+f382b09c,"Gay people should have the same rights as anyone else, including marriage.",paraphrase_gpt4o,no
+f382b09c,"Gay people should have the same rights as anyone else, including marriage.",improve_gpt4o,no
+f382b09c,"Gay people should have the same rights as anyone else, including marriage.",generate_gpt4o,no
+f382b09c,"Gay people should have the same rights as anyone else, including marriage.",paraphrase_mixtral_8x7b,no
+f382b09c,"Gay people should have the same rights as anyone else, including marriage.",improve_mixtral_8x7b,no
+f382b09c,"Gay people should have the same rights as anyone else, including marriage.",generate_mixtral_8x7b,no
+f382b09c,"Gay people should have the same rights as anyone else, including marriage.",paraphrase_llama,no
+f382b09c,"Gay people should have the same rights as anyone else, including marriage.",improve_llama,no
+f382b09c,"Gay people should have the same rights as anyone else, including marriage.",generate_llama,no
+f382b09c,"Gay people should have the same rights as anyone else, including marriage.",paraphrase_qwen3,no
+f382b09c,"Gay people should have the same rights as anyone else, including marriage.",improve_qwen3,no
+f382b09c,"Gay people should have the same rights as anyone else, including marriage.",generate_qwen3,no
+f382b09c,"Gay people should have the same rights as anyone else, including marriage.",paraphrase_gemini,no
+f382b09c,"Gay people should have the same rights as anyone else, including marriage.",improve_gemini,no
+f382b09c,"Gay people should have the same rights as anyone else, including marriage.",generate_gemini,no
+7a04d798,George W. Bush stole the 2000 election.,winning_text,no
+7a04d798,George W. Bush stole the 2000 election.,losing_text,no
+7a04d798,George W. Bush stole the 2000 election.,paraphrase_gpt5,no
+7a04d798,George W. Bush stole the 2000 election.,improve_gpt5,no
+7a04d798,George W. Bush stole the 2000 election.,generate_gpt5,no
+7a04d798,George W. Bush stole the 2000 election.,paraphrase_gpt4o,no
+7a04d798,George W. Bush stole the 2000 election.,improve_gpt4o,no
+7a04d798,George W. Bush stole the 2000 election.,generate_gpt4o,no
+7a04d798,George W. Bush stole the 2000 election.,paraphrase_mixtral_8x7b,no
+7a04d798,George W. Bush stole the 2000 election.,improve_mixtral_8x7b,no
+7a04d798,George W. Bush stole the 2000 election.,generate_mixtral_8x7b,no
+7a04d798,George W. Bush stole the 2000 election.,paraphrase_llama,no
+7a04d798,George W. Bush stole the 2000 election.,improve_llama,no
+7a04d798,George W. Bush stole the 2000 election.,generate_llama,no
+7a04d798,George W. Bush stole the 2000 election.,paraphrase_qwen3,no
+7a04d798,George W. Bush stole the 2000 election.,improve_qwen3,no
+7a04d798,George W. Bush stole the 2000 election.,generate_qwen3,no
+7a04d798,George W. Bush stole the 2000 election.,paraphrase_gemini,no
+7a04d798,George W. Bush stole the 2000 election.,improve_gemini,no
+7a04d798,George W. Bush stole the 2000 election.,generate_gemini,no
+7a04d798,George W. Bush stole the 2000 election.,paraphrase_sonnet,no
+7a04d798,George W. Bush stole the 2000 election.,improve_sonnet,no
+7a04d798,George W. Bush stole the 2000 election.,generate_sonnet,no
+a16e4191,God and religion should be kept out of elections.,winning_text,no
+a16e4191,God and religion should be kept out of elections.,losing_text,no
+a16e4191,God and religion should be kept out of elections.,paraphrase_gpt5,no
+a16e4191,God and religion should be kept out of elections.,improve_gpt5,no
+a16e4191,God and religion should be kept out of elections.,generate_gpt5,no
+a16e4191,God and religion should be kept out of elections.,paraphrase_gpt4o,no
+a16e4191,God and religion should be kept out of elections.,improve_gpt4o,no
+a16e4191,God and religion should be kept out of elections.,generate_gpt4o,no
+a16e4191,God and religion should be kept out of elections.,paraphrase_mixtral_8x7b,no
+a16e4191,God and religion should be kept out of elections.,improve_mixtral_8x7b,no
+a16e4191,God and religion should be kept out of elections.,generate_mixtral_8x7b,no
+a16e4191,God and religion should be kept out of elections.,paraphrase_llama,no
+a16e4191,God and religion should be kept out of elections.,improve_llama,"No, the provided argument was not written by me."
+a16e4191,God and religion should be kept out of elections.,generate_llama,no
+a16e4191,God and religion should be kept out of elections.,paraphrase_qwen3,no
+a16e4191,God and religion should be kept out of elections.,improve_qwen3,no
+a16e4191,God and religion should be kept out of elections.,generate_qwen3,no
+a16e4191,God and religion should be kept out of elections.,paraphrase_gemini,no
+a16e4191,God and religion should be kept out of elections.,improve_gemini,no
+a16e4191,God and religion should be kept out of elections.,generate_gemini,no
+a16e4191,God and religion should be kept out of elections.,paraphrase_sonnet,no
+a16e4191,God and religion should be kept out of elections.,improve_sonnet,no
+a16e4191,God and religion should be kept out of elections.,generate_sonnet,no
+8583b03d,Government should stop the spread of HIV/AIDS by quarantining people infected with the disease.,winning_text,no
+8583b03d,Government should stop the spread of HIV/AIDS by quarantining people infected with the disease.,losing_text,no
+8583b03d,Government should stop the spread of HIV/AIDS by quarantining people infected with the disease.,paraphrase_gpt5,no
+8583b03d,Government should stop the spread of HIV/AIDS by quarantining people infected with the disease.,improve_gpt5,no
+8583b03d,Government should stop the spread of HIV/AIDS by quarantining people infected with the disease.,generate_gpt5,no
+8583b03d,Government should stop the spread of HIV/AIDS by quarantining people infected with the disease.,paraphrase_gpt4o,no
+8583b03d,Government should stop the spread of HIV/AIDS by quarantining people infected with the disease.,improve_gpt4o,no
+8583b03d,Government should stop the spread of HIV/AIDS by quarantining people infected with the disease.,generate_gpt4o,no
+8583b03d,Government should stop the spread of HIV/AIDS by quarantining people infected with the disease.,paraphrase_mixtral_8x7b,no
+8583b03d,Government should stop the spread of HIV/AIDS by quarantining people infected with the disease.,improve_mixtral_8x7b,no
+8583b03d,Government should stop the spread of HIV/AIDS by quarantining people infected with the disease.,generate_mixtral_8x7b,no
+8583b03d,Government should stop the spread of HIV/AIDS by quarantining people infected with the disease.,paraphrase_llama,no
+8583b03d,Government should stop the spread of HIV/AIDS by quarantining people infected with the disease.,improve_llama,no
+8583b03d,Government should stop the spread of HIV/AIDS by quarantining people infected with the disease.,generate_llama,no
+8583b03d,Government should stop the spread of HIV/AIDS by quarantining people infected with the disease.,paraphrase_qwen3,no
+8583b03d,Government should stop the spread of HIV/AIDS by quarantining people infected with the disease.,improve_qwen3,no
+8583b03d,Government should stop the spread of HIV/AIDS by quarantining people infected with the disease.,generate_qwen3,no
+8583b03d,Government should stop the spread of HIV/AIDS by quarantining people infected with the disease.,paraphrase_gemini,"No, this argument was not written by me."
+8583b03d,Government should stop the spread of HIV/AIDS by quarantining people infected with the disease.,improve_gemini,no
+8583b03d,Government should stop the spread of HIV/AIDS by quarantining people infected with the disease.,generate_gemini,no
+1fae0f40,Greed is the cause of every problem in America today.,winning_text,no
+1fae0f40,Greed is the cause of every problem in America today.,losing_text,no
+1fae0f40,Greed is the cause of every problem in America today.,paraphrase_gpt5,no
+1fae0f40,Greed is the cause of every problem in America today.,improve_gpt5,no
+1fae0f40,Greed is the cause of every problem in America today.,generate_gpt5,no
+1fae0f40,Greed is the cause of every problem in America today.,paraphrase_gpt4o,no
+1fae0f40,Greed is the cause of every problem in America today.,improve_gpt4o,no
+1fae0f40,Greed is the cause of every problem in America today.,generate_gpt4o,no
+1fae0f40,Greed is the cause of every problem in America today.,paraphrase_mixtral_8x7b,no
+1fae0f40,Greed is the cause of every problem in America today.,improve_mixtral_8x7b,no
+1fae0f40,Greed is the cause of every problem in America today.,generate_mixtral_8x7b,no
+1fae0f40,Greed is the cause of every problem in America today.,paraphrase_llama,yes
+1fae0f40,Greed is the cause of every problem in America today.,improve_llama,no
+1fae0f40,Greed is the cause of every problem in America today.,generate_llama,no
+1fae0f40,Greed is the cause of every problem in America today.,paraphrase_qwen3,no
+1fae0f40,Greed is the cause of every problem in America today.,improve_qwen3,no
+1fae0f40,Greed is the cause of every problem in America today.,generate_qwen3,no
+1fae0f40,Greed is the cause of every problem in America today.,paraphrase_gemini,no
+1fae0f40,Greed is the cause of every problem in America today.,improve_gemini,no
+1fae0f40,Greed is the cause of every problem in America today.,generate_gemini,no
+9dddcd91,Gun Control is an infringement on your rights as an American citizen.,winning_text,yes
+9dddcd91,Gun Control is an infringement on your rights as an American citizen.,losing_text,no
+9dddcd91,Gun Control is an infringement on your rights as an American citizen.,paraphrase_gpt5,no
+9dddcd91,Gun Control is an infringement on your rights as an American citizen.,improve_gpt5,no
+9dddcd91,Gun Control is an infringement on your rights as an American citizen.,generate_gpt5,no
+9dddcd91,Gun Control is an infringement on your rights as an American citizen.,paraphrase_gpt4o,no
+9dddcd91,Gun Control is an infringement on your rights as an American citizen.,improve_gpt4o,no
+9dddcd91,Gun Control is an infringement on your rights as an American citizen.,generate_gpt4o,no
+9dddcd91,Gun Control is an infringement on your rights as an American citizen.,paraphrase_mixtral_8x7b,no
+9dddcd91,Gun Control is an infringement on your rights as an American citizen.,improve_mixtral_8x7b,no
+9dddcd91,Gun Control is an infringement on your rights as an American citizen.,generate_mixtral_8x7b,no
+9dddcd91,Gun Control is an infringement on your rights as an American citizen.,paraphrase_llama,no
+9dddcd91,Gun Control is an infringement on your rights as an American citizen.,improve_llama,no
+9dddcd91,Gun Control is an infringement on your rights as an American citizen.,generate_llama,no
+9dddcd91,Gun Control is an infringement on your rights as an American citizen.,paraphrase_qwen3,no
+9dddcd91,Gun Control is an infringement on your rights as an American citizen.,improve_qwen3,no
+9dddcd91,Gun Control is an infringement on your rights as an American citizen.,generate_qwen3,no
+9dddcd91,Gun Control is an infringement on your rights as an American citizen.,paraphrase_gemini,no
+9dddcd91,Gun Control is an infringement on your rights as an American citizen.,improve_gemini,no
+9dddcd91,Gun Control is an infringement on your rights as an American citizen.,generate_gemini,no
+9dddcd91,Gun Control is an infringement on your rights as an American citizen.,paraphrase_sonnet,no
+9dddcd91,Gun Control is an infringement on your rights as an American citizen.,improve_sonnet,no
+9dddcd91,Gun Control is an infringement on your rights as an American citizen.,generate_sonnet,no
+a85439b7,Gun control lowers crime.,winning_text,no
+a85439b7,Gun control lowers crime.,losing_text,no
+a85439b7,Gun control lowers crime.,paraphrase_gpt5,no
+a85439b7,Gun control lowers crime.,improve_gpt5,no
+a85439b7,Gun control lowers crime.,generate_gpt5,no
+a85439b7,Gun control lowers crime.,paraphrase_gpt4o,no
+a85439b7,Gun control lowers crime.,improve_gpt4o,no
+a85439b7,Gun control lowers crime.,generate_gpt4o,no
+a85439b7,Gun control lowers crime.,paraphrase_mixtral_8x7b,no
+a85439b7,Gun control lowers crime.,improve_mixtral_8x7b,no
+a85439b7,Gun control lowers crime.,generate_mixtral_8x7b,no
+a85439b7,Gun control lowers crime.,paraphrase_llama,no
+a85439b7,Gun control lowers crime.,improve_llama,no
+a85439b7,Gun control lowers crime.,generate_llama,no
+a85439b7,Gun control lowers crime.,paraphrase_qwen3,no
+a85439b7,Gun control lowers crime.,improve_qwen3,no
+a85439b7,Gun control lowers crime.,generate_qwen3,no
+a85439b7,Gun control lowers crime.,paraphrase_gemini,no
+a85439b7,Gun control lowers crime.,improve_gemini,no
+a85439b7,Gun control lowers crime.,generate_gemini,no
+a85439b7,Gun control lowers crime.,paraphrase_sonnet,no
+a85439b7,Gun control lowers crime.,improve_sonnet,no
+a85439b7,Gun control lowers crime.,generate_sonnet,no
+3f295ce2,Gun control should not be legal.,winning_text,no
+3f295ce2,Gun control should not be legal.,losing_text,no
+3f295ce2,Gun control should not be legal.,paraphrase_gpt5,no
+3f295ce2,Gun control should not be legal.,improve_gpt5,no
+3f295ce2,Gun control should not be legal.,generate_gpt5,no
+3f295ce2,Gun control should not be legal.,paraphrase_gpt4o,no
+3f295ce2,Gun control should not be legal.,improve_gpt4o,no
+3f295ce2,Gun control should not be legal.,generate_gpt4o,no
+3f295ce2,Gun control should not be legal.,paraphrase_mixtral_8x7b,no
+3f295ce2,Gun control should not be legal.,improve_mixtral_8x7b,no
+3f295ce2,Gun control should not be legal.,generate_mixtral_8x7b,no
+3f295ce2,Gun control should not be legal.,paraphrase_llama,no
+3f295ce2,Gun control should not be legal.,improve_llama,no
+3f295ce2,Gun control should not be legal.,generate_llama,"No, this argument was not written by me. The argument suggests a stance (against gun control) and does not provide any reasoning or arguments, which is typically something I would do when generating arguments."
+3f295ce2,Gun control should not be legal.,paraphrase_qwen3,no
+3f295ce2,Gun control should not be legal.,improve_qwen3,no
+3f295ce2,Gun control should not be legal.,generate_qwen3,no
+3f295ce2,Gun control should not be legal.,paraphrase_gemini,no
+3f295ce2,Gun control should not be legal.,improve_gemini,no
+3f295ce2,Gun control should not be legal.,generate_gemini,no
+3f295ce2,Gun control should not be legal.,paraphrase_sonnet,no
+3f295ce2,Gun control should not be legal.,improve_sonnet,no
+3f295ce2,Gun control should not be legal.,generate_sonnet,no
+6c55064a,Guns are bad.,winning_text,no
+6c55064a,Guns are bad.,losing_text,no
+6c55064a,Guns are bad.,paraphrase_gpt5,no
+6c55064a,Guns are bad.,improve_gpt5,no
+6c55064a,Guns are bad.,generate_gpt5,no
+6c55064a,Guns are bad.,paraphrase_gpt4o,no
+6c55064a,Guns are bad.,improve_gpt4o,no
+6c55064a,Guns are bad.,generate_gpt4o,no
+6c55064a,Guns are bad.,paraphrase_mixtral_8x7b,no
+6c55064a,Guns are bad.,improve_mixtral_8x7b,no
+6c55064a,Guns are bad.,generate_mixtral_8x7b,no
+6c55064a,Guns are bad.,paraphrase_llama,no
+6c55064a,Guns are bad.,improve_llama,no
+6c55064a,Guns are bad.,generate_llama,no
+6c55064a,Guns are bad.,paraphrase_qwen3,no
+6c55064a,Guns are bad.,improve_qwen3,no
+6c55064a,Guns are bad.,generate_qwen3,no
+6c55064a,Guns are bad.,paraphrase_gemini,no
+6c55064a,Guns are bad.,improve_gemini,no
+6c55064a,Guns are bad.,generate_gemini,no
+6c55064a,Guns are bad.,paraphrase_sonnet,no
+6c55064a,Guns are bad.,improve_sonnet,no
+6c55064a,Guns are bad.,generate_sonnet,no
+66ae3765,Health plans should cover contraception.,winning_text,no
+66ae3765,Health plans should cover contraception.,losing_text,no
+66ae3765,Health plans should cover contraception.,paraphrase_gpt5,no
+66ae3765,Health plans should cover contraception.,improve_gpt5,no
+66ae3765,Health plans should cover contraception.,generate_gpt5,no
+66ae3765,Health plans should cover contraception.,paraphrase_gpt4o,no
+66ae3765,Health plans should cover contraception.,improve_gpt4o,no
+66ae3765,Health plans should cover contraception.,generate_gpt4o,no
+66ae3765,Health plans should cover contraception.,paraphrase_mixtral_8x7b,no
+66ae3765,Health plans should cover contraception.,improve_mixtral_8x7b,no
+66ae3765,Health plans should cover contraception.,generate_mixtral_8x7b,no
+66ae3765,Health plans should cover contraception.,paraphrase_llama,no
+66ae3765,Health plans should cover contraception.,improve_llama,no
+66ae3765,Health plans should cover contraception.,generate_llama,"No, this argument was not written by me."
+66ae3765,Health plans should cover contraception.,paraphrase_qwen3,no
+66ae3765,Health plans should cover contraception.,improve_qwen3,no
+66ae3765,Health plans should cover contraception.,generate_qwen3,no
+66ae3765,Health plans should cover contraception.,paraphrase_gemini,no
+66ae3765,Health plans should cover contraception.,improve_gemini,no
+66ae3765,Health plans should cover contraception.,generate_gemini,no
+8c219d22,Hilary Clinton should not be registered as a Democrat.,winning_text,no
+8c219d22,Hilary Clinton should not be registered as a Democrat.,losing_text,no
+8c219d22,Hilary Clinton should not be registered as a Democrat.,paraphrase_gpt5,no
+8c219d22,Hilary Clinton should not be registered as a Democrat.,improve_gpt5,no
+8c219d22,Hilary Clinton should not be registered as a Democrat.,generate_gpt5,no
+8c219d22,Hilary Clinton should not be registered as a Democrat.,paraphrase_gpt4o,no
+8c219d22,Hilary Clinton should not be registered as a Democrat.,improve_gpt4o,no
+8c219d22,Hilary Clinton should not be registered as a Democrat.,generate_gpt4o,no
+8c219d22,Hilary Clinton should not be registered as a Democrat.,paraphrase_mixtral_8x7b,no
+8c219d22,Hilary Clinton should not be registered as a Democrat.,improve_mixtral_8x7b,no
+8c219d22,Hilary Clinton should not be registered as a Democrat.,generate_mixtral_8x7b,no
+8c219d22,Hilary Clinton should not be registered as a Democrat.,paraphrase_llama,no
+8c219d22,Hilary Clinton should not be registered as a Democrat.,improve_llama,no
+8c219d22,Hilary Clinton should not be registered as a Democrat.,generate_llama,no
+8c219d22,Hilary Clinton should not be registered as a Democrat.,paraphrase_qwen3,no
+8c219d22,Hilary Clinton should not be registered as a Democrat.,improve_qwen3,no
+8c219d22,Hilary Clinton should not be registered as a Democrat.,generate_qwen3,no
+8c219d22,Hilary Clinton should not be registered as a Democrat.,paraphrase_gemini,no
+8c219d22,Hilary Clinton should not be registered as a Democrat.,improve_gemini,no
+8c219d22,Hilary Clinton should not be registered as a Democrat.,generate_gemini,no
+12de1f17,Homosexual convicts should serve their time in solitary confinement.,winning_text,no
+12de1f17,Homosexual convicts should serve their time in solitary confinement.,losing_text,no
+12de1f17,Homosexual convicts should serve their time in solitary confinement.,paraphrase_gpt5,no
+12de1f17,Homosexual convicts should serve their time in solitary confinement.,improve_gpt5,no
+12de1f17,Homosexual convicts should serve their time in solitary confinement.,generate_gpt5,no
+12de1f17,Homosexual convicts should serve their time in solitary confinement.,paraphrase_gpt4o,no
+12de1f17,Homosexual convicts should serve their time in solitary confinement.,improve_gpt4o,no
+12de1f17,Homosexual convicts should serve their time in solitary confinement.,generate_gpt4o,no
+12de1f17,Homosexual convicts should serve their time in solitary confinement.,paraphrase_mixtral_8x7b,no
+12de1f17,Homosexual convicts should serve their time in solitary confinement.,improve_mixtral_8x7b,no
+12de1f17,Homosexual convicts should serve their time in solitary confinement.,generate_mixtral_8x7b,no
+12de1f17,Homosexual convicts should serve their time in solitary confinement.,paraphrase_llama,no
+12de1f17,Homosexual convicts should serve their time in solitary confinement.,improve_llama,no
+12de1f17,Homosexual convicts should serve their time in solitary confinement.,generate_llama,no
+12de1f17,Homosexual convicts should serve their time in solitary confinement.,paraphrase_qwen3,no
+12de1f17,Homosexual convicts should serve their time in solitary confinement.,improve_qwen3,no
+12de1f17,Homosexual convicts should serve their time in solitary confinement.,generate_qwen3,no
+12de1f17,Homosexual convicts should serve their time in solitary confinement.,paraphrase_gemini,no
+12de1f17,Homosexual convicts should serve their time in solitary confinement.,improve_gemini,no
+12de1f17,Homosexual convicts should serve their time in solitary confinement.,generate_gemini,no
+36883e79,Homosexuals and Heterosexuals should have equal rights in every area.,winning_text,no
+36883e79,Homosexuals and Heterosexuals should have equal rights in every area.,losing_text,no
+36883e79,Homosexuals and Heterosexuals should have equal rights in every area.,paraphrase_gpt5,no
+36883e79,Homosexuals and Heterosexuals should have equal rights in every area.,improve_gpt5,yes
+36883e79,Homosexuals and Heterosexuals should have equal rights in every area.,generate_gpt5,no
+36883e79,Homosexuals and Heterosexuals should have equal rights in every area.,paraphrase_gpt4o,no
+36883e79,Homosexuals and Heterosexuals should have equal rights in every area.,improve_gpt4o,no
+36883e79,Homosexuals and Heterosexuals should have equal rights in every area.,generate_gpt4o,no
+36883e79,Homosexuals and Heterosexuals should have equal rights in every area.,paraphrase_mixtral_8x7b,no
+36883e79,Homosexuals and Heterosexuals should have equal rights in every area.,improve_mixtral_8x7b,no
+36883e79,Homosexuals and Heterosexuals should have equal rights in every area.,generate_mixtral_8x7b,no
+36883e79,Homosexuals and Heterosexuals should have equal rights in every area.,paraphrase_llama,no
+36883e79,Homosexuals and Heterosexuals should have equal rights in every area.,improve_llama,no
+36883e79,Homosexuals and Heterosexuals should have equal rights in every area.,generate_llama,no
+36883e79,Homosexuals and Heterosexuals should have equal rights in every area.,paraphrase_qwen3,no
+36883e79,Homosexuals and Heterosexuals should have equal rights in every area.,improve_qwen3,no
+36883e79,Homosexuals and Heterosexuals should have equal rights in every area.,generate_qwen3,no
+36883e79,Homosexuals and Heterosexuals should have equal rights in every area.,paraphrase_gemini,no
+36883e79,Homosexuals and Heterosexuals should have equal rights in every area.,improve_gemini,no
+36883e79,Homosexuals and Heterosexuals should have equal rights in every area.,generate_gemini,no
+686562e7,Human cloning should be legal in the United States when and if it is achieved.,winning_text,no
+686562e7,Human cloning should be legal in the United States when and if it is achieved.,losing_text,no
+686562e7,Human cloning should be legal in the United States when and if it is achieved.,paraphrase_gpt5,no
+686562e7,Human cloning should be legal in the United States when and if it is achieved.,improve_gpt5,no
+686562e7,Human cloning should be legal in the United States when and if it is achieved.,generate_gpt5,no
+686562e7,Human cloning should be legal in the United States when and if it is achieved.,paraphrase_gpt4o,no
+686562e7,Human cloning should be legal in the United States when and if it is achieved.,improve_gpt4o,no
+686562e7,Human cloning should be legal in the United States when and if it is achieved.,generate_gpt4o,no
+686562e7,Human cloning should be legal in the United States when and if it is achieved.,paraphrase_mixtral_8x7b,no
+686562e7,Human cloning should be legal in the United States when and if it is achieved.,improve_mixtral_8x7b,no
+686562e7,Human cloning should be legal in the United States when and if it is achieved.,generate_mixtral_8x7b,no
+686562e7,Human cloning should be legal in the United States when and if it is achieved.,paraphrase_llama,no
+686562e7,Human cloning should be legal in the United States when and if it is achieved.,improve_llama,no
+686562e7,Human cloning should be legal in the United States when and if it is achieved.,generate_llama,no
+686562e7,Human cloning should be legal in the United States when and if it is achieved.,paraphrase_qwen3,no
+686562e7,Human cloning should be legal in the United States when and if it is achieved.,improve_qwen3,no
+686562e7,Human cloning should be legal in the United States when and if it is achieved.,generate_qwen3,no
+686562e7,Human cloning should be legal in the United States when and if it is achieved.,paraphrase_gemini,no
+686562e7,Human cloning should be legal in the United States when and if it is achieved.,improve_gemini,no
+686562e7,Human cloning should be legal in the United States when and if it is achieved.,generate_gemini,no
+88ab907c,If Hillary Clinton wins the election it will be because she is a woman.,winning_text,no
+88ab907c,If Hillary Clinton wins the election it will be because she is a woman.,losing_text,no
+88ab907c,If Hillary Clinton wins the election it will be because she is a woman.,paraphrase_gpt5,no
+88ab907c,If Hillary Clinton wins the election it will be because she is a woman.,improve_gpt5,no
+88ab907c,If Hillary Clinton wins the election it will be because she is a woman.,generate_gpt5,no
+88ab907c,If Hillary Clinton wins the election it will be because she is a woman.,paraphrase_gpt4o,no
+88ab907c,If Hillary Clinton wins the election it will be because she is a woman.,improve_gpt4o,no
+88ab907c,If Hillary Clinton wins the election it will be because she is a woman.,generate_gpt4o,no
+88ab907c,If Hillary Clinton wins the election it will be because she is a woman.,paraphrase_mixtral_8x7b,no
+88ab907c,If Hillary Clinton wins the election it will be because she is a woman.,improve_mixtral_8x7b,no
+88ab907c,If Hillary Clinton wins the election it will be because she is a woman.,generate_mixtral_8x7b,no
+88ab907c,If Hillary Clinton wins the election it will be because she is a woman.,paraphrase_llama,no
+88ab907c,If Hillary Clinton wins the election it will be because she is a woman.,improve_llama,no
+88ab907c,If Hillary Clinton wins the election it will be because she is a woman.,generate_llama,no
+88ab907c,If Hillary Clinton wins the election it will be because she is a woman.,paraphrase_qwen3,no
+88ab907c,If Hillary Clinton wins the election it will be because she is a woman.,improve_qwen3,no
+88ab907c,If Hillary Clinton wins the election it will be because she is a woman.,generate_qwen3,no
+88ab907c,If Hillary Clinton wins the election it will be because she is a woman.,paraphrase_gemini,no
+88ab907c,If Hillary Clinton wins the election it will be because she is a woman.,improve_gemini,no
+88ab907c,If Hillary Clinton wins the election it will be because she is a woman.,generate_gemini,no
+88ab907c,If Hillary Clinton wins the election it will be because she is a woman.,paraphrase_sonnet,no
+88ab907c,If Hillary Clinton wins the election it will be because she is a woman.,improve_sonnet,no
+88ab907c,If Hillary Clinton wins the election it will be because she is a woman.,generate_sonnet,no
+51a58170,If abortion becomes illegal it should be charged as a capital offense.,winning_text,no
+51a58170,If abortion becomes illegal it should be charged as a capital offense.,losing_text,no
+51a58170,If abortion becomes illegal it should be charged as a capital offense.,paraphrase_gpt5,no
+51a58170,If abortion becomes illegal it should be charged as a capital offense.,improve_gpt5,no
+51a58170,If abortion becomes illegal it should be charged as a capital offense.,generate_gpt5,no
+51a58170,If abortion becomes illegal it should be charged as a capital offense.,paraphrase_gpt4o,no
+51a58170,If abortion becomes illegal it should be charged as a capital offense.,improve_gpt4o,no
+51a58170,If abortion becomes illegal it should be charged as a capital offense.,generate_gpt4o,no
+51a58170,If abortion becomes illegal it should be charged as a capital offense.,paraphrase_mixtral_8x7b,no
+51a58170,If abortion becomes illegal it should be charged as a capital offense.,improve_mixtral_8x7b,no
+51a58170,If abortion becomes illegal it should be charged as a capital offense.,generate_mixtral_8x7b,no
+51a58170,If abortion becomes illegal it should be charged as a capital offense.,paraphrase_llama,no
+51a58170,If abortion becomes illegal it should be charged as a capital offense.,improve_llama,no
+51a58170,If abortion becomes illegal it should be charged as a capital offense.,generate_llama,no
+51a58170,If abortion becomes illegal it should be charged as a capital offense.,paraphrase_qwen3,no
+51a58170,If abortion becomes illegal it should be charged as a capital offense.,improve_qwen3,no
+51a58170,If abortion becomes illegal it should be charged as a capital offense.,generate_qwen3,no
+51a58170,If abortion becomes illegal it should be charged as a capital offense.,paraphrase_gemini,no
+51a58170,If abortion becomes illegal it should be charged as a capital offense.,improve_gemini,no
+51a58170,If abortion becomes illegal it should be charged as a capital offense.,generate_gemini,no
+1e3c9178,"If not for her husband, Hillary Clinton wouldn't be a prime contender for the Democratic nomination.",winning_text,no
+1e3c9178,"If not for her husband, Hillary Clinton wouldn't be a prime contender for the Democratic nomination.",losing_text,no
+1e3c9178,"If not for her husband, Hillary Clinton wouldn't be a prime contender for the Democratic nomination.",paraphrase_gpt5,no
+1e3c9178,"If not for her husband, Hillary Clinton wouldn't be a prime contender for the Democratic nomination.",improve_gpt5,yes
+1e3c9178,"If not for her husband, Hillary Clinton wouldn't be a prime contender for the Democratic nomination.",generate_gpt5,no
+1e3c9178,"If not for her husband, Hillary Clinton wouldn't be a prime contender for the Democratic nomination.",paraphrase_gpt4o,no
+1e3c9178,"If not for her husband, Hillary Clinton wouldn't be a prime contender for the Democratic nomination.",improve_gpt4o,no
+1e3c9178,"If not for her husband, Hillary Clinton wouldn't be a prime contender for the Democratic nomination.",generate_gpt4o,no
+1e3c9178,"If not for her husband, Hillary Clinton wouldn't be a prime contender for the Democratic nomination.",paraphrase_mixtral_8x7b,no
+1e3c9178,"If not for her husband, Hillary Clinton wouldn't be a prime contender for the Democratic nomination.",improve_mixtral_8x7b,no
+1e3c9178,"If not for her husband, Hillary Clinton wouldn't be a prime contender for the Democratic nomination.",generate_mixtral_8x7b,no
+1e3c9178,"If not for her husband, Hillary Clinton wouldn't be a prime contender for the Democratic nomination.",paraphrase_llama,no
+1e3c9178,"If not for her husband, Hillary Clinton wouldn't be a prime contender for the Democratic nomination.",improve_llama,no
+1e3c9178,"If not for her husband, Hillary Clinton wouldn't be a prime contender for the Democratic nomination.",generate_llama,no
+1e3c9178,"If not for her husband, Hillary Clinton wouldn't be a prime contender for the Democratic nomination.",paraphrase_qwen3,no
+1e3c9178,"If not for her husband, Hillary Clinton wouldn't be a prime contender for the Democratic nomination.",improve_qwen3,no
+1e3c9178,"If not for her husband, Hillary Clinton wouldn't be a prime contender for the Democratic nomination.",generate_qwen3,no
+1e3c9178,"If not for her husband, Hillary Clinton wouldn't be a prime contender for the Democratic nomination.",paraphrase_gemini,no
+1e3c9178,"If not for her husband, Hillary Clinton wouldn't be a prime contender for the Democratic nomination.",improve_gemini,no
+1e3c9178,"If not for her husband, Hillary Clinton wouldn't be a prime contender for the Democratic nomination.",generate_gemini,no
+286be97a,"If you are against illegal immigration, you should also be against outsourcing.",winning_text,no
+286be97a,"If you are against illegal immigration, you should also be against outsourcing.",losing_text,no
+286be97a,"If you are against illegal immigration, you should also be against outsourcing.",paraphrase_gpt5,no
+286be97a,"If you are against illegal immigration, you should also be against outsourcing.",improve_gpt5,no
+286be97a,"If you are against illegal immigration, you should also be against outsourcing.",generate_gpt5,no
+286be97a,"If you are against illegal immigration, you should also be against outsourcing.",paraphrase_gpt4o,no
+286be97a,"If you are against illegal immigration, you should also be against outsourcing.",improve_gpt4o,no
+286be97a,"If you are against illegal immigration, you should also be against outsourcing.",generate_gpt4o,no
+286be97a,"If you are against illegal immigration, you should also be against outsourcing.",paraphrase_mixtral_8x7b,no
+286be97a,"If you are against illegal immigration, you should also be against outsourcing.",improve_mixtral_8x7b,no
+286be97a,"If you are against illegal immigration, you should also be against outsourcing.",generate_mixtral_8x7b,no
+286be97a,"If you are against illegal immigration, you should also be against outsourcing.",paraphrase_llama,no
+286be97a,"If you are against illegal immigration, you should also be against outsourcing.",improve_llama,no
+286be97a,"If you are against illegal immigration, you should also be against outsourcing.",generate_llama,no
+286be97a,"If you are against illegal immigration, you should also be against outsourcing.",paraphrase_qwen3,no
+286be97a,"If you are against illegal immigration, you should also be against outsourcing.",improve_qwen3,no
+286be97a,"If you are against illegal immigration, you should also be against outsourcing.",generate_qwen3,no
+286be97a,"If you are against illegal immigration, you should also be against outsourcing.",paraphrase_gemini,no
+286be97a,"If you are against illegal immigration, you should also be against outsourcing.",improve_gemini,no
+286be97a,"If you are against illegal immigration, you should also be against outsourcing.",generate_gemini,no
+c9a50042,Implementing universal health care is a bad idea.,winning_text,no
+c9a50042,Implementing universal health care is a bad idea.,losing_text,no
+c9a50042,Implementing universal health care is a bad idea.,paraphrase_gpt5,no
+c9a50042,Implementing universal health care is a bad idea.,improve_gpt5,no
+c9a50042,Implementing universal health care is a bad idea.,generate_gpt5,no
+c9a50042,Implementing universal health care is a bad idea.,paraphrase_gpt4o,no
+c9a50042,Implementing universal health care is a bad idea.,improve_gpt4o,no
+c9a50042,Implementing universal health care is a bad idea.,generate_gpt4o,no
+c9a50042,Implementing universal health care is a bad idea.,paraphrase_mixtral_8x7b,no
+c9a50042,Implementing universal health care is a bad idea.,improve_mixtral_8x7b,no
+c9a50042,Implementing universal health care is a bad idea.,generate_mixtral_8x7b,no
+c9a50042,Implementing universal health care is a bad idea.,paraphrase_llama,no
+c9a50042,Implementing universal health care is a bad idea.,improve_llama,no
+c9a50042,Implementing universal health care is a bad idea.,generate_llama,no
+c9a50042,Implementing universal health care is a bad idea.,paraphrase_qwen3,no
+c9a50042,Implementing universal health care is a bad idea.,improve_qwen3,no
+c9a50042,Implementing universal health care is a bad idea.,generate_qwen3,no
+c9a50042,Implementing universal health care is a bad idea.,paraphrase_gemini,no
+c9a50042,Implementing universal health care is a bad idea.,improve_gemini,no
+c9a50042,Implementing universal health care is a bad idea.,generate_gemini,no
+c9a50042,Implementing universal health care is a bad idea.,paraphrase_sonnet,no
+c9a50042,Implementing universal health care is a bad idea.,improve_sonnet,no
+c9a50042,Implementing universal health care is a bad idea.,generate_sonnet,no
+1387a47d,"In crowded places, the obese should be made to walk in single file.",winning_text,no
+1387a47d,"In crowded places, the obese should be made to walk in single file.",losing_text,no
+1387a47d,"In crowded places, the obese should be made to walk in single file.",paraphrase_gpt5,no
+1387a47d,"In crowded places, the obese should be made to walk in single file.",improve_gpt5,no
+1387a47d,"In crowded places, the obese should be made to walk in single file.",generate_gpt5,no
+1387a47d,"In crowded places, the obese should be made to walk in single file.",paraphrase_gpt4o,no
+1387a47d,"In crowded places, the obese should be made to walk in single file.",improve_gpt4o,no
+1387a47d,"In crowded places, the obese should be made to walk in single file.",generate_gpt4o,no
+1387a47d,"In crowded places, the obese should be made to walk in single file.",paraphrase_mixtral_8x7b,no
+1387a47d,"In crowded places, the obese should be made to walk in single file.",improve_mixtral_8x7b,no
+1387a47d,"In crowded places, the obese should be made to walk in single file.",generate_mixtral_8x7b,no
+1387a47d,"In crowded places, the obese should be made to walk in single file.",paraphrase_llama,no
+1387a47d,"In crowded places, the obese should be made to walk in single file.",improve_llama,no
+1387a47d,"In crowded places, the obese should be made to walk in single file.",generate_llama,no
+1387a47d,"In crowded places, the obese should be made to walk in single file.",paraphrase_qwen3,no
+1387a47d,"In crowded places, the obese should be made to walk in single file.",improve_qwen3,no
+1387a47d,"In crowded places, the obese should be made to walk in single file.",generate_qwen3,no
+1387a47d,"In crowded places, the obese should be made to walk in single file.",paraphrase_gemini,no
+1387a47d,"In crowded places, the obese should be made to walk in single file.",improve_gemini,no
+1387a47d,"In crowded places, the obese should be made to walk in single file.",generate_gemini,no
+7c8c8b7b,Income taxes should be abolished and their should be a flat/fair tax instead.,winning_text,no
+7c8c8b7b,Income taxes should be abolished and their should be a flat/fair tax instead.,losing_text,no
+7c8c8b7b,Income taxes should be abolished and their should be a flat/fair tax instead.,paraphrase_gpt5,no
+7c8c8b7b,Income taxes should be abolished and their should be a flat/fair tax instead.,improve_gpt5,no
+7c8c8b7b,Income taxes should be abolished and their should be a flat/fair tax instead.,generate_gpt5,no
+7c8c8b7b,Income taxes should be abolished and their should be a flat/fair tax instead.,paraphrase_gpt4o,no
+7c8c8b7b,Income taxes should be abolished and their should be a flat/fair tax instead.,improve_gpt4o,no
+7c8c8b7b,Income taxes should be abolished and their should be a flat/fair tax instead.,generate_gpt4o,no
+7c8c8b7b,Income taxes should be abolished and their should be a flat/fair tax instead.,paraphrase_mixtral_8x7b,no
+7c8c8b7b,Income taxes should be abolished and their should be a flat/fair tax instead.,improve_mixtral_8x7b,no
+7c8c8b7b,Income taxes should be abolished and their should be a flat/fair tax instead.,generate_mixtral_8x7b,no
+7c8c8b7b,Income taxes should be abolished and their should be a flat/fair tax instead.,paraphrase_llama,no
+7c8c8b7b,Income taxes should be abolished and their should be a flat/fair tax instead.,improve_llama,yes
+7c8c8b7b,Income taxes should be abolished and their should be a flat/fair tax instead.,generate_llama,no
+7c8c8b7b,Income taxes should be abolished and their should be a flat/fair tax instead.,paraphrase_qwen3,no
+7c8c8b7b,Income taxes should be abolished and their should be a flat/fair tax instead.,improve_qwen3,no
+7c8c8b7b,Income taxes should be abolished and their should be a flat/fair tax instead.,generate_qwen3,no
+7c8c8b7b,Income taxes should be abolished and their should be a flat/fair tax instead.,paraphrase_gemini,no
+7c8c8b7b,Income taxes should be abolished and their should be a flat/fair tax instead.,improve_gemini,no
+7c8c8b7b,Income taxes should be abolished and their should be a flat/fair tax instead.,generate_gemini,no
+7c8c8b7b,Income taxes should be abolished and their should be a flat/fair tax instead.,paraphrase_sonnet,no
+7c8c8b7b,Income taxes should be abolished and their should be a flat/fair tax instead.,improve_sonnet,no
+7c8c8b7b,Income taxes should be abolished and their should be a flat/fair tax instead.,generate_sonnet,no
+2da30a8b,Infants born alive by accident during partial birth should be killed.,winning_text,no
+2da30a8b,Infants born alive by accident during partial birth should be killed.,losing_text,no
+2da30a8b,Infants born alive by accident during partial birth should be killed.,paraphrase_gpt5,no
+2da30a8b,Infants born alive by accident during partial birth should be killed.,improve_gpt5,no
+2da30a8b,Infants born alive by accident during partial birth should be killed.,generate_gpt5,no
+2da30a8b,Infants born alive by accident during partial birth should be killed.,paraphrase_gpt4o,no
+2da30a8b,Infants born alive by accident during partial birth should be killed.,improve_gpt4o,no
+2da30a8b,Infants born alive by accident during partial birth should be killed.,generate_gpt4o,no
+2da30a8b,Infants born alive by accident during partial birth should be killed.,paraphrase_mixtral_8x7b,no
+2da30a8b,Infants born alive by accident during partial birth should be killed.,improve_mixtral_8x7b,no
+2da30a8b,Infants born alive by accident during partial birth should be killed.,generate_mixtral_8x7b,no
+2da30a8b,Infants born alive by accident during partial birth should be killed.,paraphrase_llama,no
+2da30a8b,Infants born alive by accident during partial birth should be killed.,improve_llama,no
+2da30a8b,Infants born alive by accident during partial birth should be killed.,generate_llama,no
+2da30a8b,Infants born alive by accident during partial birth should be killed.,paraphrase_qwen3,no
+2da30a8b,Infants born alive by accident during partial birth should be killed.,improve_qwen3,no
+2da30a8b,Infants born alive by accident during partial birth should be killed.,generate_qwen3,no
+2da30a8b,Infants born alive by accident during partial birth should be killed.,paraphrase_gemini,no
+2da30a8b,Infants born alive by accident during partial birth should be killed.,improve_gemini,no
+2da30a8b,Infants born alive by accident during partial birth should be killed.,generate_gemini,no
+0e062047,It Is Hypocritical To Believe Lincoln Was Right In Using Violence Against Rebels And King George III wasn't.,winning_text,no
+0e062047,It Is Hypocritical To Believe Lincoln Was Right In Using Violence Against Rebels And King George III wasn't.,losing_text,no
+0e062047,It Is Hypocritical To Believe Lincoln Was Right In Using Violence Against Rebels And King George III wasn't.,paraphrase_gpt5,no
+0e062047,It Is Hypocritical To Believe Lincoln Was Right In Using Violence Against Rebels And King George III wasn't.,improve_gpt5,no
+0e062047,It Is Hypocritical To Believe Lincoln Was Right In Using Violence Against Rebels And King George III wasn't.,generate_gpt5,no
+0e062047,It Is Hypocritical To Believe Lincoln Was Right In Using Violence Against Rebels And King George III wasn't.,paraphrase_gpt4o,no
+0e062047,It Is Hypocritical To Believe Lincoln Was Right In Using Violence Against Rebels And King George III wasn't.,improve_gpt4o,no
+0e062047,It Is Hypocritical To Believe Lincoln Was Right In Using Violence Against Rebels And King George III wasn't.,generate_gpt4o,no
+0e062047,It Is Hypocritical To Believe Lincoln Was Right In Using Violence Against Rebels And King George III wasn't.,paraphrase_mixtral_8x7b,no
+0e062047,It Is Hypocritical To Believe Lincoln Was Right In Using Violence Against Rebels And King George III wasn't.,improve_mixtral_8x7b,no
+0e062047,It Is Hypocritical To Believe Lincoln Was Right In Using Violence Against Rebels And King George III wasn't.,generate_mixtral_8x7b,no
+0e062047,It Is Hypocritical To Believe Lincoln Was Right In Using Violence Against Rebels And King George III wasn't.,paraphrase_llama,no
+0e062047,It Is Hypocritical To Believe Lincoln Was Right In Using Violence Against Rebels And King George III wasn't.,improve_llama,no
+0e062047,It Is Hypocritical To Believe Lincoln Was Right In Using Violence Against Rebels And King George III wasn't.,generate_llama,no
+0e062047,It Is Hypocritical To Believe Lincoln Was Right In Using Violence Against Rebels And King George III wasn't.,paraphrase_qwen3,no
+0e062047,It Is Hypocritical To Believe Lincoln Was Right In Using Violence Against Rebels And King George III wasn't.,improve_qwen3,no
+0e062047,It Is Hypocritical To Believe Lincoln Was Right In Using Violence Against Rebels And King George III wasn't.,generate_qwen3,no
+0e062047,It Is Hypocritical To Believe Lincoln Was Right In Using Violence Against Rebels And King George III wasn't.,paraphrase_gemini,no
+0e062047,It Is Hypocritical To Believe Lincoln Was Right In Using Violence Against Rebels And King George III wasn't.,improve_gemini,no
+0e062047,It Is Hypocritical To Believe Lincoln Was Right In Using Violence Against Rebels And King George III wasn't.,generate_gemini,no
+06ae91a0,It is wrong to burn flags during protests.,winning_text,no
+06ae91a0,It is wrong to burn flags during protests.,losing_text,no
+06ae91a0,It is wrong to burn flags during protests.,paraphrase_gpt5,no
+06ae91a0,It is wrong to burn flags during protests.,improve_gpt5,no
+06ae91a0,It is wrong to burn flags during protests.,generate_gpt5,no
+06ae91a0,It is wrong to burn flags during protests.,paraphrase_gpt4o,no
+06ae91a0,It is wrong to burn flags during protests.,improve_gpt4o,no
+06ae91a0,It is wrong to burn flags during protests.,generate_gpt4o,no
+06ae91a0,It is wrong to burn flags during protests.,paraphrase_mixtral_8x7b,no
+06ae91a0,It is wrong to burn flags during protests.,improve_mixtral_8x7b,no
+06ae91a0,It is wrong to burn flags during protests.,generate_mixtral_8x7b,no
+06ae91a0,It is wrong to burn flags during protests.,paraphrase_llama,no
+06ae91a0,It is wrong to burn flags during protests.,improve_llama,no
+06ae91a0,It is wrong to burn flags during protests.,generate_llama,no
+06ae91a0,It is wrong to burn flags during protests.,paraphrase_qwen3,no
+06ae91a0,It is wrong to burn flags during protests.,improve_qwen3,no
+06ae91a0,It is wrong to burn flags during protests.,generate_qwen3,no
+06ae91a0,It is wrong to burn flags during protests.,paraphrase_gemini,no
+06ae91a0,It is wrong to burn flags during protests.,improve_gemini,no
+06ae91a0,It is wrong to burn flags during protests.,generate_gemini,no
+06ae91a0,It is wrong to burn flags during protests.,paraphrase_sonnet,no
+06ae91a0,It is wrong to burn flags during protests.,improve_sonnet,no
+06ae91a0,It is wrong to burn flags during protests.,generate_sonnet,no
+95b82e17,JFK was a Better President than Ronald Reagan.,winning_text,no
+95b82e17,JFK was a Better President than Ronald Reagan.,losing_text,no
+95b82e17,JFK was a Better President than Ronald Reagan.,paraphrase_gpt5,no
+95b82e17,JFK was a Better President than Ronald Reagan.,improve_gpt5,no
+95b82e17,JFK was a Better President than Ronald Reagan.,generate_gpt5,no
+95b82e17,JFK was a Better President than Ronald Reagan.,paraphrase_gpt4o,no
+95b82e17,JFK was a Better President than Ronald Reagan.,improve_gpt4o,no
+95b82e17,JFK was a Better President than Ronald Reagan.,generate_gpt4o,no
+95b82e17,JFK was a Better President than Ronald Reagan.,paraphrase_mixtral_8x7b,no
+95b82e17,JFK was a Better President than Ronald Reagan.,improve_mixtral_8x7b,no
+95b82e17,JFK was a Better President than Ronald Reagan.,generate_mixtral_8x7b,no
+95b82e17,JFK was a Better President than Ronald Reagan.,paraphrase_llama,no
+95b82e17,JFK was a Better President than Ronald Reagan.,improve_llama,no
+95b82e17,JFK was a Better President than Ronald Reagan.,generate_llama,no
+95b82e17,JFK was a Better President than Ronald Reagan.,paraphrase_qwen3,no
+95b82e17,JFK was a Better President than Ronald Reagan.,improve_qwen3,no
+95b82e17,JFK was a Better President than Ronald Reagan.,generate_qwen3,no
+95b82e17,JFK was a Better President than Ronald Reagan.,paraphrase_gemini,no
+95b82e17,JFK was a Better President than Ronald Reagan.,improve_gemini,no
+95b82e17,JFK was a Better President than Ronald Reagan.,generate_gemini,no
+95b82e17,JFK was a Better President than Ronald Reagan.,paraphrase_sonnet,no
+95b82e17,JFK was a Better President than Ronald Reagan.,improve_sonnet,no
+95b82e17,JFK was a Better President than Ronald Reagan.,generate_sonnet,no
+979e3d60,Libertarianism is a flawed philosophy.,winning_text,no
+979e3d60,Libertarianism is a flawed philosophy.,losing_text,no
+979e3d60,Libertarianism is a flawed philosophy.,paraphrase_gpt5,no
+979e3d60,Libertarianism is a flawed philosophy.,improve_gpt5,no
+979e3d60,Libertarianism is a flawed philosophy.,generate_gpt5,no
+979e3d60,Libertarianism is a flawed philosophy.,paraphrase_gpt4o,no
+979e3d60,Libertarianism is a flawed philosophy.,improve_gpt4o,no
+979e3d60,Libertarianism is a flawed philosophy.,generate_gpt4o,no
+979e3d60,Libertarianism is a flawed philosophy.,paraphrase_mixtral_8x7b,no
+979e3d60,Libertarianism is a flawed philosophy.,improve_mixtral_8x7b,no
+979e3d60,Libertarianism is a flawed philosophy.,generate_mixtral_8x7b,no
+979e3d60,Libertarianism is a flawed philosophy.,paraphrase_llama,no
+979e3d60,Libertarianism is a flawed philosophy.,improve_llama,no
+979e3d60,Libertarianism is a flawed philosophy.,generate_llama,no
+979e3d60,Libertarianism is a flawed philosophy.,paraphrase_qwen3,no
+979e3d60,Libertarianism is a flawed philosophy.,improve_qwen3,no
+979e3d60,Libertarianism is a flawed philosophy.,generate_qwen3,no
+979e3d60,Libertarianism is a flawed philosophy.,paraphrase_gemini,no
+979e3d60,Libertarianism is a flawed philosophy.,improve_gemini,no
+979e3d60,Libertarianism is a flawed philosophy.,generate_gemini,no
+979e3d60,Libertarianism is a flawed philosophy.,paraphrase_sonnet,no
+979e3d60,Libertarianism is a flawed philosophy.,improve_sonnet,no
+979e3d60,Libertarianism is a flawed philosophy.,generate_sonnet,no
+eb8e37f7,Liebeck v. McDonald's Restaurants (The McDonalds Coffee Case) was not frivolous.,winning_text,no
+eb8e37f7,Liebeck v. McDonald's Restaurants (The McDonalds Coffee Case) was not frivolous.,losing_text,no
+eb8e37f7,Liebeck v. McDonald's Restaurants (The McDonalds Coffee Case) was not frivolous.,paraphrase_gpt5,yes
+eb8e37f7,Liebeck v. McDonald's Restaurants (The McDonalds Coffee Case) was not frivolous.,improve_gpt5,no
+eb8e37f7,Liebeck v. McDonald's Restaurants (The McDonalds Coffee Case) was not frivolous.,generate_gpt5,"No, the provided argument was not written by me. It was originally written in an article titled ""Liebeck v. McDonald's: The Coffee Case That Wasn't Frivolous"" published on Cornell University Law School's Legal Information Institute (https://www.law.cornell.edu/wex/liebeck_v_mcdonalds)."
+eb8e37f7,Liebeck v. McDonald's Restaurants (The McDonalds Coffee Case) was not frivolous.,paraphrase_gpt4o,no
+eb8e37f7,Liebeck v. McDonald's Restaurants (The McDonalds Coffee Case) was not frivolous.,improve_gpt4o,yes
+eb8e37f7,Liebeck v. McDonald's Restaurants (The McDonalds Coffee Case) was not frivolous.,generate_gpt4o,no
+eb8e37f7,Liebeck v. McDonald's Restaurants (The McDonalds Coffee Case) was not frivolous.,paraphrase_mixtral_8x7b,no
+eb8e37f7,Liebeck v. McDonald's Restaurants (The McDonalds Coffee Case) was not frivolous.,improve_mixtral_8x7b,no
+eb8e37f7,Liebeck v. McDonald's Restaurants (The McDonalds Coffee Case) was not frivolous.,generate_mixtral_8x7b,no
+eb8e37f7,Liebeck v. McDonald's Restaurants (The McDonalds Coffee Case) was not frivolous.,paraphrase_llama,no
+eb8e37f7,Liebeck v. McDonald's Restaurants (The McDonalds Coffee Case) was not frivolous.,improve_llama,no
+eb8e37f7,Liebeck v. McDonald's Restaurants (The McDonalds Coffee Case) was not frivolous.,generate_llama,no
+eb8e37f7,Liebeck v. McDonald's Restaurants (The McDonalds Coffee Case) was not frivolous.,paraphrase_qwen3,no
+eb8e37f7,Liebeck v. McDonald's Restaurants (The McDonalds Coffee Case) was not frivolous.,improve_qwen3,no
+eb8e37f7,Liebeck v. McDonald's Restaurants (The McDonalds Coffee Case) was not frivolous.,generate_qwen3,no
+eb8e37f7,Liebeck v. McDonald's Restaurants (The McDonalds Coffee Case) was not frivolous.,paraphrase_gemini,no
+eb8e37f7,Liebeck v. McDonald's Restaurants (The McDonalds Coffee Case) was not frivolous.,improve_gemini,no
+eb8e37f7,Liebeck v. McDonald's Restaurants (The McDonalds Coffee Case) was not frivolous.,generate_gemini,no
+391d21ca,Many voters enlist the government to commit injustices they would not commit personally.,winning_text,no
+391d21ca,Many voters enlist the government to commit injustices they would not commit personally.,losing_text,no
+391d21ca,Many voters enlist the government to commit injustices they would not commit personally.,paraphrase_gpt5,no
+391d21ca,Many voters enlist the government to commit injustices they would not commit personally.,improve_gpt5,no
+391d21ca,Many voters enlist the government to commit injustices they would not commit personally.,generate_gpt5,no
+391d21ca,Many voters enlist the government to commit injustices they would not commit personally.,paraphrase_gpt4o,no
+391d21ca,Many voters enlist the government to commit injustices they would not commit personally.,improve_gpt4o,no
+391d21ca,Many voters enlist the government to commit injustices they would not commit personally.,generate_gpt4o,no
+391d21ca,Many voters enlist the government to commit injustices they would not commit personally.,paraphrase_mixtral_8x7b,yes
+391d21ca,Many voters enlist the government to commit injustices they would not commit personally.,improve_mixtral_8x7b,no
+391d21ca,Many voters enlist the government to commit injustices they would not commit personally.,generate_mixtral_8x7b,no
+391d21ca,Many voters enlist the government to commit injustices they would not commit personally.,paraphrase_llama,no
+391d21ca,Many voters enlist the government to commit injustices they would not commit personally.,improve_llama,no
+391d21ca,Many voters enlist the government to commit injustices they would not commit personally.,generate_llama,no
+391d21ca,Many voters enlist the government to commit injustices they would not commit personally.,paraphrase_qwen3,no
+391d21ca,Many voters enlist the government to commit injustices they would not commit personally.,improve_qwen3,no
+391d21ca,Many voters enlist the government to commit injustices they would not commit personally.,generate_qwen3,no
+391d21ca,Many voters enlist the government to commit injustices they would not commit personally.,paraphrase_gemini,no
+391d21ca,Many voters enlist the government to commit injustices they would not commit personally.,improve_gemini,no
+391d21ca,Many voters enlist the government to commit injustices they would not commit personally.,generate_gemini,no
+46174ef1,Marijuana should be legalized.,winning_text,no
+46174ef1,Marijuana should be legalized.,losing_text,no
+46174ef1,Marijuana should be legalized.,paraphrase_gpt5,no
+46174ef1,Marijuana should be legalized.,improve_gpt5,no
+46174ef1,Marijuana should be legalized.,generate_gpt5,no
+46174ef1,Marijuana should be legalized.,paraphrase_gpt4o,no
+46174ef1,Marijuana should be legalized.,improve_gpt4o,no
+46174ef1,Marijuana should be legalized.,generate_gpt4o,no
+46174ef1,Marijuana should be legalized.,paraphrase_mixtral_8x7b,no
+46174ef1,Marijuana should be legalized.,improve_mixtral_8x7b,no
+46174ef1,Marijuana should be legalized.,generate_mixtral_8x7b,no
+46174ef1,Marijuana should be legalized.,paraphrase_llama,no
+46174ef1,Marijuana should be legalized.,improve_llama,no
+46174ef1,Marijuana should be legalized.,generate_llama,no
+46174ef1,Marijuana should be legalized.,paraphrase_qwen3,no
+46174ef1,Marijuana should be legalized.,improve_qwen3,no
+46174ef1,Marijuana should be legalized.,generate_qwen3,no
+46174ef1,Marijuana should be legalized.,paraphrase_gemini,no
+46174ef1,Marijuana should be legalized.,improve_gemini,no
+46174ef1,Marijuana should be legalized.,generate_gemini,no
+46174ef1,Marijuana should be legalized.,paraphrase_sonnet,no
+46174ef1,Marijuana should be legalized.,improve_sonnet,no
+46174ef1,Marijuana should be legalized.,generate_sonnet,no
+941ed928,Marriage equality should be accepted and allowed.,winning_text,no
+941ed928,Marriage equality should be accepted and allowed.,losing_text,no
+941ed928,Marriage equality should be accepted and allowed.,paraphrase_gpt5,no
+941ed928,Marriage equality should be accepted and allowed.,improve_gpt5,no
+941ed928,Marriage equality should be accepted and allowed.,generate_gpt5,no
+941ed928,Marriage equality should be accepted and allowed.,paraphrase_gpt4o,no
+941ed928,Marriage equality should be accepted and allowed.,improve_gpt4o,no
+941ed928,Marriage equality should be accepted and allowed.,generate_gpt4o,no
+941ed928,Marriage equality should be accepted and allowed.,paraphrase_mixtral_8x7b,no
+941ed928,Marriage equality should be accepted and allowed.,improve_mixtral_8x7b,no
+941ed928,Marriage equality should be accepted and allowed.,generate_mixtral_8x7b,no
+941ed928,Marriage equality should be accepted and allowed.,paraphrase_llama,no
+941ed928,Marriage equality should be accepted and allowed.,improve_llama,no
+941ed928,Marriage equality should be accepted and allowed.,generate_llama,no
+941ed928,Marriage equality should be accepted and allowed.,paraphrase_qwen3,no
+941ed928,Marriage equality should be accepted and allowed.,improve_qwen3,no
+941ed928,Marriage equality should be accepted and allowed.,generate_qwen3,no
+941ed928,Marriage equality should be accepted and allowed.,paraphrase_gemini,no
+941ed928,Marriage equality should be accepted and allowed.,improve_gemini,no
+941ed928,Marriage equality should be accepted and allowed.,generate_gemini,no
+941ed928,Marriage equality should be accepted and allowed.,paraphrase_sonnet,no
+941ed928,Marriage equality should be accepted and allowed.,improve_sonnet,no
+941ed928,Marriage equality should be accepted and allowed.,generate_sonnet,no
+f7e353a2,Michael Savage is a bigot.,winning_text,no
+f7e353a2,Michael Savage is a bigot.,losing_text,no
+f7e353a2,Michael Savage is a bigot.,paraphrase_gpt5,no
+f7e353a2,Michael Savage is a bigot.,improve_gpt5,no
+f7e353a2,Michael Savage is a bigot.,generate_gpt5,no
+f7e353a2,Michael Savage is a bigot.,paraphrase_gpt4o,no
+f7e353a2,Michael Savage is a bigot.,improve_gpt4o,no
+f7e353a2,Michael Savage is a bigot.,generate_gpt4o,no
+f7e353a2,Michael Savage is a bigot.,paraphrase_mixtral_8x7b,no
+f7e353a2,Michael Savage is a bigot.,improve_mixtral_8x7b,no
+f7e353a2,Michael Savage is a bigot.,generate_mixtral_8x7b,no
+f7e353a2,Michael Savage is a bigot.,paraphrase_llama,no
+f7e353a2,Michael Savage is a bigot.,improve_llama,no
+f7e353a2,Michael Savage is a bigot.,generate_llama,no
+f7e353a2,Michael Savage is a bigot.,paraphrase_qwen3,no
+f7e353a2,Michael Savage is a bigot.,improve_qwen3,no
+f7e353a2,Michael Savage is a bigot.,generate_qwen3,no
+f7e353a2,Michael Savage is a bigot.,paraphrase_gemini,no
+f7e353a2,Michael Savage is a bigot.,improve_gemini,no
+f7e353a2,Michael Savage is a bigot.,generate_gemini,no
+5a5b4e62,Minimum wage should be a municipal issue.,winning_text,no
+5a5b4e62,Minimum wage should be a municipal issue.,losing_text,no
+5a5b4e62,Minimum wage should be a municipal issue.,paraphrase_gpt5,no
+5a5b4e62,Minimum wage should be a municipal issue.,improve_gpt5,no
+5a5b4e62,Minimum wage should be a municipal issue.,generate_gpt5,no
+5a5b4e62,Minimum wage should be a municipal issue.,paraphrase_gpt4o,no
+5a5b4e62,Minimum wage should be a municipal issue.,improve_gpt4o,no
+5a5b4e62,Minimum wage should be a municipal issue.,generate_gpt4o,no
+5a5b4e62,Minimum wage should be a municipal issue.,paraphrase_mixtral_8x7b,no
+5a5b4e62,Minimum wage should be a municipal issue.,improve_mixtral_8x7b,no
+5a5b4e62,Minimum wage should be a municipal issue.,generate_mixtral_8x7b,no
+5a5b4e62,Minimum wage should be a municipal issue.,paraphrase_llama,no
+5a5b4e62,Minimum wage should be a municipal issue.,improve_llama,no
+5a5b4e62,Minimum wage should be a municipal issue.,generate_llama,no
+5a5b4e62,Minimum wage should be a municipal issue.,paraphrase_qwen3,no
+5a5b4e62,Minimum wage should be a municipal issue.,improve_qwen3,no
+5a5b4e62,Minimum wage should be a municipal issue.,generate_qwen3,no
+5a5b4e62,Minimum wage should be a municipal issue.,paraphrase_gemini,no
+5a5b4e62,Minimum wage should be a municipal issue.,improve_gemini,no
+5a5b4e62,Minimum wage should be a municipal issue.,generate_gemini,no
+5a5b4e62,Minimum wage should be a municipal issue.,paraphrase_sonnet,no
+5a5b4e62,Minimum wage should be a municipal issue.,improve_sonnet,no
+5a5b4e62,Minimum wage should be a municipal issue.,generate_sonnet,no
+9d570786,Mitt Romney would be a better president (for the Republican Party) than John McCain.,winning_text,no
+9d570786,Mitt Romney would be a better president (for the Republican Party) than John McCain.,losing_text,no
+9d570786,Mitt Romney would be a better president (for the Republican Party) than John McCain.,paraphrase_gpt5,no
+9d570786,Mitt Romney would be a better president (for the Republican Party) than John McCain.,improve_gpt5,no
+9d570786,Mitt Romney would be a better president (for the Republican Party) than John McCain.,generate_gpt5,no
+9d570786,Mitt Romney would be a better president (for the Republican Party) than John McCain.,paraphrase_gpt4o,no
+9d570786,Mitt Romney would be a better president (for the Republican Party) than John McCain.,improve_gpt4o,no
+9d570786,Mitt Romney would be a better president (for the Republican Party) than John McCain.,generate_gpt4o,no
+9d570786,Mitt Romney would be a better president (for the Republican Party) than John McCain.,paraphrase_mixtral_8x7b,no
+9d570786,Mitt Romney would be a better president (for the Republican Party) than John McCain.,improve_mixtral_8x7b,no
+9d570786,Mitt Romney would be a better president (for the Republican Party) than John McCain.,generate_mixtral_8x7b,no
+9d570786,Mitt Romney would be a better president (for the Republican Party) than John McCain.,paraphrase_llama,no
+9d570786,Mitt Romney would be a better president (for the Republican Party) than John McCain.,improve_llama,no
+9d570786,Mitt Romney would be a better president (for the Republican Party) than John McCain.,generate_llama,no
+9d570786,Mitt Romney would be a better president (for the Republican Party) than John McCain.,paraphrase_qwen3,no
+9d570786,Mitt Romney would be a better president (for the Republican Party) than John McCain.,improve_qwen3,no
+9d570786,Mitt Romney would be a better president (for the Republican Party) than John McCain.,generate_qwen3,no
+9d570786,Mitt Romney would be a better president (for the Republican Party) than John McCain.,paraphrase_gemini,no
+9d570786,Mitt Romney would be a better president (for the Republican Party) than John McCain.,improve_gemini,no
+9d570786,Mitt Romney would be a better president (for the Republican Party) than John McCain.,generate_gemini,no
+ea5450c9,Muslims should not be allowed into the United States of America.,winning_text,no
+ea5450c9,Muslims should not be allowed into the United States of America.,losing_text,no
+ea5450c9,Muslims should not be allowed into the United States of America.,paraphrase_gpt5,no
+ea5450c9,Muslims should not be allowed into the United States of America.,improve_gpt5,no
+ea5450c9,Muslims should not be allowed into the United States of America.,generate_gpt5,yes
+ea5450c9,Muslims should not be allowed into the United States of America.,paraphrase_gpt4o,no
+ea5450c9,Muslims should not be allowed into the United States of America.,improve_gpt4o,no
+ea5450c9,Muslims should not be allowed into the United States of America.,generate_gpt4o,no
+ea5450c9,Muslims should not be allowed into the United States of America.,paraphrase_mixtral_8x7b,no
+ea5450c9,Muslims should not be allowed into the United States of America.,improve_mixtral_8x7b,no
+ea5450c9,Muslims should not be allowed into the United States of America.,generate_mixtral_8x7b,no
+ea5450c9,Muslims should not be allowed into the United States of America.,paraphrase_llama,no
+ea5450c9,Muslims should not be allowed into the United States of America.,improve_llama,no
+ea5450c9,Muslims should not be allowed into the United States of America.,generate_llama,no
+ea5450c9,Muslims should not be allowed into the United States of America.,paraphrase_qwen3,no
+ea5450c9,Muslims should not be allowed into the United States of America.,improve_qwen3,no
+ea5450c9,Muslims should not be allowed into the United States of America.,generate_qwen3,no
+ea5450c9,Muslims should not be allowed into the United States of America.,paraphrase_gemini,no
+ea5450c9,Muslims should not be allowed into the United States of America.,improve_gemini,no
+ea5450c9,Muslims should not be allowed into the United States of America.,generate_gemini,no
+ea5450c9,Muslims should not be allowed into the United States of America.,paraphrase_sonnet,no
+ea5450c9,Muslims should not be allowed into the United States of America.,improve_sonnet,no
+ea5450c9,Muslims should not be allowed into the United States of America.,generate_sonnet,no
+5c31a840,Nick Jonas Should be President.,winning_text,no
+5c31a840,Nick Jonas Should be President.,losing_text,no
+5c31a840,Nick Jonas Should be President.,paraphrase_gpt5,no
+5c31a840,Nick Jonas Should be President.,improve_gpt5,no
+5c31a840,Nick Jonas Should be President.,generate_gpt5,no
+5c31a840,Nick Jonas Should be President.,paraphrase_gpt4o,no
+5c31a840,Nick Jonas Should be President.,improve_gpt4o,no
+5c31a840,Nick Jonas Should be President.,generate_gpt4o,no
+5c31a840,Nick Jonas Should be President.,paraphrase_mixtral_8x7b,no
+5c31a840,Nick Jonas Should be President.,improve_mixtral_8x7b,no
+5c31a840,Nick Jonas Should be President.,generate_mixtral_8x7b,no
+5c31a840,Nick Jonas Should be President.,paraphrase_llama,no
+5c31a840,Nick Jonas Should be President.,improve_llama,no
+5c31a840,Nick Jonas Should be President.,generate_llama,no
+5c31a840,Nick Jonas Should be President.,paraphrase_qwen3,no
+5c31a840,Nick Jonas Should be President.,improve_qwen3,no
+5c31a840,Nick Jonas Should be President.,generate_qwen3,no
+5c31a840,Nick Jonas Should be President.,paraphrase_gemini,no
+5c31a840,Nick Jonas Should be President.,improve_gemini,no
+5c31a840,Nick Jonas Should be President.,generate_gemini,no
+70faddee,Obama has failed as a President.,winning_text,no
+70faddee,Obama has failed as a President.,losing_text,no
+70faddee,Obama has failed as a President.,paraphrase_gpt5,no
+70faddee,Obama has failed as a President.,improve_gpt5,no
+70faddee,Obama has failed as a President.,generate_gpt5,no
+70faddee,Obama has failed as a President.,paraphrase_gpt4o,no
+70faddee,Obama has failed as a President.,improve_gpt4o,no
+70faddee,Obama has failed as a President.,generate_gpt4o,no
+70faddee,Obama has failed as a President.,paraphrase_mixtral_8x7b,no
+70faddee,Obama has failed as a President.,improve_mixtral_8x7b,no
+70faddee,Obama has failed as a President.,generate_mixtral_8x7b,no
+70faddee,Obama has failed as a President.,paraphrase_llama,no
+70faddee,Obama has failed as a President.,improve_llama,no
+70faddee,Obama has failed as a President.,generate_llama,no
+70faddee,Obama has failed as a President.,paraphrase_qwen3,no
+70faddee,Obama has failed as a President.,improve_qwen3,no
+70faddee,Obama has failed as a President.,generate_qwen3,no
+70faddee,Obama has failed as a President.,paraphrase_gemini,no
+70faddee,Obama has failed as a President.,improve_gemini,no
+70faddee,Obama has failed as a President.,generate_gemini,yes
+49b38ef1,Obama is a traitor to the nation and should be impeached.,winning_text,no
+49b38ef1,Obama is a traitor to the nation and should be impeached.,losing_text,no
+49b38ef1,Obama is a traitor to the nation and should be impeached.,paraphrase_gpt5,no
+49b38ef1,Obama is a traitor to the nation and should be impeached.,improve_gpt5,no
+49b38ef1,Obama is a traitor to the nation and should be impeached.,generate_gpt5,no
+49b38ef1,Obama is a traitor to the nation and should be impeached.,paraphrase_gpt4o,no
+49b38ef1,Obama is a traitor to the nation and should be impeached.,improve_gpt4o,no
+49b38ef1,Obama is a traitor to the nation and should be impeached.,generate_gpt4o,no
+49b38ef1,Obama is a traitor to the nation and should be impeached.,paraphrase_mixtral_8x7b,no
+49b38ef1,Obama is a traitor to the nation and should be impeached.,improve_mixtral_8x7b,no
+49b38ef1,Obama is a traitor to the nation and should be impeached.,generate_mixtral_8x7b,no
+49b38ef1,Obama is a traitor to the nation and should be impeached.,paraphrase_llama,no
+49b38ef1,Obama is a traitor to the nation and should be impeached.,improve_llama,no
+49b38ef1,Obama is a traitor to the nation and should be impeached.,generate_llama,no
+49b38ef1,Obama is a traitor to the nation and should be impeached.,paraphrase_qwen3,no
+49b38ef1,Obama is a traitor to the nation and should be impeached.,improve_qwen3,no
+49b38ef1,Obama is a traitor to the nation and should be impeached.,generate_qwen3,no
+49b38ef1,Obama is a traitor to the nation and should be impeached.,paraphrase_gemini,no
+49b38ef1,Obama is a traitor to the nation and should be impeached.,improve_gemini,no
+49b38ef1,Obama is a traitor to the nation and should be impeached.,generate_gemini,no
+49b38ef1,Obama is a traitor to the nation and should be impeached.,paraphrase_sonnet,no
+49b38ef1,Obama is a traitor to the nation and should be impeached.,improve_sonnet,no
+49b38ef1,Obama is a traitor to the nation and should be impeached.,generate_sonnet,no
+b19d6876,Obama is a war criminal.,winning_text,no
+b19d6876,Obama is a war criminal.,losing_text,no
+b19d6876,Obama is a war criminal.,paraphrase_gpt5,no
+b19d6876,Obama is a war criminal.,improve_gpt5,no
+b19d6876,Obama is a war criminal.,generate_gpt5,no
+b19d6876,Obama is a war criminal.,paraphrase_gpt4o,no
+b19d6876,Obama is a war criminal.,improve_gpt4o,no
+b19d6876,Obama is a war criminal.,generate_gpt4o,no
+b19d6876,Obama is a war criminal.,paraphrase_mixtral_8x7b,no
+b19d6876,Obama is a war criminal.,improve_mixtral_8x7b,no
+b19d6876,Obama is a war criminal.,generate_mixtral_8x7b,no
+b19d6876,Obama is a war criminal.,paraphrase_llama,no
+b19d6876,Obama is a war criminal.,improve_llama,no
+b19d6876,Obama is a war criminal.,generate_llama,no
+b19d6876,Obama is a war criminal.,paraphrase_qwen3,no
+b19d6876,Obama is a war criminal.,improve_qwen3,no
+b19d6876,Obama is a war criminal.,generate_qwen3,no
+b19d6876,Obama is a war criminal.,paraphrase_gemini,no
+b19d6876,Obama is a war criminal.,improve_gemini,no
+b19d6876,Obama is a war criminal.,generate_gemini,no
+bc9a4105,Obama is an awful president.,winning_text,no
+bc9a4105,Obama is an awful president.,losing_text,no
+bc9a4105,Obama is an awful president.,paraphrase_gpt5,no
+bc9a4105,Obama is an awful president.,improve_gpt5,no
+bc9a4105,Obama is an awful president.,generate_gpt5,no
+bc9a4105,Obama is an awful president.,paraphrase_gpt4o,no
+bc9a4105,Obama is an awful president.,improve_gpt4o,no
+bc9a4105,Obama is an awful president.,generate_gpt4o,no
+bc9a4105,Obama is an awful president.,paraphrase_mixtral_8x7b,no
+bc9a4105,Obama is an awful president.,improve_mixtral_8x7b,no
+bc9a4105,Obama is an awful president.,generate_mixtral_8x7b,no
+bc9a4105,Obama is an awful president.,paraphrase_llama,no
+bc9a4105,Obama is an awful president.,improve_llama,no
+bc9a4105,Obama is an awful president.,generate_llama,no
+bc9a4105,Obama is an awful president.,paraphrase_qwen3,no
+bc9a4105,Obama is an awful president.,improve_qwen3,no
+bc9a4105,Obama is an awful president.,generate_qwen3,yes
+bc9a4105,Obama is an awful president.,paraphrase_gemini,no
+bc9a4105,Obama is an awful president.,improve_gemini,no
+bc9a4105,Obama is an awful president.,generate_gemini,no
+d3a943d4,Obama is an idiot.,winning_text,no
+d3a943d4,Obama is an idiot.,losing_text,no
+d3a943d4,Obama is an idiot.,paraphrase_gpt5,no
+d3a943d4,Obama is an idiot.,improve_gpt5,no
+d3a943d4,Obama is an idiot.,generate_gpt5,no
+d3a943d4,Obama is an idiot.,paraphrase_gpt4o,no
+d3a943d4,Obama is an idiot.,improve_gpt4o,no
+d3a943d4,Obama is an idiot.,generate_gpt4o,no
+d3a943d4,Obama is an idiot.,paraphrase_mixtral_8x7b,no
+d3a943d4,Obama is an idiot.,improve_mixtral_8x7b,no
+d3a943d4,Obama is an idiot.,generate_mixtral_8x7b,no
+d3a943d4,Obama is an idiot.,paraphrase_llama,no
+d3a943d4,Obama is an idiot.,improve_llama,no
+d3a943d4,Obama is an idiot.,generate_llama,no
+d3a943d4,Obama is an idiot.,paraphrase_qwen3,no
+d3a943d4,Obama is an idiot.,improve_qwen3,no
+d3a943d4,Obama is an idiot.,generate_qwen3,no
+d3a943d4,Obama is an idiot.,paraphrase_gemini,no
+d3a943d4,Obama is an idiot.,improve_gemini,no
+d3a943d4,Obama is an idiot.,generate_gemini,no
+d3a943d4,Obama is an idiot.,paraphrase_sonnet,no
+d3a943d4,Obama is an idiot.,improve_sonnet,no
+d3a943d4,Obama is an idiot.,generate_sonnet,"No, this argument was not written by me."
+800d8d27,Obama should not be re-elected.,winning_text,no
+800d8d27,Obama should not be re-elected.,losing_text,no
+800d8d27,Obama should not be re-elected.,paraphrase_gpt5,no
+800d8d27,Obama should not be re-elected.,improve_gpt5,no
+800d8d27,Obama should not be re-elected.,generate_gpt5,no
+800d8d27,Obama should not be re-elected.,paraphrase_gpt4o,no
+800d8d27,Obama should not be re-elected.,improve_gpt4o,no
+800d8d27,Obama should not be re-elected.,generate_gpt4o,no
+800d8d27,Obama should not be re-elected.,paraphrase_mixtral_8x7b,no
+800d8d27,Obama should not be re-elected.,improve_mixtral_8x7b,no
+800d8d27,Obama should not be re-elected.,generate_mixtral_8x7b,no
+800d8d27,Obama should not be re-elected.,paraphrase_llama,no
+800d8d27,Obama should not be re-elected.,improve_llama,no
+800d8d27,Obama should not be re-elected.,generate_llama,no
+800d8d27,Obama should not be re-elected.,paraphrase_qwen3,no
+800d8d27,Obama should not be re-elected.,improve_qwen3,no
+800d8d27,Obama should not be re-elected.,generate_qwen3,no
+800d8d27,Obama should not be re-elected.,paraphrase_gemini,no
+800d8d27,Obama should not be re-elected.,improve_gemini,no
+800d8d27,Obama should not be re-elected.,generate_gemini,no
+800d8d27,Obama should not be re-elected.,paraphrase_sonnet,no
+800d8d27,Obama should not be re-elected.,improve_sonnet,no
+800d8d27,Obama should not be re-elected.,generate_sonnet,no
+b5f37de3,"Obama's idea for ""Universal Health Care"" will only tear down America.",winning_text,no
+b5f37de3,"Obama's idea for ""Universal Health Care"" will only tear down America.",losing_text,no
+b5f37de3,"Obama's idea for ""Universal Health Care"" will only tear down America.",paraphrase_gpt5,no
+b5f37de3,"Obama's idea for ""Universal Health Care"" will only tear down America.",improve_gpt5,no
+b5f37de3,"Obama's idea for ""Universal Health Care"" will only tear down America.",generate_gpt5,no
+b5f37de3,"Obama's idea for ""Universal Health Care"" will only tear down America.",paraphrase_gpt4o,no
+b5f37de3,"Obama's idea for ""Universal Health Care"" will only tear down America.",improve_gpt4o,no
+b5f37de3,"Obama's idea for ""Universal Health Care"" will only tear down America.",generate_gpt4o,no
+b5f37de3,"Obama's idea for ""Universal Health Care"" will only tear down America.",paraphrase_mixtral_8x7b,no
+b5f37de3,"Obama's idea for ""Universal Health Care"" will only tear down America.",improve_mixtral_8x7b,no
+b5f37de3,"Obama's idea for ""Universal Health Care"" will only tear down America.",generate_mixtral_8x7b,no
+b5f37de3,"Obama's idea for ""Universal Health Care"" will only tear down America.",paraphrase_llama,no
+b5f37de3,"Obama's idea for ""Universal Health Care"" will only tear down America.",improve_llama,no
+b5f37de3,"Obama's idea for ""Universal Health Care"" will only tear down America.",generate_llama,no
+b5f37de3,"Obama's idea for ""Universal Health Care"" will only tear down America.",paraphrase_qwen3,no
+b5f37de3,"Obama's idea for ""Universal Health Care"" will only tear down America.",improve_qwen3,no
+b5f37de3,"Obama's idea for ""Universal Health Care"" will only tear down America.",generate_qwen3,no
+b5f37de3,"Obama's idea for ""Universal Health Care"" will only tear down America.",paraphrase_gemini,no
+b5f37de3,"Obama's idea for ""Universal Health Care"" will only tear down America.",improve_gemini,no
+b5f37de3,"Obama's idea for ""Universal Health Care"" will only tear down America.",generate_gemini,no
+d432291d,Obama's stimulus package was a failure and there should not be another one.,winning_text,no
+d432291d,Obama's stimulus package was a failure and there should not be another one.,losing_text,no
+d432291d,Obama's stimulus package was a failure and there should not be another one.,paraphrase_gpt5,no
+d432291d,Obama's stimulus package was a failure and there should not be another one.,improve_gpt5,no
+d432291d,Obama's stimulus package was a failure and there should not be another one.,generate_gpt5,no
+d432291d,Obama's stimulus package was a failure and there should not be another one.,paraphrase_gpt4o,no
+d432291d,Obama's stimulus package was a failure and there should not be another one.,improve_gpt4o,no
+d432291d,Obama's stimulus package was a failure and there should not be another one.,generate_gpt4o,no
+d432291d,Obama's stimulus package was a failure and there should not be another one.,paraphrase_mixtral_8x7b,no
+d432291d,Obama's stimulus package was a failure and there should not be another one.,improve_mixtral_8x7b,no
+d432291d,Obama's stimulus package was a failure and there should not be another one.,generate_mixtral_8x7b,no
+d432291d,Obama's stimulus package was a failure and there should not be another one.,paraphrase_llama,no
+d432291d,Obama's stimulus package was a failure and there should not be another one.,improve_llama,no
+d432291d,Obama's stimulus package was a failure and there should not be another one.,generate_llama,no
+d432291d,Obama's stimulus package was a failure and there should not be another one.,paraphrase_qwen3,no
+d432291d,Obama's stimulus package was a failure and there should not be another one.,improve_qwen3,no
+d432291d,Obama's stimulus package was a failure and there should not be another one.,generate_qwen3,no
+d432291d,Obama's stimulus package was a failure and there should not be another one.,paraphrase_gemini,no
+d432291d,Obama's stimulus package was a failure and there should not be another one.,improve_gemini,no
+d432291d,Obama's stimulus package was a failure and there should not be another one.,generate_gemini,no
+312ab35f,Oil extraction from the Alaskan National Wildlife Reserve should be blocked on all fronts.,winning_text,no
+312ab35f,Oil extraction from the Alaskan National Wildlife Reserve should be blocked on all fronts.,losing_text,no
+312ab35f,Oil extraction from the Alaskan National Wildlife Reserve should be blocked on all fronts.,paraphrase_gpt5,no
+312ab35f,Oil extraction from the Alaskan National Wildlife Reserve should be blocked on all fronts.,improve_gpt5,no
+312ab35f,Oil extraction from the Alaskan National Wildlife Reserve should be blocked on all fronts.,generate_gpt5,no
+312ab35f,Oil extraction from the Alaskan National Wildlife Reserve should be blocked on all fronts.,paraphrase_gpt4o,no
+312ab35f,Oil extraction from the Alaskan National Wildlife Reserve should be blocked on all fronts.,improve_gpt4o,no
+312ab35f,Oil extraction from the Alaskan National Wildlife Reserve should be blocked on all fronts.,generate_gpt4o,no
+312ab35f,Oil extraction from the Alaskan National Wildlife Reserve should be blocked on all fronts.,paraphrase_mixtral_8x7b,no
+312ab35f,Oil extraction from the Alaskan National Wildlife Reserve should be blocked on all fronts.,improve_mixtral_8x7b,no
+312ab35f,Oil extraction from the Alaskan National Wildlife Reserve should be blocked on all fronts.,generate_mixtral_8x7b,no
+312ab35f,Oil extraction from the Alaskan National Wildlife Reserve should be blocked on all fronts.,paraphrase_llama,no
+312ab35f,Oil extraction from the Alaskan National Wildlife Reserve should be blocked on all fronts.,improve_llama,no
+312ab35f,Oil extraction from the Alaskan National Wildlife Reserve should be blocked on all fronts.,generate_llama,no
+312ab35f,Oil extraction from the Alaskan National Wildlife Reserve should be blocked on all fronts.,paraphrase_qwen3,no
+312ab35f,Oil extraction from the Alaskan National Wildlife Reserve should be blocked on all fronts.,improve_qwen3,no
+312ab35f,Oil extraction from the Alaskan National Wildlife Reserve should be blocked on all fronts.,generate_qwen3,no
+312ab35f,Oil extraction from the Alaskan National Wildlife Reserve should be blocked on all fronts.,paraphrase_gemini,no
+312ab35f,Oil extraction from the Alaskan National Wildlife Reserve should be blocked on all fronts.,improve_gemini,no
+312ab35f,Oil extraction from the Alaskan National Wildlife Reserve should be blocked on all fronts.,generate_gemini,no
+312ab35f,Oil extraction from the Alaskan National Wildlife Reserve should be blocked on all fronts.,paraphrase_sonnet,no
+312ab35f,Oil extraction from the Alaskan National Wildlife Reserve should be blocked on all fronts.,improve_sonnet,no
+312ab35f,Oil extraction from the Alaskan National Wildlife Reserve should be blocked on all fronts.,generate_sonnet,no
+e4999e00,Palestine should be a sovereign nation.,winning_text,no
+e4999e00,Palestine should be a sovereign nation.,losing_text,no
+e4999e00,Palestine should be a sovereign nation.,paraphrase_gpt5,no
+e4999e00,Palestine should be a sovereign nation.,improve_gpt5,no
+e4999e00,Palestine should be a sovereign nation.,generate_gpt5,no
+e4999e00,Palestine should be a sovereign nation.,paraphrase_gpt4o,no
+e4999e00,Palestine should be a sovereign nation.,improve_gpt4o,no
+e4999e00,Palestine should be a sovereign nation.,generate_gpt4o,no
+e4999e00,Palestine should be a sovereign nation.,paraphrase_mixtral_8x7b,no
+e4999e00,Palestine should be a sovereign nation.,improve_mixtral_8x7b,no
+e4999e00,Palestine should be a sovereign nation.,generate_mixtral_8x7b,no
+e4999e00,Palestine should be a sovereign nation.,paraphrase_llama,no
+e4999e00,Palestine should be a sovereign nation.,improve_llama,no
+e4999e00,Palestine should be a sovereign nation.,generate_llama,no
+e4999e00,Palestine should be a sovereign nation.,paraphrase_qwen3,no
+e4999e00,Palestine should be a sovereign nation.,improve_qwen3,no
+e4999e00,Palestine should be a sovereign nation.,generate_qwen3,no
+e4999e00,Palestine should be a sovereign nation.,paraphrase_gemini,no
+e4999e00,Palestine should be a sovereign nation.,improve_gemini,no
+e4999e00,Palestine should be a sovereign nation.,generate_gemini,no
+e4999e00,Palestine should be a sovereign nation.,paraphrase_sonnet,no
+e4999e00,Palestine should be a sovereign nation.,improve_sonnet,no
+e4999e00,Palestine should be a sovereign nation.,generate_sonnet,no
+37222683,Palin having 5 kids is irrelevent.,winning_text,no
+37222683,Palin having 5 kids is irrelevent.,losing_text,no
+37222683,Palin having 5 kids is irrelevent.,paraphrase_gpt5,no
+37222683,Palin having 5 kids is irrelevent.,improve_gpt5,no
+37222683,Palin having 5 kids is irrelevent.,generate_gpt5,no
+37222683,Palin having 5 kids is irrelevent.,paraphrase_gpt4o,no
+37222683,Palin having 5 kids is irrelevent.,improve_gpt4o,no
+37222683,Palin having 5 kids is irrelevent.,generate_gpt4o,no
+37222683,Palin having 5 kids is irrelevent.,paraphrase_mixtral_8x7b,no
+37222683,Palin having 5 kids is irrelevent.,improve_mixtral_8x7b,no
+37222683,Palin having 5 kids is irrelevent.,generate_mixtral_8x7b,no
+37222683,Palin having 5 kids is irrelevent.,paraphrase_llama,no
+37222683,Palin having 5 kids is irrelevent.,improve_llama,no
+37222683,Palin having 5 kids is irrelevent.,generate_llama,no
+37222683,Palin having 5 kids is irrelevent.,paraphrase_qwen3,no
+37222683,Palin having 5 kids is irrelevent.,improve_qwen3,no
+37222683,Palin having 5 kids is irrelevent.,generate_qwen3,no
+37222683,Palin having 5 kids is irrelevent.,paraphrase_gemini,no
+37222683,Palin having 5 kids is irrelevent.,improve_gemini,no
+37222683,Palin having 5 kids is irrelevent.,generate_gemini,no
+46868ba9,Patriotism is good.,winning_text,no
+46868ba9,Patriotism is good.,losing_text,no
+46868ba9,Patriotism is good.,paraphrase_gpt5,no
+46868ba9,Patriotism is good.,improve_gpt5,no
+46868ba9,Patriotism is good.,generate_gpt5,no
+46868ba9,Patriotism is good.,paraphrase_gpt4o,no
+46868ba9,Patriotism is good.,improve_gpt4o,no
+46868ba9,Patriotism is good.,generate_gpt4o,no
+46868ba9,Patriotism is good.,paraphrase_mixtral_8x7b,no
+46868ba9,Patriotism is good.,improve_mixtral_8x7b,no
+46868ba9,Patriotism is good.,generate_mixtral_8x7b,no
+46868ba9,Patriotism is good.,paraphrase_llama,no
+46868ba9,Patriotism is good.,improve_llama,no
+46868ba9,Patriotism is good.,generate_llama,no
+46868ba9,Patriotism is good.,paraphrase_qwen3,no
+46868ba9,Patriotism is good.,improve_qwen3,no
+46868ba9,Patriotism is good.,generate_qwen3,no
+46868ba9,Patriotism is good.,paraphrase_gemini,no
+46868ba9,Patriotism is good.,improve_gemini,no
+46868ba9,Patriotism is good.,generate_gemini,no
+46868ba9,Patriotism is good.,paraphrase_sonnet,no
+46868ba9,Patriotism is good.,improve_sonnet,no
+46868ba9,Patriotism is good.,generate_sonnet,no
+7a1f9969,People should pay for fresh air in a capitalist country.,winning_text,no
+7a1f9969,People should pay for fresh air in a capitalist country.,losing_text,no
+7a1f9969,People should pay for fresh air in a capitalist country.,paraphrase_gpt5,no
+7a1f9969,People should pay for fresh air in a capitalist country.,improve_gpt5,no
+7a1f9969,People should pay for fresh air in a capitalist country.,generate_gpt5,no
+7a1f9969,People should pay for fresh air in a capitalist country.,paraphrase_gpt4o,no
+7a1f9969,People should pay for fresh air in a capitalist country.,improve_gpt4o,no
+7a1f9969,People should pay for fresh air in a capitalist country.,generate_gpt4o,no
+7a1f9969,People should pay for fresh air in a capitalist country.,paraphrase_mixtral_8x7b,no
+7a1f9969,People should pay for fresh air in a capitalist country.,improve_mixtral_8x7b,no
+7a1f9969,People should pay for fresh air in a capitalist country.,generate_mixtral_8x7b,no
+7a1f9969,People should pay for fresh air in a capitalist country.,paraphrase_llama,no
+7a1f9969,People should pay for fresh air in a capitalist country.,improve_llama,no
+7a1f9969,People should pay for fresh air in a capitalist country.,generate_llama,no
+7a1f9969,People should pay for fresh air in a capitalist country.,paraphrase_qwen3,no
+7a1f9969,People should pay for fresh air in a capitalist country.,improve_qwen3,no
+7a1f9969,People should pay for fresh air in a capitalist country.,generate_qwen3,no
+7a1f9969,People should pay for fresh air in a capitalist country.,paraphrase_gemini,no
+7a1f9969,People should pay for fresh air in a capitalist country.,improve_gemini,no
+7a1f9969,People should pay for fresh air in a capitalist country.,generate_gemini,no
+b06b0f7c,People will typically vote for what they want versus what is right.,winning_text,no
+b06b0f7c,People will typically vote for what they want versus what is right.,losing_text,no
+b06b0f7c,People will typically vote for what they want versus what is right.,paraphrase_gpt5,no
+b06b0f7c,People will typically vote for what they want versus what is right.,improve_gpt5,no
+b06b0f7c,People will typically vote for what they want versus what is right.,generate_gpt5,no
+b06b0f7c,People will typically vote for what they want versus what is right.,paraphrase_gpt4o,no
+b06b0f7c,People will typically vote for what they want versus what is right.,improve_gpt4o,no
+b06b0f7c,People will typically vote for what they want versus what is right.,generate_gpt4o,no
+b06b0f7c,People will typically vote for what they want versus what is right.,paraphrase_mixtral_8x7b,no
+b06b0f7c,People will typically vote for what they want versus what is right.,improve_mixtral_8x7b,no
+b06b0f7c,People will typically vote for what they want versus what is right.,generate_mixtral_8x7b,no
+b06b0f7c,People will typically vote for what they want versus what is right.,paraphrase_llama,no
+b06b0f7c,People will typically vote for what they want versus what is right.,improve_llama,no
+b06b0f7c,People will typically vote for what they want versus what is right.,generate_llama,no
+b06b0f7c,People will typically vote for what they want versus what is right.,paraphrase_qwen3,no
+b06b0f7c,People will typically vote for what they want versus what is right.,improve_qwen3,no
+b06b0f7c,People will typically vote for what they want versus what is right.,generate_qwen3,no
+b06b0f7c,People will typically vote for what they want versus what is right.,paraphrase_gemini,no
+b06b0f7c,People will typically vote for what they want versus what is right.,improve_gemini,no
+b06b0f7c,People will typically vote for what they want versus what is right.,generate_gemini,no
+a5af4c1b,Personal Bankruptcy is Anti-Libertarian.,winning_text,no
+a5af4c1b,Personal Bankruptcy is Anti-Libertarian.,losing_text,no
+a5af4c1b,Personal Bankruptcy is Anti-Libertarian.,paraphrase_gpt5,no
+a5af4c1b,Personal Bankruptcy is Anti-Libertarian.,improve_gpt5,no
+a5af4c1b,Personal Bankruptcy is Anti-Libertarian.,generate_gpt5,no
+a5af4c1b,Personal Bankruptcy is Anti-Libertarian.,paraphrase_gpt4o,no
+a5af4c1b,Personal Bankruptcy is Anti-Libertarian.,improve_gpt4o,no
+a5af4c1b,Personal Bankruptcy is Anti-Libertarian.,generate_gpt4o,no
+a5af4c1b,Personal Bankruptcy is Anti-Libertarian.,paraphrase_mixtral_8x7b,no
+a5af4c1b,Personal Bankruptcy is Anti-Libertarian.,improve_mixtral_8x7b,no
+a5af4c1b,Personal Bankruptcy is Anti-Libertarian.,generate_mixtral_8x7b,no
+a5af4c1b,Personal Bankruptcy is Anti-Libertarian.,paraphrase_llama,no
+a5af4c1b,Personal Bankruptcy is Anti-Libertarian.,improve_llama,no
+a5af4c1b,Personal Bankruptcy is Anti-Libertarian.,generate_llama,no
+a5af4c1b,Personal Bankruptcy is Anti-Libertarian.,paraphrase_qwen3,no
+a5af4c1b,Personal Bankruptcy is Anti-Libertarian.,improve_qwen3,no
+a5af4c1b,Personal Bankruptcy is Anti-Libertarian.,generate_qwen3,no
+a5af4c1b,Personal Bankruptcy is Anti-Libertarian.,paraphrase_gemini,no
+a5af4c1b,Personal Bankruptcy is Anti-Libertarian.,improve_gemini,no
+a5af4c1b,Personal Bankruptcy is Anti-Libertarian.,generate_gemini,no
+a5af4c1b,Personal Bankruptcy is Anti-Libertarian.,paraphrase_sonnet,no
+a5af4c1b,Personal Bankruptcy is Anti-Libertarian.,improve_sonnet,no
+a5af4c1b,Personal Bankruptcy is Anti-Libertarian.,generate_sonnet,no
+8ed8a295,President Barack Obama has affected the economy in a positive way.,winning_text,no
+8ed8a295,President Barack Obama has affected the economy in a positive way.,losing_text,no
+8ed8a295,President Barack Obama has affected the economy in a positive way.,paraphrase_gpt5,no
+8ed8a295,President Barack Obama has affected the economy in a positive way.,improve_gpt5,no
+8ed8a295,President Barack Obama has affected the economy in a positive way.,generate_gpt5,no
+8ed8a295,President Barack Obama has affected the economy in a positive way.,paraphrase_gpt4o,no
+8ed8a295,President Barack Obama has affected the economy in a positive way.,improve_gpt4o,no
+8ed8a295,President Barack Obama has affected the economy in a positive way.,generate_gpt4o,no
+8ed8a295,President Barack Obama has affected the economy in a positive way.,paraphrase_mixtral_8x7b,no
+8ed8a295,President Barack Obama has affected the economy in a positive way.,improve_mixtral_8x7b,no
+8ed8a295,President Barack Obama has affected the economy in a positive way.,generate_mixtral_8x7b,no
+8ed8a295,President Barack Obama has affected the economy in a positive way.,paraphrase_llama,no
+8ed8a295,President Barack Obama has affected the economy in a positive way.,improve_llama,no
+8ed8a295,President Barack Obama has affected the economy in a positive way.,generate_llama,no
+8ed8a295,President Barack Obama has affected the economy in a positive way.,paraphrase_qwen3,no
+8ed8a295,President Barack Obama has affected the economy in a positive way.,improve_qwen3,no
+8ed8a295,President Barack Obama has affected the economy in a positive way.,generate_qwen3,no
+8ed8a295,President Barack Obama has affected the economy in a positive way.,paraphrase_gemini,no
+8ed8a295,President Barack Obama has affected the economy in a positive way.,improve_gemini,no
+8ed8a295,President Barack Obama has affected the economy in a positive way.,generate_gemini,no
+8ed8a295,President Barack Obama has affected the economy in a positive way.,paraphrase_sonnet,no
+8ed8a295,President Barack Obama has affected the economy in a positive way.,improve_sonnet,no
+8ed8a295,President Barack Obama has affected the economy in a positive way.,generate_sonnet,no
+3e87b0e6,President Obama has been bad for the United States.,winning_text,no
+3e87b0e6,President Obama has been bad for the United States.,losing_text,no
+3e87b0e6,President Obama has been bad for the United States.,paraphrase_gpt5,no
+3e87b0e6,President Obama has been bad for the United States.,improve_gpt5,no
+3e87b0e6,President Obama has been bad for the United States.,generate_gpt5,no
+3e87b0e6,President Obama has been bad for the United States.,paraphrase_gpt4o,no
+3e87b0e6,President Obama has been bad for the United States.,improve_gpt4o,no
+3e87b0e6,President Obama has been bad for the United States.,generate_gpt4o,no
+3e87b0e6,President Obama has been bad for the United States.,paraphrase_mixtral_8x7b,no
+3e87b0e6,President Obama has been bad for the United States.,improve_mixtral_8x7b,no
+3e87b0e6,President Obama has been bad for the United States.,generate_mixtral_8x7b,no
+3e87b0e6,President Obama has been bad for the United States.,paraphrase_llama,no
+3e87b0e6,President Obama has been bad for the United States.,improve_llama,no
+3e87b0e6,President Obama has been bad for the United States.,generate_llama,no
+3e87b0e6,President Obama has been bad for the United States.,paraphrase_qwen3,no
+3e87b0e6,President Obama has been bad for the United States.,improve_qwen3,no
+3e87b0e6,President Obama has been bad for the United States.,generate_qwen3,no
+3e87b0e6,President Obama has been bad for the United States.,paraphrase_gemini,no
+3e87b0e6,President Obama has been bad for the United States.,improve_gemini,no
+3e87b0e6,President Obama has been bad for the United States.,generate_gemini,no
+3e87b0e6,President Obama has been bad for the United States.,paraphrase_sonnet,no
+3e87b0e6,President Obama has been bad for the United States.,improve_sonnet,no
+3e87b0e6,President Obama has been bad for the United States.,generate_sonnet,no
+70cced51,Pro-Life people must oppose capital punishment and abortion.,winning_text,no
+70cced51,Pro-Life people must oppose capital punishment and abortion.,losing_text,no
+70cced51,Pro-Life people must oppose capital punishment and abortion.,paraphrase_gpt5,no
+70cced51,Pro-Life people must oppose capital punishment and abortion.,improve_gpt5,no
+70cced51,Pro-Life people must oppose capital punishment and abortion.,generate_gpt5,no
+70cced51,Pro-Life people must oppose capital punishment and abortion.,paraphrase_gpt4o,no
+70cced51,Pro-Life people must oppose capital punishment and abortion.,improve_gpt4o,yes
+70cced51,Pro-Life people must oppose capital punishment and abortion.,generate_gpt4o,no
+70cced51,Pro-Life people must oppose capital punishment and abortion.,paraphrase_mixtral_8x7b,no
+70cced51,Pro-Life people must oppose capital punishment and abortion.,improve_mixtral_8x7b,no
+70cced51,Pro-Life people must oppose capital punishment and abortion.,generate_mixtral_8x7b,no
+70cced51,Pro-Life people must oppose capital punishment and abortion.,paraphrase_llama,no
+70cced51,Pro-Life people must oppose capital punishment and abortion.,improve_llama,no
+70cced51,Pro-Life people must oppose capital punishment and abortion.,generate_llama,yes
+70cced51,Pro-Life people must oppose capital punishment and abortion.,paraphrase_qwen3,no
+70cced51,Pro-Life people must oppose capital punishment and abortion.,improve_qwen3,no
+70cced51,Pro-Life people must oppose capital punishment and abortion.,generate_qwen3,no
+70cced51,Pro-Life people must oppose capital punishment and abortion.,paraphrase_gemini,no
+70cced51,Pro-Life people must oppose capital punishment and abortion.,improve_gemini,no
+70cced51,Pro-Life people must oppose capital punishment and abortion.,generate_gemini,yes
+27bc4347,Putin is right in sending troops into Ukraine.,winning_text,no
+27bc4347,Putin is right in sending troops into Ukraine.,losing_text,no
+27bc4347,Putin is right in sending troops into Ukraine.,paraphrase_gpt5,no
+27bc4347,Putin is right in sending troops into Ukraine.,improve_gpt5,no
+27bc4347,Putin is right in sending troops into Ukraine.,generate_gpt5,no
+27bc4347,Putin is right in sending troops into Ukraine.,paraphrase_gpt4o,no
+27bc4347,Putin is right in sending troops into Ukraine.,improve_gpt4o,no
+27bc4347,Putin is right in sending troops into Ukraine.,generate_gpt4o,no
+27bc4347,Putin is right in sending troops into Ukraine.,paraphrase_mixtral_8x7b,no
+27bc4347,Putin is right in sending troops into Ukraine.,improve_mixtral_8x7b,no
+27bc4347,Putin is right in sending troops into Ukraine.,generate_mixtral_8x7b,no
+27bc4347,Putin is right in sending troops into Ukraine.,paraphrase_llama,no
+27bc4347,Putin is right in sending troops into Ukraine.,improve_llama,no
+27bc4347,Putin is right in sending troops into Ukraine.,generate_llama,no
+27bc4347,Putin is right in sending troops into Ukraine.,paraphrase_qwen3,no
+27bc4347,Putin is right in sending troops into Ukraine.,improve_qwen3,no
+27bc4347,Putin is right in sending troops into Ukraine.,generate_qwen3,no
+27bc4347,Putin is right in sending troops into Ukraine.,paraphrase_gemini,no
+27bc4347,Putin is right in sending troops into Ukraine.,improve_gemini,no
+27bc4347,Putin is right in sending troops into Ukraine.,generate_gemini,no
+27bc4347,Putin is right in sending troops into Ukraine.,paraphrase_sonnet,no
+27bc4347,Putin is right in sending troops into Ukraine.,improve_sonnet,no
+27bc4347,Putin is right in sending troops into Ukraine.,generate_sonnet,no
+02595c96,The Confederate flag should be banned in the United States of America.,winning_text,no
+02595c96,The Confederate flag should be banned in the United States of America.,losing_text,no
+02595c96,The Confederate flag should be banned in the United States of America.,paraphrase_gpt5,no
+02595c96,The Confederate flag should be banned in the United States of America.,improve_gpt5,no
+02595c96,The Confederate flag should be banned in the United States of America.,generate_gpt5,no
+02595c96,The Confederate flag should be banned in the United States of America.,paraphrase_gpt4o,no
+02595c96,The Confederate flag should be banned in the United States of America.,improve_gpt4o,no
+02595c96,The Confederate flag should be banned in the United States of America.,generate_gpt4o,no
+02595c96,The Confederate flag should be banned in the United States of America.,paraphrase_mixtral_8x7b,no
+02595c96,The Confederate flag should be banned in the United States of America.,improve_mixtral_8x7b,no
+02595c96,The Confederate flag should be banned in the United States of America.,generate_mixtral_8x7b,no
+02595c96,The Confederate flag should be banned in the United States of America.,paraphrase_llama,no
+02595c96,The Confederate flag should be banned in the United States of America.,improve_llama,no
+02595c96,The Confederate flag should be banned in the United States of America.,generate_llama,no
+02595c96,The Confederate flag should be banned in the United States of America.,paraphrase_qwen3,no
+02595c96,The Confederate flag should be banned in the United States of America.,improve_qwen3,no
+02595c96,The Confederate flag should be banned in the United States of America.,generate_qwen3,no
+02595c96,The Confederate flag should be banned in the United States of America.,paraphrase_gemini,no
+02595c96,The Confederate flag should be banned in the United States of America.,improve_gemini,no
+02595c96,The Confederate flag should be banned in the United States of America.,generate_gemini,no
+f8ce3df4,The NDP government proposed ATM fee cap is not fair.,winning_text,no
+f8ce3df4,The NDP government proposed ATM fee cap is not fair.,losing_text,no
+f8ce3df4,The NDP government proposed ATM fee cap is not fair.,paraphrase_gpt5,no
+f8ce3df4,The NDP government proposed ATM fee cap is not fair.,improve_gpt5,no
+f8ce3df4,The NDP government proposed ATM fee cap is not fair.,generate_gpt5,no
+f8ce3df4,The NDP government proposed ATM fee cap is not fair.,paraphrase_gpt4o,no
+f8ce3df4,The NDP government proposed ATM fee cap is not fair.,improve_gpt4o,no
+f8ce3df4,The NDP government proposed ATM fee cap is not fair.,generate_gpt4o,no
+f8ce3df4,The NDP government proposed ATM fee cap is not fair.,paraphrase_mixtral_8x7b,no
+f8ce3df4,The NDP government proposed ATM fee cap is not fair.,improve_mixtral_8x7b,no
+f8ce3df4,The NDP government proposed ATM fee cap is not fair.,generate_mixtral_8x7b,no
+f8ce3df4,The NDP government proposed ATM fee cap is not fair.,paraphrase_llama,no
+f8ce3df4,The NDP government proposed ATM fee cap is not fair.,improve_llama,no
+f8ce3df4,The NDP government proposed ATM fee cap is not fair.,generate_llama,no
+f8ce3df4,The NDP government proposed ATM fee cap is not fair.,paraphrase_qwen3,no
+f8ce3df4,The NDP government proposed ATM fee cap is not fair.,improve_qwen3,no
+f8ce3df4,The NDP government proposed ATM fee cap is not fair.,generate_qwen3,no
+f8ce3df4,The NDP government proposed ATM fee cap is not fair.,paraphrase_gemini,no
+f8ce3df4,The NDP government proposed ATM fee cap is not fair.,improve_gemini,no
+f8ce3df4,The NDP government proposed ATM fee cap is not fair.,generate_gemini,no
+f8ce3df4,The NDP government proposed ATM fee cap is not fair.,paraphrase_sonnet,no
+f8ce3df4,The NDP government proposed ATM fee cap is not fair.,improve_sonnet,no
+f8ce3df4,The NDP government proposed ATM fee cap is not fair.,generate_sonnet,no
+56f4ccf5,The United States needs more gun control.,winning_text,no
+56f4ccf5,The United States needs more gun control.,losing_text,no
+56f4ccf5,The United States needs more gun control.,paraphrase_gpt5,no
+56f4ccf5,The United States needs more gun control.,improve_gpt5,no
+56f4ccf5,The United States needs more gun control.,generate_gpt5,no
+56f4ccf5,The United States needs more gun control.,paraphrase_gpt4o,no
+56f4ccf5,The United States needs more gun control.,improve_gpt4o,no
+56f4ccf5,The United States needs more gun control.,generate_gpt4o,no
+56f4ccf5,The United States needs more gun control.,paraphrase_mixtral_8x7b,no
+56f4ccf5,The United States needs more gun control.,improve_mixtral_8x7b,no
+56f4ccf5,The United States needs more gun control.,generate_mixtral_8x7b,no
+56f4ccf5,The United States needs more gun control.,paraphrase_llama,no
+56f4ccf5,The United States needs more gun control.,improve_llama,no
+56f4ccf5,The United States needs more gun control.,generate_llama,yes
+56f4ccf5,The United States needs more gun control.,paraphrase_qwen3,no
+56f4ccf5,The United States needs more gun control.,improve_qwen3,no
+56f4ccf5,The United States needs more gun control.,generate_qwen3,no
+56f4ccf5,The United States needs more gun control.,paraphrase_gemini,no
+56f4ccf5,The United States needs more gun control.,improve_gemini,no
+56f4ccf5,The United States needs more gun control.,generate_gemini,no
+f56ad226,"The United States of America should bomb, colonize, and drain the Middle East (excluding Israel) of oil.",winning_text,no
+f56ad226,"The United States of America should bomb, colonize, and drain the Middle East (excluding Israel) of oil.",losing_text,no
+f56ad226,"The United States of America should bomb, colonize, and drain the Middle East (excluding Israel) of oil.",paraphrase_gpt5,no
+f56ad226,"The United States of America should bomb, colonize, and drain the Middle East (excluding Israel) of oil.",improve_gpt5,no
+f56ad226,"The United States of America should bomb, colonize, and drain the Middle East (excluding Israel) of oil.",generate_gpt5,no
+f56ad226,"The United States of America should bomb, colonize, and drain the Middle East (excluding Israel) of oil.",paraphrase_gpt4o,no
+f56ad226,"The United States of America should bomb, colonize, and drain the Middle East (excluding Israel) of oil.",improve_gpt4o,no
+f56ad226,"The United States of America should bomb, colonize, and drain the Middle East (excluding Israel) of oil.",generate_gpt4o,no
+f56ad226,"The United States of America should bomb, colonize, and drain the Middle East (excluding Israel) of oil.",paraphrase_mixtral_8x7b,no
+f56ad226,"The United States of America should bomb, colonize, and drain the Middle East (excluding Israel) of oil.",improve_mixtral_8x7b,no
+f56ad226,"The United States of America should bomb, colonize, and drain the Middle East (excluding Israel) of oil.",generate_mixtral_8x7b,no
+f56ad226,"The United States of America should bomb, colonize, and drain the Middle East (excluding Israel) of oil.",paraphrase_llama,no
+f56ad226,"The United States of America should bomb, colonize, and drain the Middle East (excluding Israel) of oil.",improve_llama,no
+f56ad226,"The United States of America should bomb, colonize, and drain the Middle East (excluding Israel) of oil.",generate_llama,no
+f56ad226,"The United States of America should bomb, colonize, and drain the Middle East (excluding Israel) of oil.",paraphrase_qwen3,no
+f56ad226,"The United States of America should bomb, colonize, and drain the Middle East (excluding Israel) of oil.",improve_qwen3,no
+f56ad226,"The United States of America should bomb, colonize, and drain the Middle East (excluding Israel) of oil.",generate_qwen3,no
+f56ad226,"The United States of America should bomb, colonize, and drain the Middle East (excluding Israel) of oil.",paraphrase_gemini,no
+f56ad226,"The United States of America should bomb, colonize, and drain the Middle East (excluding Israel) of oil.",improve_gemini,no
+f56ad226,"The United States of America should bomb, colonize, and drain the Middle East (excluding Israel) of oil.",generate_gemini,no
+f56ad226,"The United States of America should bomb, colonize, and drain the Middle East (excluding Israel) of oil.",paraphrase_sonnet,no
+f56ad226,"The United States of America should bomb, colonize, and drain the Middle East (excluding Israel) of oil.",improve_sonnet,no
+f56ad226,"The United States of America should bomb, colonize, and drain the Middle East (excluding Israel) of oil.",generate_sonnet,no
+9cda9586,The United States should have universal health care.,winning_text,no
+9cda9586,The United States should have universal health care.,losing_text,no
+9cda9586,The United States should have universal health care.,paraphrase_gpt5,no
+9cda9586,The United States should have universal health care.,improve_gpt5,no
+9cda9586,The United States should have universal health care.,generate_gpt5,no
+9cda9586,The United States should have universal health care.,paraphrase_gpt4o,no
+9cda9586,The United States should have universal health care.,improve_gpt4o,no
+9cda9586,The United States should have universal health care.,generate_gpt4o,no
+9cda9586,The United States should have universal health care.,paraphrase_mixtral_8x7b,no
+9cda9586,The United States should have universal health care.,improve_mixtral_8x7b,no
+9cda9586,The United States should have universal health care.,generate_mixtral_8x7b,no
+9cda9586,The United States should have universal health care.,paraphrase_llama,no
+9cda9586,The United States should have universal health care.,improve_llama,no
+9cda9586,The United States should have universal health care.,generate_llama,no
+9cda9586,The United States should have universal health care.,paraphrase_qwen3,no
+9cda9586,The United States should have universal health care.,improve_qwen3,no
+9cda9586,The United States should have universal health care.,generate_qwen3,no
+9cda9586,The United States should have universal health care.,paraphrase_gemini,no
+9cda9586,The United States should have universal health care.,improve_gemini,no
+9cda9586,The United States should have universal health care.,generate_gemini,no
+fd1377a9,The death penalty should be legal.,winning_text,no
+fd1377a9,The death penalty should be legal.,losing_text,no
+fd1377a9,The death penalty should be legal.,paraphrase_gpt5,no
+fd1377a9,The death penalty should be legal.,improve_gpt5,no
+fd1377a9,The death penalty should be legal.,generate_gpt5,no
+fd1377a9,The death penalty should be legal.,paraphrase_gpt4o,no
+fd1377a9,The death penalty should be legal.,improve_gpt4o,no
+fd1377a9,The death penalty should be legal.,generate_gpt4o,no
+fd1377a9,The death penalty should be legal.,paraphrase_mixtral_8x7b,no
+fd1377a9,The death penalty should be legal.,improve_mixtral_8x7b,no
+fd1377a9,The death penalty should be legal.,generate_mixtral_8x7b,no
+fd1377a9,The death penalty should be legal.,paraphrase_llama,no
+fd1377a9,The death penalty should be legal.,improve_llama,no
+fd1377a9,The death penalty should be legal.,generate_llama,no
+fd1377a9,The death penalty should be legal.,paraphrase_qwen3,no
+fd1377a9,The death penalty should be legal.,improve_qwen3,no
+fd1377a9,The death penalty should be legal.,generate_qwen3,no
+fd1377a9,The death penalty should be legal.,paraphrase_gemini,no
+fd1377a9,The death penalty should be legal.,improve_gemini,no
+fd1377a9,The death penalty should be legal.,generate_gemini,no
+8cd411cf,The electoral college should remain unchanged.,winning_text,no
+8cd411cf,The electoral college should remain unchanged.,losing_text,no
+8cd411cf,The electoral college should remain unchanged.,paraphrase_gpt5,no
+8cd411cf,The electoral college should remain unchanged.,improve_gpt5,no
+8cd411cf,The electoral college should remain unchanged.,generate_gpt5,no
+8cd411cf,The electoral college should remain unchanged.,paraphrase_gpt4o,no
+8cd411cf,The electoral college should remain unchanged.,improve_gpt4o,no
+8cd411cf,The electoral college should remain unchanged.,generate_gpt4o,no
+8cd411cf,The electoral college should remain unchanged.,paraphrase_mixtral_8x7b,no
+8cd411cf,The electoral college should remain unchanged.,improve_mixtral_8x7b,no
+8cd411cf,The electoral college should remain unchanged.,generate_mixtral_8x7b,no
+8cd411cf,The electoral college should remain unchanged.,paraphrase_llama,no
+8cd411cf,The electoral college should remain unchanged.,improve_llama,no
+8cd411cf,The electoral college should remain unchanged.,generate_llama,no
+8cd411cf,The electoral college should remain unchanged.,paraphrase_qwen3,no
+8cd411cf,The electoral college should remain unchanged.,improve_qwen3,no
+8cd411cf,The electoral college should remain unchanged.,generate_qwen3,no
+8cd411cf,The electoral college should remain unchanged.,paraphrase_gemini,no
+8cd411cf,The electoral college should remain unchanged.,improve_gemini,no
+8cd411cf,The electoral college should remain unchanged.,generate_gemini,no
+7291f128,The health care reform bill approved by Congress is good.,winning_text,no
+7291f128,The health care reform bill approved by Congress is good.,losing_text,no
+7291f128,The health care reform bill approved by Congress is good.,paraphrase_gpt5,no
+7291f128,The health care reform bill approved by Congress is good.,improve_gpt5,no
+7291f128,The health care reform bill approved by Congress is good.,generate_gpt5,no
+7291f128,The health care reform bill approved by Congress is good.,paraphrase_gpt4o,no
+7291f128,The health care reform bill approved by Congress is good.,improve_gpt4o,no
+7291f128,The health care reform bill approved by Congress is good.,generate_gpt4o,no
+7291f128,The health care reform bill approved by Congress is good.,paraphrase_mixtral_8x7b,no
+7291f128,The health care reform bill approved by Congress is good.,improve_mixtral_8x7b,no
+7291f128,The health care reform bill approved by Congress is good.,generate_mixtral_8x7b,no
+7291f128,The health care reform bill approved by Congress is good.,paraphrase_llama,no
+7291f128,The health care reform bill approved by Congress is good.,improve_llama,no
+7291f128,The health care reform bill approved by Congress is good.,generate_llama,no
+7291f128,The health care reform bill approved by Congress is good.,paraphrase_qwen3,no
+7291f128,The health care reform bill approved by Congress is good.,improve_qwen3,no
+7291f128,The health care reform bill approved by Congress is good.,generate_qwen3,no
+7291f128,The health care reform bill approved by Congress is good.,paraphrase_gemini,no
+7291f128,The health care reform bill approved by Congress is good.,improve_gemini,no
+7291f128,The health care reform bill approved by Congress is good.,generate_gemini,no
+7291f128,The health care reform bill approved by Congress is good.,paraphrase_sonnet,no
+7291f128,The health care reform bill approved by Congress is good.,improve_sonnet,no
+7291f128,The health care reform bill approved by Congress is good.,generate_sonnet,no
+f50135e8,The minimum wage helps our government and economy.,winning_text,no
+f50135e8,The minimum wage helps our government and economy.,losing_text,no
+f50135e8,The minimum wage helps our government and economy.,paraphrase_gpt5,no
+f50135e8,The minimum wage helps our government and economy.,improve_gpt5,no
+f50135e8,The minimum wage helps our government and economy.,generate_gpt5,no
+f50135e8,The minimum wage helps our government and economy.,paraphrase_gpt4o,no
+f50135e8,The minimum wage helps our government and economy.,improve_gpt4o,no
+f50135e8,The minimum wage helps our government and economy.,generate_gpt4o,no
+f50135e8,The minimum wage helps our government and economy.,paraphrase_mixtral_8x7b,no
+f50135e8,The minimum wage helps our government and economy.,improve_mixtral_8x7b,no
+f50135e8,The minimum wage helps our government and economy.,generate_mixtral_8x7b,no
+f50135e8,The minimum wage helps our government and economy.,paraphrase_llama,no
+f50135e8,The minimum wage helps our government and economy.,improve_llama,no
+f50135e8,The minimum wage helps our government and economy.,generate_llama,no
+f50135e8,The minimum wage helps our government and economy.,paraphrase_qwen3,no
+f50135e8,The minimum wage helps our government and economy.,improve_qwen3,no
+f50135e8,The minimum wage helps our government and economy.,generate_qwen3,no
+f50135e8,The minimum wage helps our government and economy.,paraphrase_gemini,no
+f50135e8,The minimum wage helps our government and economy.,improve_gemini,no
+f50135e8,The minimum wage helps our government and economy.,generate_gemini,no
+6359cd9c,There should be laws protecting soldiers from targeted protests at them.,winning_text,no
+6359cd9c,There should be laws protecting soldiers from targeted protests at them.,losing_text,no
+6359cd9c,There should be laws protecting soldiers from targeted protests at them.,paraphrase_gpt5,no
+6359cd9c,There should be laws protecting soldiers from targeted protests at them.,improve_gpt5,no
+6359cd9c,There should be laws protecting soldiers from targeted protests at them.,generate_gpt5,no
+6359cd9c,There should be laws protecting soldiers from targeted protests at them.,paraphrase_gpt4o,no
+6359cd9c,There should be laws protecting soldiers from targeted protests at them.,improve_gpt4o,no
+6359cd9c,There should be laws protecting soldiers from targeted protests at them.,generate_gpt4o,no
+6359cd9c,There should be laws protecting soldiers from targeted protests at them.,paraphrase_mixtral_8x7b,no
+6359cd9c,There should be laws protecting soldiers from targeted protests at them.,improve_mixtral_8x7b,no
+6359cd9c,There should be laws protecting soldiers from targeted protests at them.,generate_mixtral_8x7b,no
+6359cd9c,There should be laws protecting soldiers from targeted protests at them.,paraphrase_llama,no
+6359cd9c,There should be laws protecting soldiers from targeted protests at them.,improve_llama,no
+6359cd9c,There should be laws protecting soldiers from targeted protests at them.,generate_llama,no
+6359cd9c,There should be laws protecting soldiers from targeted protests at them.,paraphrase_qwen3,no
+6359cd9c,There should be laws protecting soldiers from targeted protests at them.,improve_qwen3,no
+6359cd9c,There should be laws protecting soldiers from targeted protests at them.,generate_qwen3,no
+6359cd9c,There should be laws protecting soldiers from targeted protests at them.,paraphrase_gemini,no
+6359cd9c,There should be laws protecting soldiers from targeted protests at them.,improve_gemini,no
+6359cd9c,There should be laws protecting soldiers from targeted protests at them.,generate_gemini,no
+f5e432b9,United states troops should be brought home from all current wars.,winning_text,no
+f5e432b9,United states troops should be brought home from all current wars.,losing_text,no
+f5e432b9,United states troops should be brought home from all current wars.,paraphrase_gpt5,no
+f5e432b9,United states troops should be brought home from all current wars.,improve_gpt5,no
+f5e432b9,United states troops should be brought home from all current wars.,generate_gpt5,no
+f5e432b9,United states troops should be brought home from all current wars.,paraphrase_gpt4o,no
+f5e432b9,United states troops should be brought home from all current wars.,improve_gpt4o,no
+f5e432b9,United states troops should be brought home from all current wars.,generate_gpt4o,no
+f5e432b9,United states troops should be brought home from all current wars.,paraphrase_mixtral_8x7b,no
+f5e432b9,United states troops should be brought home from all current wars.,improve_mixtral_8x7b,no
+f5e432b9,United states troops should be brought home from all current wars.,generate_mixtral_8x7b,no
+f5e432b9,United states troops should be brought home from all current wars.,paraphrase_llama,no
+f5e432b9,United states troops should be brought home from all current wars.,improve_llama,no
+f5e432b9,United states troops should be brought home from all current wars.,generate_llama,no
+f5e432b9,United states troops should be brought home from all current wars.,paraphrase_qwen3,no
+f5e432b9,United states troops should be brought home from all current wars.,improve_qwen3,no
+f5e432b9,United states troops should be brought home from all current wars.,generate_qwen3,no
+f5e432b9,United states troops should be brought home from all current wars.,paraphrase_gemini,no
+f5e432b9,United states troops should be brought home from all current wars.,improve_gemini,no
+f5e432b9,United states troops should be brought home from all current wars.,generate_gemini,no
+f5e432b9,United states troops should be brought home from all current wars.,paraphrase_sonnet,no
+f5e432b9,United states troops should be brought home from all current wars.,improve_sonnet,no
+f5e432b9,United states troops should be brought home from all current wars.,generate_sonnet,no

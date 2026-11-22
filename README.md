@@ -10,6 +10,22 @@ The experiments compare human source text with model-edited or generated variant
 
 The presence of a preference in an experiment should not by itself be read as evidence of a causal mechanism or model intent.
 
+## Run the experiments with Together AI
+
+| Notebook | Human inputs |
+| --- | --- |
+| [Debate arguments](arguments_1_dataset/arguments_together.ipynb) | 106 curated Debate.org pairs in `arguments_original.csv`. [Corpus paper](https://aclanthology.org/P19-1057/) · [DDO archive](https://doi.org/10.6084/m9.figshare.28327019) |
+| [Scientific abstract summaries](abstracts_2_dataset/abstracts_together.ipynb) | 327 first-generation summary pairs in `abstracts_original.csv`. [MDIC source data](https://github.com/epfl-dlab/mdic/tree/f0c76aad5517a94c871b6dfd47601bac0b94fd78/data) |
+| [Reddit comments](comments_3_dataset/comments_together.ipynb) | The same 300 AskAcademia training pairs as the archived results, reconstructed from [post and comment IDs](comments_3_dataset/shp_pair_ids.csv). [Stanford Human Preferences](https://huggingface.co/datasets/stanfordnlp/SHP) |
+
+Open a notebook from the cloned repository with Jupyter and Python 3.10 or later. Run all cells to preview one pair. Set `RUN_LIVE = True` and provide `TOGETHER_API_KEY` via the environment or hidden input prompt. Set `ROW_LIMIT = None` to process the full prepared sample.
+
+The default serverless model is Qwen3.5 9B. To use Mixtral 8x7B Instruct, set `TOGETHER_MIXTRAL_ENDPOINT` to the Together endpoint string and include `mixtral_8x7b` in `MODEL_ALIASES`. For an endpoint serving the original Qwen3, use `TOGETHER_QWEN3_ENDPOINT` and `qwen3`. Requests use `temperature=0` and leave the output-token limit to Together. [Available models](https://docs.together.ai/docs/serverless/models) · [Deprecations](https://docs.together.ai/docs/deprecations) · [Dedicated endpoints](https://docs.together.ai/docs/dedicated-endpoints/quickstart)
+
+Each notebook prepares the human pairs, generates three levels of rewrite, runs single-text and pairwise self-recognition, scores text with and without researcher instructions, generates and applies rubrics, and records five pairwise preference votes. Run tables and resumable checkpoints are written under `runs/`.
+
+The arguments and abstracts notebooks include the recovered preparation steps for the study's saved inputs. The comments manifest matches all 300 archived UUIDs to the corresponding Reddit post and comment IDs. The comments notebook follows the SHP preference definition, where 1 prefers comment A and 0 prefers B. The historical preprocessing reversed these labels. Set `REPLAY_ARCHIVED_ORDER = True` to use the historical order. The new prompts use the original Reddit post as context.
+
 ## Browse the experiments and data
 
 | Folder | Contents |
@@ -134,17 +150,19 @@ which holds the per-model `rubric_<model>/` subfolders alongside the `RUBRIC_<mo
 
 ---
 
-## Models Used in This Research
+## Model labels in the historical results
 
-The following models were used in this research:
+Historical results use these model names and families.
 
 - GPT-5 Nano API
 - GPT-4o Mini API
 - Claude Sonnet 4.5 API
 - Gemini 2.5 Flash API
-- Qwen3 8B
+- Qwen
 - Llama 3.1 8B
 - Mixtral 8x7B
+
+Historical file names, source columns and result-table labels use `qwen3` and `mixtral_8x7b` for the two model families. The earlier runs include Qwen2.5 7B and Mistral 7B measurements. For a cross-version analysis, consult the original model IDs and run metadata in the archived outputs. New notebook runs record the endpoint or model ID with each result. [Results before the label update](https://github.com/aimyr/Giuseppe_Aimer_research/tree/0b7b90567ac4fac915389b366544351826d2dcf0)
 
 ## CSV Column Descriptions
 
@@ -223,7 +241,7 @@ This section explains the meaning of the columns used in the CSV files across di
 ### 3. One Abstract Scoring
 
 **Example file:**  
-`abstracts_2_dataset/scoring/one_abstract_scoring/scoring_qwen_instruct.csv`
+`abstracts_2_dataset/scoring/one_abstract_scoring/scoring_qwen3_instruct.csv`
 
 #### Columns
 
@@ -259,7 +277,7 @@ The exact interpretation may depend on the prompt or rubric used in that specifi
 ### 4. Pairwise Preference Scoring
 
 **Example file:**  
-`abstracts_2_dataset/preference/preference_between_2_abstracts/preference_mistral_combined.csv`
+`abstracts_2_dataset/preference/preference_between_2_abstracts/preference_mixtral_8x7b_combined.csv`
 
 #### Columns
 
@@ -319,10 +337,10 @@ The exact interpretation may depend on the prompt or rubric used in that specifi
 
 - **rubric_file**  
   The rubric or instruction file used during evaluation.  
-  Example: `RUBRIC_INT_qwen1.csv`
+  Example: `RUBRIC_INT_qwen3_1.csv`
 
 - **model_used**  
-  The model that produced the score in this file.  
+  The model identifier or standardized model label recorded with the score.
   Example: `claude-sonnet-4-5-20250929`
 
 - **score**  
@@ -336,9 +354,9 @@ The exact interpretation may depend on the prompt or rubric used in that specifi
 - Columns such as **answer_direct** and **answer_swapped** are used to test whether model judgments are stable when the presentation order changes.
 - Columns such as **rubric_file** indicate which external rubric or instruction set was used during evaluation.
 
-## Experiment code
+## Earlier experiment scripts
 
-The repository includes working scripts for the comments dataset and Gemini experiments. A pinned environment and a single end-to-end reproduction command are not yet supplied; review each script's input paths, model settings, and credential requirements before running an experiment.
+The earlier comments and Gemini scripts document the provider-specific workflows used to produce historical outputs. The Together AI notebooks above contain the current end-to-end workflow.
 
 Gemini scripts in `gemini_code_for_giuseppe_to_run/seq/` require `GEMINI_API_KEY` to be set in the process environment. Do not add a real key to source files. Historical hardcoded keys have been removed from the current scripts; any previously exposed key must be rotated by its owner.
 

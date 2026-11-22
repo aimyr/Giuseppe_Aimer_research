@@ -5,3 +5,7 @@ __pycache__/
 .env.*
 !.env.example
 .venv/
+.ipynb_checkpoints/
+/raw_data/
+/runs/
+/dataset3.csv
