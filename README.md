@@ -34,8 +34,10 @@ The arguments and abstracts notebooks include the recovered preparation steps fo
 | --- | --- |
 | [arguments_1_dataset](arguments_1_dataset/) | Debate-argument evaluation outputs |
 | [abstracts_2_dataset](abstracts_2_dataset/) | Research-abstract evaluation outputs |
-| [comments_3_dataset](comments_3_dataset/) | Comment evaluation outputs |
+| [comments_3_dataset](comments_3_dataset/) | Comment evaluation outputs and the [original dataset](comments_3_dataset/dataset3.csv) |
 | [code](code/) | Together AI notebooks, setup and archived experiment scripts |
+
+The original comments CSV contains the 300 archived pairs and all 6,299 evaluated AI versions. Match its `id` to `row_id` in the pairwise preference files, then use `A_source` or `B_source` to find the text column. The original suffixes `_qwen` and `_mistral` correspond to `_qwen3` and `_mixtral_8x7b` in the evaluation tables. The CSV uses the archived SHP pair order.
 
 The dataset and column guide below explains the existing file layout. Names such as `lama`, `sonnet4.5`, and `self_recognition_with_one_abstract` are retained where they occur in the original files, including legacy names under the arguments directory.
 
