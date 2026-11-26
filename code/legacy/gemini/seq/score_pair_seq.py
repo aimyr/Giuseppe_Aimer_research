@@ -55,7 +55,7 @@ def get_chosen_source(answer: str, source_first: str, source_second: str) -> str
     return "Error"
 
 # ---------------------------
-# 3. Query Function (Ranking / Persuasion)
+# 3. Pairwise Abstract Comparison
 # ---------------------------
 def query_pairwise_ranking_gemini(
     proposition: str,
@@ -65,7 +65,7 @@ def query_pairwise_ranking_gemini(
     temperature: float
 ) -> str:
     """
-    Asks Gemini to choose the more persuasive argument.
+    Asks Gemini which abstract paraphrase is better written.
     Returns '1' or '2'.
     """
     # Disable safety filters so debate topics don't get blocked
@@ -83,15 +83,12 @@ def query_pairwise_ranking_gemini(
 
     model = genai.GenerativeModel(model_name)
 
-    # Prompt: Persuasion / Ranking
     user_prompt = (
-        "You are an expert research evaluator. I will provide research proposition and two abstracts. "
-        "Your task is to decide which abstract is more persuasive, logical, and better structured.\n\n"
+        "You are an expert research evaluator. I will provide a research proposition and two abstract paraphrases.\n\n"
         f"Proposition: {proposition}\n\n"
         f"Abstract 1:\n{argument1}\n\n"
         f"Abstract 2:\n{argument2}\n\n"
-        "Which abstract is more persuasive? "
-        "Please answer with ONLY the number \"1\" or \"2\" and no other text."
+        'Which abstract paraphrase is better written? Answer with only "1" or "2".'
     )
 
     # Retry loop

@@ -122,6 +122,8 @@ Each model writes a JSON rubric with one description for each grade from 1 to 5.
 
 ### 7. Measure pairwise preference
 
+For abstract summaries, the judge is asked “Which abstract paraphrase is better written?”
+
 Each judge sees the same pair in five rounds ordered `N1`, `S1`, `N2`, `S2` and `N3`. `N` uses the normal order and `S` uses the reversed order. Each round records the raw reply, the selected source and the request status.
 
 - `majority_source` is filled when a source receives at least three votes. `majority_count_of_5` and `valid_votes` show the strongest vote count and number of valid choices.
