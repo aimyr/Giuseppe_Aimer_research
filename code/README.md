@@ -83,7 +83,7 @@ Generation preserves the population, interventions or exposures, comparisons, ou
 
 The notebook matches the 300 archived row UUIDs to the same `r/AskAcademia` training pairs by Reddit post ID and both comment IDs. It reads the pinned SHP JSONL until it has found all matches and caches them under `raw_data/`. Set `SHP_INPUT` to a local copy of the SHP JSONL or the original `3rd_dataset.csv` to read the inputs offline. [Pair manifest](../comments_3_dataset/shp_pair_ids.csv) · [SHP data and field definitions](https://huggingface.co/datasets/stanfordnlp/SHP)
 
-The default SHP ordering follows its published labels. `1` prefers comment A and `0` prefers comment B. Set `REPLAY_ARCHIVED_ORDER = True` to reproduce the orientation used in the earlier runs. The full Reddit post is the context. The export carries the post ID, comment IDs, Reddit scores, SHP label and selected ordering.
+The default SHP ordering follows its published labels. `1` prefers comment A and `0` prefers comment B. Under `REPLAY_ARCHIVED_ORDER = False`, generation uses the SHP-less-preferred reply. Set `REPLAY_ARCHIVED_ORDER = True` to use the SHP-preferred reply, as the archived paraphrase and improve tasks did. The full Reddit post is the context. The export carries the post ID, comment IDs, Reddit scores, SHP label and selected ordering. The notebook's final cell verifies archive coverage and reply order with `RUN_LIVE = False`. [Comments dataset audit](../comments_3_dataset/README.md)
 
 Generation preserves the author's viewpoint, advice and intended tone. Researcher-guided scoring weighs helpfulness, clarity, relevance and appropriateness of tone equally.
 

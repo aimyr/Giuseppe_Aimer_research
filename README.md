@@ -4,6 +4,8 @@ Research collaboration between **Aimer Koshmambetov and Dr. Giuseppe Russo**, in
 
 **Status: ongoing research; manuscript in progress.** The files here are working experiment outputs and scripts, not final published findings.
 
+**Comments dataset.** The archive includes all 6,299 evaluated AI texts. The historical paraphrase and improve tasks rewrote the SHP-preferred reply. The notebook defaults to the SHP-less-preferred reply for a new run. [Pairing and text coverage audit](comments_3_dataset/README.md)
+
 ## Research focus
 
 The experiments compare human source text with model-edited or generated variants across debate arguments, research abstracts, and comments. Evaluation tasks include single-text scoring, pairwise preference, self-recognition, and scoring under model-generated rubrics. The aim is to examine whether authorship recognition and perceived quality are related, while considering presentation order and rubric effects.
@@ -34,7 +36,7 @@ The arguments and abstracts notebooks include the recovered preparation steps fo
 | --- | --- |
 | [arguments_1_dataset](arguments_1_dataset/) | Debate-argument evaluation outputs |
 | [abstracts_2_dataset](abstracts_2_dataset/) | Research-abstract evaluation outputs |
-| [comments_3_dataset](comments_3_dataset/) | Comment evaluation outputs and the [original dataset](comments_3_dataset/dataset3.csv) |
+| [comments_3_dataset](comments_3_dataset/) | [Archived comment texts](comments_3_dataset/dataset3.csv), evaluation outputs and the [pairing audit](comments_3_dataset/README.md) |
 | [code](code/) | Together AI notebooks, setup and archived experiment scripts |
 
 The original comments CSV contains the 300 archived pairs and all 6,299 evaluated AI versions. Match its `id` to `row_id` in the pairwise preference files, then use `A_source` or `B_source` to find the text column. The original suffixes `_qwen` and `_mistral` correspond to `_qwen3` and `_mixtral_8x7b` in the evaluation tables. The CSV uses the archived SHP pair order.
